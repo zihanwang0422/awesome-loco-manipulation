@@ -22,1646 +22,295 @@
 
 ## 6.1 Dexterous Grasping
 
-<table width="100%">
-  <colgroup>
-    <col width="55%">
-    <col width="10%">
-    <col width="15%">
-    <col width="20%">
-  </colgroup>
-  <thead>
-    <tr>
-      <th align="center">Title</th>
-      <th align="center">Year</th>
-      <th align="center">Paper</th>
-      <th align="center">GitHub</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">UniDexFPM</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2403.12421">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">DexGrasp Anything</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2503.08257">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">DexGraspVLA</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2502.20900">Paper</a></td>
-      <td align="center"><a href="https://github.com/Psi-Robot/DexGraspVLA">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">DexGraspVLA</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2502.20900">Paper</a></td>
-      <td align="center"><a href="https://github.com/Psi-Robot/DexGraspVLA">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">MoDex</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2606.05407">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"><a href="#table-of-contents">Back to top ↑</a></td>
-    </tr>
-  </tbody>
-</table>
+| Year | Title | Paper | Code/Page |
+|:----------:|-------|-------|-------|
+| 2024 | **UniDexFPM** | [Paper](https://arxiv.org/abs/2403.12421) | — |
+| 2025 | **DexGrasp Anything** | [Paper](https://arxiv.org/abs/2503.08257) | — |
+| 2025 | **DexGraspVLA** | [Paper](https://arxiv.org/abs/2502.20900) | [GitHub](https://github.com/Psi-Robot/DexGraspVLA) |
+| 2025 | **DexGraspVLA** | [Paper](https://arxiv.org/abs/2502.20900) | [GitHub](https://github.com/Psi-Robot/DexGraspVLA) |
+| 2026 | **MoDex** | [Paper](https://arxiv.org/abs/2606.05407) | — |
+|  |  |  | [Back to top ↑](#table-of-contents) |
 
 ## 6.2 Retargeting & Teleoperation
 
-<table width="100%">
-  <colgroup>
-    <col width="55%">
-    <col width="10%">
-    <col width="15%">
-    <col width="20%">
-  </colgroup>
-  <thead>
-    <tr>
-      <th align="center">Title</th>
-      <th align="center">Year</th>
-      <th align="center">Paper</th>
-      <th align="center">GitHub</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">DexPilot</td>
-      <td align="center">2020</td>
-      <td align="center"><a href="https://arxiv.org/abs/1910.03135">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">DexMV</td>
-      <td align="center">2021/2022</td>
-      <td align="center"><a href="https://arxiv.org/abs/2108.05877">Paper</a></td>
-      <td align="center"><a href="https://github.com/yzqin/dexmv-sim">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">From One Hand to Multiple Hands</td>
-      <td align="center">2022</td>
-      <td align="center"><a href="https://arxiv.org/abs/2204.12490">Paper</a></td>
-      <td align="center"><a href="https://github.com/yzqin/dex-hand-teleop">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">AnyTeleop</td>
-      <td align="center">2023</td>
-      <td align="center"><a href="https://arxiv.org/abs/2307.04577">Paper</a></td>
-      <td align="center"><a href="https://github.com/dexsuite/dex-retargeting">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">HIRO Hand</td>
-      <td align="center">2023</td>
-      <td align="center"><a href="https://arxiv.org/abs/2309.14860">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">ACE</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2408.11805">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">BiDex: Bimanual Dexterity for Complex Tasks</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2411.13677">Paper</a></td>
-      <td align="center"><a href="https://github.com/leap-hand/Bidex_Manus_Teleop">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">Bunny-VisionPro</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2407.03162">Paper</a></td>
-      <td align="center"><a href="https://github.com/Dingry/BunnyVisionPro">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">DexCap</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2403.07788">Paper</a></td>
-      <td align="center"><a href="https://github.com/j96w/DexCap">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">Open-TeleVision</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2407.01512">Paper</a></td>
-      <td align="center"><a href="https://github.com/OpenTeleVision/TeleVision">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">TelePhantom</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2412.13548">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Tilde / TeleHand</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2405.18804">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">ByteDexter Teleoperation</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2507.03227">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Dexplore</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2509.09671">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">DexUMI</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2505.21864">Paper</a></td>
-      <td align="center"><a href="https://github.com/real-stanford/DexUMI">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">DOGlove</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2502.07730">Paper</a></td>
-      <td align="center"><a href="https://github.com/TEA-Lab/DOGlove">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">Exo-ViHa</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2503.01543">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">GEX</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2506.04982">Paper</a></td>
-      <td align="center"><a href="https://github.com/Democratizing-Dexterous/libgex">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">GR-Dexter</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2512.24210">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">TeleOpBench</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2505.12748">Paper</a></td>
-      <td align="center"><a href="https://github.com/cyjdlhy/TeleOpBench">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">TypeTele</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2507.01857">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Analyzing Key Objectives in Human-to-Robot Retargeting</td>
-      <td align="center">2025/2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2506.09384">Paper</a></td>
-      <td align="center"><a href="https://github.com/Mingrui-Yu/retargeting">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">AnyDexRT</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2607.08341">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Bilateral Teleoperation Framework</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2606.15434">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">DexTwist</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2605.12182">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Force-Aware Bimanual Dexterous Teleoperation</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2606.23431">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">HumDex</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2603.12260">Paper</a></td>
-      <td align="center"><a href="https://github.com/physical-superintelligence-lab/HumDex">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">RealDexUMI</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2606.06033">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">TeleDex: Accessible Dexterous Teleoperation</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2603.17065">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">TeleDexter</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2607.11481">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">UniBiDex</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2601.04629">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">AnyDexRetarget</td>
-      <td align="center">Ongoing</td>
-      <td align="center">—</td>
-      <td align="center"><a href="https://github.com/qqsq12321/AnyDexRetarget">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">Fourier Teleoperation</td>
-      <td align="center">Ongoing</td>
-      <td align="center">—</td>
-      <td align="center"><a href="https://github.com/FFTAI/teleoperation">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">Unitree XR Teleoperate</td>
-      <td align="center">Ongoing</td>
-      <td align="center">—</td>
-      <td align="center"><a href="https://github.com/unitreerobotics/xr_teleoperate">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"><a href="#table-of-contents">Back to top ↑</a></td>
-    </tr>
-  </tbody>
-</table>
+| Year | Title | Paper | Code/Page |
+|:----------:|-------|-------|-------|
+| 2020 | **DexPilot** | [Paper](https://arxiv.org/abs/1910.03135) | — |
+| 2021/2022 | **DexMV** | [Paper](https://arxiv.org/abs/2108.05877) | [GitHub](https://github.com/yzqin/dexmv-sim) |
+| 2022 | **From One Hand to Multiple Hands** | [Paper](https://arxiv.org/abs/2204.12490) | [GitHub](https://github.com/yzqin/dex-hand-teleop) |
+| 2023 | **AnyTeleop** | [Paper](https://arxiv.org/abs/2307.04577) | [GitHub](https://github.com/dexsuite/dex-retargeting) |
+| 2023 | **HIRO Hand** | [Paper](https://arxiv.org/abs/2309.14860) | — |
+| 2024 | **ACE** | [Paper](https://arxiv.org/abs/2408.11805) | — |
+| 2024 | **BiDex: Bimanual Dexterity for Complex Tasks** | [Paper](https://arxiv.org/abs/2411.13677) | [GitHub](https://github.com/leap-hand/Bidex_Manus_Teleop) |
+| 2024 | **Bunny-VisionPro** | [Paper](https://arxiv.org/abs/2407.03162) | [GitHub](https://github.com/Dingry/BunnyVisionPro) |
+| 2024 | **DexCap** | [Paper](https://arxiv.org/abs/2403.07788) | [GitHub](https://github.com/j96w/DexCap) |
+| 2024 | **Open-TeleVision** | [Paper](https://arxiv.org/abs/2407.01512) | [GitHub](https://github.com/OpenTeleVision/TeleVision) |
+| 2024 | **TelePhantom** | [Paper](https://arxiv.org/abs/2412.13548) | — |
+| 2024 | **Tilde / TeleHand** | [Paper](https://arxiv.org/abs/2405.18804) | — |
+| 2025 | **ByteDexter Teleoperation** | [Paper](https://arxiv.org/abs/2507.03227) | — |
+| 2025 | **Dexplore** | [Paper](https://arxiv.org/abs/2509.09671) | — |
+| 2025 | **DexUMI** | [Paper](https://arxiv.org/abs/2505.21864) | [GitHub](https://github.com/real-stanford/DexUMI) |
+| 2025 | **DOGlove** | [Paper](https://arxiv.org/abs/2502.07730) | [GitHub](https://github.com/TEA-Lab/DOGlove) |
+| 2025 | **Exo-ViHa** | [Paper](https://arxiv.org/abs/2503.01543) | — |
+| 2025 | **GEX** | [Paper](https://arxiv.org/abs/2506.04982) | [GitHub](https://github.com/Democratizing-Dexterous/libgex) |
+| 2025 | **GR-Dexter** | [Paper](https://arxiv.org/abs/2512.24210) | — |
+| 2025 | **TeleOpBench** | [Paper](https://arxiv.org/abs/2505.12748) | [GitHub](https://github.com/cyjdlhy/TeleOpBench) |
+| 2025 | **TypeTele** | [Paper](https://arxiv.org/abs/2507.01857) | — |
+| 2025/2026 | **Analyzing Key Objectives in Human-to-Robot Retargeting** | [Paper](https://arxiv.org/abs/2506.09384) | [GitHub](https://github.com/Mingrui-Yu/retargeting) |
+| 2026 | **AnyDexRT** | [Paper](https://arxiv.org/abs/2607.08341) | — |
+| 2026 | **Bilateral Teleoperation Framework** | [Paper](https://arxiv.org/abs/2606.15434) | — |
+| 2026 | **DexTwist** | [Paper](https://arxiv.org/abs/2605.12182) | — |
+| 2026 | **Force-Aware Bimanual Dexterous Teleoperation** | [Paper](https://arxiv.org/abs/2606.23431) | — |
+| 2026 | **HumDex** | [Paper](https://arxiv.org/abs/2603.12260) | [GitHub](https://github.com/physical-superintelligence-lab/HumDex) |
+| 2026 | **RealDexUMI** | [Paper](https://arxiv.org/abs/2606.06033) | — |
+| 2026 | **TeleDex: Accessible Dexterous Teleoperation** | [Paper](https://arxiv.org/abs/2603.17065) | — |
+| 2026 | **TeleDexter** | [Paper](https://arxiv.org/abs/2607.11481) | — |
+| 2026 | **UniBiDex** | [Paper](https://arxiv.org/abs/2601.04629) | — |
+| Ongoing | **AnyDexRetarget** | — | [GitHub](https://github.com/qqsq12321/AnyDexRetarget) |
+| Ongoing | **Fourier Teleoperation** | — | [GitHub](https://github.com/FFTAI/teleoperation) |
+| Ongoing | **Unitree XR Teleoperate** | — | [GitHub](https://github.com/unitreerobotics/xr_teleoperate) |
+|  |  |  | [Back to top ↑](#table-of-contents) |
 
 ## 6.3 In-Hand Manipulation
 
-<table width="100%">
-  <colgroup>
-    <col width="55%">
-    <col width="10%">
-    <col width="15%">
-    <col width="20%">
-  </colgroup>
-  <thead>
-    <tr>
-      <th align="center">Title</th>
-      <th align="center">Year</th>
-      <th align="center">Paper</th>
-      <th align="center">GitHub</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">Visuomotor Diffusion for In-Hand Manipulation</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2503.02587">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"><a href="#table-of-contents">Back to top ↑</a></td>
-    </tr>
-  </tbody>
-</table>
+| Year | Title | Paper | Code/Page |
+|:----------:|-------|-------|-------|
+| 2025 | **Visuomotor Diffusion for In-Hand Manipulation** | [Paper](https://arxiv.org/abs/2503.02587) | — |
+|  |  |  | [Back to top ↑](#table-of-contents) |
 
 ## 6.4 Tactile Manipulation
 
-<table width="100%">
-  <colgroup>
-    <col width="55%">
-    <col width="10%">
-    <col width="15%">
-    <col width="20%">
-  </colgroup>
-  <thead>
-    <tr>
-      <th align="center">Title</th>
-      <th align="center">Year</th>
-      <th align="center">Paper</th>
-      <th align="center">GitHub</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">FBI</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2508.14441">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">KineDex</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://proceedings.mlr.press/v305/zhang25l.html">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">VTAO-BiManip</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2501.03606">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">VTAO-BiManip</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2501.03606">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Decoupled Multimodal Diffusion Transformer</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2602.05513">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">DexTac</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2601.21474">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Dream-Tac</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2606.08737">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Dream-Tac</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2606.08737">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Human-Centric Transferable Tactile Pre-training</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2607.01067">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Pseudo-Tactile Contact Estimation</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2606.24450">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">T-Rex</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2606.17055">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Tactile-WAM</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2606.26663">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Tactile-WAM</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2606.26663">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">TouchWorld</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2607.07287">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">TouchWorld</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2607.07287">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">TouchWorld</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2607.07287">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">TransDex</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2603.13869">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"><a href="#table-of-contents">Back to top ↑</a></td>
-    </tr>
-  </tbody>
-</table>
+| Year | Title | Paper | Code/Page |
+|:----------:|-------|-------|-------|
+| 2025 | **FBI** | [Paper](https://arxiv.org/abs/2508.14441) | — |
+| 2025 | **KineDex** | [Paper](https://proceedings.mlr.press/v305/zhang25l.html) | — |
+| 2025 | **VTAO-BiManip** | [Paper](https://arxiv.org/abs/2501.03606) | — |
+| 2025 | **VTAO-BiManip** | [Paper](https://arxiv.org/abs/2501.03606) | — |
+| 2026 | **Decoupled Multimodal Diffusion Transformer** | [Paper](https://arxiv.org/abs/2602.05513) | — |
+| 2026 | **DexTac** | [Paper](https://arxiv.org/abs/2601.21474) | — |
+| 2026 | **Dream-Tac** | [Paper](https://arxiv.org/abs/2606.08737) | — |
+| 2026 | **Dream-Tac** | [Paper](https://arxiv.org/abs/2606.08737) | — |
+| 2026 | **Human-Centric Transferable Tactile Pre-training** | [Paper](https://arxiv.org/abs/2607.01067) | — |
+| 2026 | **Pseudo-Tactile Contact Estimation** | [Paper](https://arxiv.org/abs/2606.24450) | — |
+| 2026 | **T-Rex** | [Paper](https://arxiv.org/abs/2606.17055) | — |
+| 2026 | **Tactile-WAM** | [Paper](https://arxiv.org/abs/2606.26663) | — |
+| 2026 | **Tactile-WAM** | [Paper](https://arxiv.org/abs/2606.26663) | — |
+| 2026 | **TouchWorld** | [Paper](https://arxiv.org/abs/2607.07287) | — |
+| 2026 | **TouchWorld** | [Paper](https://arxiv.org/abs/2607.07287) | — |
+| 2026 | **TouchWorld** | [Paper](https://arxiv.org/abs/2607.07287) | — |
+| 2026 | **TransDex** | [Paper](https://arxiv.org/abs/2603.13869) | — |
+|  |  |  | [Back to top ↑](#table-of-contents) |
 
 ## 6.5 Bimanual Dexterous Manipulation
 
-<table width="100%">
-  <colgroup>
-    <col width="55%">
-    <col width="10%">
-    <col width="15%">
-    <col width="20%">
-  </colgroup>
-  <thead>
-    <tr>
-      <th align="center">Title</th>
-      <th align="center">Year</th>
-      <th align="center">Paper</th>
-      <th align="center">GitHub</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">ALOHA</td>
-      <td align="center">2023</td>
-      <td align="center"><a href="https://arxiv.org/abs/2304.13705">Paper</a></td>
-      <td align="center"><a href="https://github.com/tonyzhaozh/aloha">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">ACT++</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://mobile-aloha.github.io/">Paper</a></td>
-      <td align="center"><a href="https://github.com/MarkFzp/act-plus-plus">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">DexMimicGen</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2410.24185">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">DexMimicGen</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2410.24185">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Learning Diverse Bimanual Dexterous Skills (BiDexHD)</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2410.02477">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Mobile ALOHA</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2401.02117">Paper</a></td>
-      <td align="center"><a href="https://github.com/MarkFzp/mobile-aloha">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">RDT-1B</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2410.07864">Paper</a></td>
-      <td align="center"><a href="https://github.com/thu-ml/RoboticsDiffusionTransformer">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">RDT-1B</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2410.07864">Paper</a></td>
-      <td align="center"><a href="https://github.com/thu-ml/RoboticsDiffusionTransformer">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">DexMan</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2510.08475">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">DexMan</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2510.08475">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">GR-Dexter</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2512.24210">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">HumanoidGen</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2507.00833">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">ManiDP</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2510.23016">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">ManipTrans</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2503.21860">Paper</a></td>
-      <td align="center"><a href="https://github.com/ManipTrans/ManipTrans">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">DemoBot</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2601.01651">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">DexImit</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2602.10105">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">DexImit</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2602.10105">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Dexora</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2605.18722">Paper</a></td>
-      <td align="center"><a href="https://github.com/ZZongzheng0918/Dexora">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">Dexora</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2605.18722">Paper</a></td>
-      <td align="center"><a href="https://github.com/ZZongzheng0918/Dexora">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">HandITL</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2605.15157">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">HandITL</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2605.15157">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"><a href="#table-of-contents">Back to top ↑</a></td>
-    </tr>
-  </tbody>
-</table>
+| Year | Title | Paper | Code/Page |
+|:----------:|-------|-------|-------|
+| 2023 | **ALOHA** | [Paper](https://arxiv.org/abs/2304.13705) | [GitHub](https://github.com/tonyzhaozh/aloha) |
+| 2024 | **ACT++** | [Paper](https://mobile-aloha.github.io/) | [GitHub](https://github.com/MarkFzp/act-plus-plus) |
+| 2024 | **DexMimicGen** | [Paper](https://arxiv.org/abs/2410.24185) | — |
+| 2024 | **DexMimicGen** | [Paper](https://arxiv.org/abs/2410.24185) | — |
+| 2024 | **Learning Diverse Bimanual Dexterous Skills (BiDexHD)** | [Paper](https://arxiv.org/abs/2410.02477) | — |
+| 2024 | **Mobile ALOHA** | [Paper](https://arxiv.org/abs/2401.02117) | [GitHub](https://github.com/MarkFzp/mobile-aloha) |
+| 2024 | **RDT-1B** | [Paper](https://arxiv.org/abs/2410.07864) | [GitHub](https://github.com/thu-ml/RoboticsDiffusionTransformer) |
+| 2024 | **RDT-1B** | [Paper](https://arxiv.org/abs/2410.07864) | [GitHub](https://github.com/thu-ml/RoboticsDiffusionTransformer) |
+| 2025 | **DexMan** | [Paper](https://arxiv.org/abs/2510.08475) | — |
+| 2025 | **DexMan** | [Paper](https://arxiv.org/abs/2510.08475) | — |
+| 2025 | **GR-Dexter** | [Paper](https://arxiv.org/abs/2512.24210) | — |
+| 2025 | **HumanoidGen** | [Paper](https://arxiv.org/abs/2507.00833) | — |
+| 2025 | **ManiDP** | [Paper](https://arxiv.org/abs/2510.23016) | — |
+| 2025 | **ManipTrans** | [Paper](https://arxiv.org/abs/2503.21860) | [GitHub](https://github.com/ManipTrans/ManipTrans) |
+| 2026 | **DemoBot** | [Paper](https://arxiv.org/abs/2601.01651) | — |
+| 2026 | **DexImit** | [Paper](https://arxiv.org/abs/2602.10105) | — |
+| 2026 | **DexImit** | [Paper](https://arxiv.org/abs/2602.10105) | — |
+| 2026 | **Dexora** | [Paper](https://arxiv.org/abs/2605.18722) | [GitHub](https://github.com/ZZongzheng0918/Dexora) |
+| 2026 | **Dexora** | [Paper](https://arxiv.org/abs/2605.18722) | [GitHub](https://github.com/ZZongzheng0918/Dexora) |
+| 2026 | **HandITL** | [Paper](https://arxiv.org/abs/2605.15157) | — |
+| 2026 | **HandITL** | [Paper](https://arxiv.org/abs/2605.15157) | — |
+|  |  |  | [Back to top ↑](#table-of-contents) |
 
 ## 6.6 Learning-Based Dexterity
 
-<table width="100%">
-  <colgroup>
-    <col width="55%">
-    <col width="10%">
-    <col width="15%">
-    <col width="20%">
-  </colgroup>
-  <thead>
-    <tr>
-      <th align="center">Title</th>
-      <th align="center">Year</th>
-      <th align="center">Paper</th>
-      <th align="center">GitHub</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">Learning Complex Dexterous Manipulation with Demonstrations (DAPG)</td>
-      <td align="center">2018</td>
-      <td align="center"><a href="https://arxiv.org/abs/1709.10087">Paper</a></td>
-      <td align="center"><a href="https://github.com/aravindr93/hand_dapg">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">DexVIP</td>
-      <td align="center">2022</td>
-      <td align="center"><a href="https://arxiv.org/abs/2202.00164">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">ACT</td>
-      <td align="center">2023</td>
-      <td align="center"><a href="https://arxiv.org/abs/2304.13705">Paper</a></td>
-      <td align="center"><a href="https://github.com/tonyzhaozh/act">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">DexCap / DexIL</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2403.07788">Paper</a></td>
-      <td align="center"><a href="https://github.com/j96w/DexCap">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">HIL-SERL</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2410.21845">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">RialTo</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2403.03949">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">ViViDex</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2404.15709">Paper</a></td>
-      <td align="center"><a href="https://github.com/zerchen/vividex_sapien">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">CordViP</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2502.08449">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Dexplore</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2509.09671">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">DexSim2Real²</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://github.com/jiangtaoran/DexSim2Real2">Paper</a></td>
-      <td align="center"><a href="https://github.com/jiangtaoran/DexSim2Real2">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">DexWild</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2505.07813">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">EgoDex</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2505.11709">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Gen2Real</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2509.14178">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">HERMES</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2508.20085">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Interactive Imitation Learning for Dexterous Manipulation</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2506.00098">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Object-Focus Actor</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2505.15098">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">RwoR</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2507.03930">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Sim-and-Real Co-Training</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2503.24361">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">DemoBot</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2601.01651">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">DexHiL</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2603.09121">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Dexora</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2605.18722">Paper</a></td>
-      <td align="center"><a href="https://github.com/ZZongzheng0918/Dexora">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">DexPIE</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2606.09615">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">DexPIE</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2606.09615">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Dexterous Point Policy</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2606.10614">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Do as I Do</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2606.19333">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Do as I Do</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2606.19333">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">EgoAERO</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2606.08057">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">EgoAERO</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2606.08057">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">EgoScale</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2602.16710">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Structural Action Transformer</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2603.03960">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">UniDex: Robot Foundation Suite</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2603.22264">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">V2P-Manip</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2606.16436">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">V2P-Manip</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2606.16436">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">VideoManip</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2602.09013">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">VideoManip</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2602.09013">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"><a href="#table-of-contents">Back to top ↑</a></td>
-    </tr>
-  </tbody>
-</table>
+| Year | Title | Paper | Code/Page |
+|:----------:|-------|-------|-------|
+| 2018 | **Learning Complex Dexterous Manipulation with Demonstrations (DAPG)** | [Paper](https://arxiv.org/abs/1709.10087) | [GitHub](https://github.com/aravindr93/hand_dapg) |
+| 2022 | **DexVIP** | [Paper](https://arxiv.org/abs/2202.00164) | — |
+| 2023 | **ACT** | [Paper](https://arxiv.org/abs/2304.13705) | [GitHub](https://github.com/tonyzhaozh/act) |
+| 2024 | **DexCap / DexIL** | [Paper](https://arxiv.org/abs/2403.07788) | [GitHub](https://github.com/j96w/DexCap) |
+| 2024 | **HIL-SERL** | [Paper](https://arxiv.org/abs/2410.21845) | — |
+| 2024 | **RialTo** | [Paper](https://arxiv.org/abs/2403.03949) | — |
+| 2024 | **ViViDex** | [Paper](https://arxiv.org/abs/2404.15709) | [GitHub](https://github.com/zerchen/vividex_sapien) |
+| 2025 | **CordViP** | [Paper](https://arxiv.org/abs/2502.08449) | — |
+| 2025 | **Dexplore** | [Paper](https://arxiv.org/abs/2509.09671) | — |
+| 2025 | **DexSim2Real²** | [Paper](https://github.com/jiangtaoran/DexSim2Real2) | [GitHub](https://github.com/jiangtaoran/DexSim2Real2) |
+| 2025 | **DexWild** | [Paper](https://arxiv.org/abs/2505.07813) | — |
+| 2025 | **EgoDex** | [Paper](https://arxiv.org/abs/2505.11709) | — |
+| 2025 | **Gen2Real** | [Paper](https://arxiv.org/abs/2509.14178) | — |
+| 2025 | **HERMES** | [Paper](https://arxiv.org/abs/2508.20085) | — |
+| 2025 | **Interactive Imitation Learning for Dexterous Manipulation** | [Paper](https://arxiv.org/abs/2506.00098) | — |
+| 2025 | **Object-Focus Actor** | [Paper](https://arxiv.org/abs/2505.15098) | — |
+| 2025 | **RwoR** | [Paper](https://arxiv.org/abs/2507.03930) | — |
+| 2025 | **Sim-and-Real Co-Training** | [Paper](https://arxiv.org/abs/2503.24361) | — |
+| 2026 | **DemoBot** | [Paper](https://arxiv.org/abs/2601.01651) | — |
+| 2026 | **DexHiL** | [Paper](https://arxiv.org/abs/2603.09121) | — |
+| 2026 | **Dexora** | [Paper](https://arxiv.org/abs/2605.18722) | [GitHub](https://github.com/ZZongzheng0918/Dexora) |
+| 2026 | **DexPIE** | [Paper](https://arxiv.org/abs/2606.09615) | — |
+| 2026 | **DexPIE** | [Paper](https://arxiv.org/abs/2606.09615) | — |
+| 2026 | **Dexterous Point Policy** | [Paper](https://arxiv.org/abs/2606.10614) | — |
+| 2026 | **Do as I Do** | [Paper](https://arxiv.org/abs/2606.19333) | — |
+| 2026 | **Do as I Do** | [Paper](https://arxiv.org/abs/2606.19333) | — |
+| 2026 | **EgoAERO** | [Paper](https://arxiv.org/abs/2606.08057) | — |
+| 2026 | **EgoAERO** | [Paper](https://arxiv.org/abs/2606.08057) | — |
+| 2026 | **EgoScale** | [Paper](https://arxiv.org/abs/2602.16710) | — |
+| 2026 | **Structural Action Transformer** | [Paper](https://arxiv.org/abs/2603.03960) | — |
+| 2026 | **UniDex: Robot Foundation Suite** | [Paper](https://arxiv.org/abs/2603.22264) | — |
+| 2026 | **V2P-Manip** | [Paper](https://arxiv.org/abs/2606.16436) | — |
+| 2026 | **V2P-Manip** | [Paper](https://arxiv.org/abs/2606.16436) | — |
+| 2026 | **VideoManip** | [Paper](https://arxiv.org/abs/2602.09013) | — |
+| 2026 | **VideoManip** | [Paper](https://arxiv.org/abs/2602.09013) | — |
+|  |  |  | [Back to top ↑](#table-of-contents) |
 
 ## 6.7 Dexterous Data & Demonstrations
 
-<table width="100%">
-  <colgroup>
-    <col width="55%">
-    <col width="10%">
-    <col width="15%">
-    <col width="20%">
-  </colgroup>
-  <thead>
-    <tr>
-      <th align="center">Title</th>
-      <th align="center">Year</th>
-      <th align="center">Paper</th>
-      <th align="center">GitHub</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">Bi-DexHands</td>
-      <td align="center">2022</td>
-      <td align="center"><a href="https://arxiv.org/abs/2206.08686">Paper</a></td>
-      <td align="center"><a href="https://github.com/PKU-MARL/DexterousHands">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">DexGraspNet</td>
-      <td align="center">2022</td>
-      <td align="center"><a href="https://arxiv.org/abs/2210.02697">Paper</a></td>
-      <td align="center"><a href="https://github.com/PKU-EPIC/DexGraspNet">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">DexCap Data</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2403.07788">Paper</a></td>
-      <td align="center"><a href="https://github.com/j96w/DexCap">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">DexMimicGen Environments</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2410.24185">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">GigaHands</td>
-      <td align="center">2024/2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2412.04244">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">DexWild Dataset</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2505.07813">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">EgoDex</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2505.11709">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">HumanoidGen</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2507.00833">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">OpenEgo</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2509.05513">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">TeleOpBench</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2505.12748">Paper</a></td>
-      <td align="center"><a href="https://github.com/cyjdlhy/TeleOpBench">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">VITRA Human Hand VLA Data</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2510.21571">Paper</a></td>
-      <td align="center"><a href="https://github.com/microsoft/VITRA">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">BiDexGrasp</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2604.06589">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">EgoDex-R</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2606.08057">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">TactiDex</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2607.09190">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"><a href="#table-of-contents">Back to top ↑</a></td>
-    </tr>
-  </tbody>
-</table>
+| Year | Title | Paper | Code/Page |
+|:----------:|-------|-------|-------|
+| 2022 | **Bi-DexHands** | [Paper](https://arxiv.org/abs/2206.08686) | [GitHub](https://github.com/PKU-MARL/DexterousHands) |
+| 2022 | **DexGraspNet** | [Paper](https://arxiv.org/abs/2210.02697) | [GitHub](https://github.com/PKU-EPIC/DexGraspNet) |
+| 2024 | **DexCap Data** | [Paper](https://arxiv.org/abs/2403.07788) | [GitHub](https://github.com/j96w/DexCap) |
+| 2024 | **DexMimicGen Environments** | [Paper](https://arxiv.org/abs/2410.24185) | — |
+| 2024/2025 | **GigaHands** | [Paper](https://arxiv.org/abs/2412.04244) | — |
+| 2025 | **DexWild Dataset** | [Paper](https://arxiv.org/abs/2505.07813) | — |
+| 2025 | **EgoDex** | [Paper](https://arxiv.org/abs/2505.11709) | — |
+| 2025 | **HumanoidGen** | [Paper](https://arxiv.org/abs/2507.00833) | — |
+| 2025 | **OpenEgo** | [Paper](https://arxiv.org/abs/2509.05513) | — |
+| 2025 | **TeleOpBench** | [Paper](https://arxiv.org/abs/2505.12748) | [GitHub](https://github.com/cyjdlhy/TeleOpBench) |
+| 2025 | **VITRA Human Hand VLA Data** | [Paper](https://arxiv.org/abs/2510.21571) | [GitHub](https://github.com/microsoft/VITRA) |
+| 2026 | **BiDexGrasp** | [Paper](https://arxiv.org/abs/2604.06589) | — |
+| 2026 | **EgoDex-R** | [Paper](https://arxiv.org/abs/2606.08057) | — |
+| 2026 | **TactiDex** | [Paper](https://arxiv.org/abs/2607.09190) | — |
+|  |  |  | [Back to top ↑](#table-of-contents) |
 
 ## 6.8 Dexterous Generative Policies
 
-<table width="100%">
-  <colgroup>
-    <col width="55%">
-    <col width="10%">
-    <col width="15%">
-    <col width="20%">
-  </colgroup>
-  <thead>
-    <tr>
-      <th align="center">Title</th>
-      <th align="center">Year</th>
-      <th align="center">Paper</th>
-      <th align="center">GitHub</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">Diffusion Policy</td>
-      <td align="center">2023</td>
-      <td align="center"><a href="https://arxiv.org/abs/2303.04137">Paper</a></td>
-      <td align="center"><a href="https://github.com/real-stanford/diffusion_policy">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">3D Diffusion Policy (DP3)</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2403.03954">Paper</a></td>
-      <td align="center"><a href="https://github.com/YanjieZe/3D-Diffusion-Policy">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">Tilde</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2405.18804">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">VLA + Diffusion Policy Switching</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2410.14022">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">End-to-End Arm-Hand VLA via Shared Control</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2511.00139">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">DexFuture</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2606.05699">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Structural Action Transformer</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2603.03960">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"><a href="#table-of-contents">Back to top ↑</a></td>
-    </tr>
-  </tbody>
-</table>
+| Year | Title | Paper | Code/Page |
+|:----------:|-------|-------|-------|
+| 2023 | **Diffusion Policy** | [Paper](https://arxiv.org/abs/2303.04137) | [GitHub](https://github.com/real-stanford/diffusion_policy) |
+| 2024 | **3D Diffusion Policy (DP3)** | [Paper](https://arxiv.org/abs/2403.03954) | [GitHub](https://github.com/YanjieZe/3D-Diffusion-Policy) |
+| 2024 | **Tilde** | [Paper](https://arxiv.org/abs/2405.18804) | — |
+| 2024 | **VLA + Diffusion Policy Switching** | [Paper](https://arxiv.org/abs/2410.14022) | — |
+| 2025 | **End-to-End Arm-Hand VLA via Shared Control** | [Paper](https://arxiv.org/abs/2511.00139) | — |
+| 2026 | **DexFuture** | [Paper](https://arxiv.org/abs/2606.05699) | — |
+| 2026 | **Structural Action Transformer** | [Paper](https://arxiv.org/abs/2603.03960) | — |
+|  |  |  | [Back to top ↑](#table-of-contents) |
 
 ## 6.9 Dexterous Foundation Models
 
-<table width="100%">
-  <colgroup>
-    <col width="55%">
-    <col width="10%">
-    <col width="15%">
-    <col width="20%">
-  </colgroup>
-  <thead>
-    <tr>
-      <th align="center">Title</th>
-      <th align="center">Year</th>
-      <th align="center">Paper</th>
-      <th align="center">GitHub</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">Octo</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2405.12213">Paper</a></td>
-      <td align="center"><a href="https://github.com/octo-models/octo">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">OpenVLA</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2406.09246">Paper</a></td>
-      <td align="center"><a href="https://github.com/openvla/openvla">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">VLA + Diffusion Policy Switching</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2410.14022">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">π₀ / OpenPI</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://www.physicalintelligence.company/blog/pi0">Paper</a></td>
-      <td align="center"><a href="https://github.com/Physical-Intelligence/openpi">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">Being-H0</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2507.15597">Paper</a></td>
-      <td align="center"><a href="https://github.com/BeingBeyond/Being-H">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">Dexterous World Models (DWM)</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2512.17907">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">DexWM</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2512.13644">Paper</a></td>
-      <td align="center"><a href="https://github.com/facebookresearch/dexwm">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">MAPLE</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2504.06084">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">NVIDIA GR00T N1</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2503.14734">Paper</a></td>
-      <td align="center"><a href="https://github.com/NVIDIA/Isaac-GR00T">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">RoboDexVLM</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2503.01616">Paper</a></td>
-      <td align="center"><a href="https://github.com/henryhcliu/robodex_vlm">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">Unified World Models</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2504.02792">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">VITRA</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2510.21571">Paper</a></td>
-      <td align="center"><a href="https://github.com/microsoft/VITRA">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">Being-H0.5</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://research.beingbeyond.com/being-h05">Paper</a></td>
-      <td align="center"><a href="https://github.com/BeingBeyond/Being-H">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">DexFuture</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2606.05699">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">DexHiL</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2603.09121">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Dexterous Point Policy</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2606.10614">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">DreamDojo</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2602.06949">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">EgoSteer</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2607.09701">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">InDex</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2606.12109">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">InternVLA-A1</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2601.02456">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">InternVLA-A1</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2601.02456">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Not All Actions Are Equal</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2606.27325">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">UniHM</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2603.00732">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">XL-VLA</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2603.10158">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"><a href="#table-of-contents">Back to top ↑</a></td>
-    </tr>
-  </tbody>
-</table>
+| Year | Title | Paper | Code/Page |
+|:----------:|-------|-------|-------|
+| 2024 | **Octo** | [Paper](https://arxiv.org/abs/2405.12213) | [GitHub](https://github.com/octo-models/octo) |
+| 2024 | **OpenVLA** | [Paper](https://arxiv.org/abs/2406.09246) | [GitHub](https://github.com/openvla/openvla) |
+| 2024 | **VLA + Diffusion Policy Switching** | [Paper](https://arxiv.org/abs/2410.14022) | — |
+| 2024 | **π₀ / OpenPI** | [Paper](https://www.physicalintelligence.company/blog/pi0) | [GitHub](https://github.com/Physical-Intelligence/openpi) |
+| 2025 | **Being-H0** | [Paper](https://arxiv.org/abs/2507.15597) | [GitHub](https://github.com/BeingBeyond/Being-H) |
+| 2025 | **Dexterous World Models (DWM)** | [Paper](https://arxiv.org/abs/2512.17907) | — |
+| 2025 | **DexWM** | [Paper](https://arxiv.org/abs/2512.13644) | [GitHub](https://github.com/facebookresearch/dexwm) |
+| 2025 | **MAPLE** | [Paper](https://arxiv.org/abs/2504.06084) | — |
+| 2025 | **NVIDIA GR00T N1** | [Paper](https://arxiv.org/abs/2503.14734) | [GitHub](https://github.com/NVIDIA/Isaac-GR00T) |
+| 2025 | **RoboDexVLM** | [Paper](https://arxiv.org/abs/2503.01616) | [GitHub](https://github.com/henryhcliu/robodex_vlm) |
+| 2025 | **Unified World Models** | [Paper](https://arxiv.org/abs/2504.02792) | — |
+| 2025 | **VITRA** | [Paper](https://arxiv.org/abs/2510.21571) | [GitHub](https://github.com/microsoft/VITRA) |
+| 2026 | **Being-H0.5** | [Paper](https://research.beingbeyond.com/being-h05) | [GitHub](https://github.com/BeingBeyond/Being-H) |
+| 2026 | **DexFuture** | [Paper](https://arxiv.org/abs/2606.05699) | — |
+| 2026 | **DexHiL** | [Paper](https://arxiv.org/abs/2603.09121) | — |
+| 2026 | **Dexterous Point Policy** | [Paper](https://arxiv.org/abs/2606.10614) | — |
+| 2026 | **DreamDojo** | [Paper](https://arxiv.org/abs/2602.06949) | — |
+| 2026 | **EgoSteer** | [Paper](https://arxiv.org/abs/2607.09701) | — |
+| 2026 | **InDex** | [Paper](https://arxiv.org/abs/2606.12109) | — |
+| 2026 | **InternVLA-A1** | [Paper](https://arxiv.org/abs/2601.02456) | — |
+| 2026 | **InternVLA-A1** | [Paper](https://arxiv.org/abs/2601.02456) | — |
+| 2026 | **Not All Actions Are Equal** | [Paper](https://arxiv.org/abs/2606.27325) | — |
+| 2026 | **UniHM** | [Paper](https://arxiv.org/abs/2603.00732) | — |
+| 2026 | **XL-VLA** | [Paper](https://arxiv.org/abs/2603.10158) | — |
+|  |  |  | [Back to top ↑](#table-of-contents) |
 
 ## 6.10 Ego-Centric Dexterous Manipulation
 
-<table width="100%">
-  <colgroup>
-    <col width="55%">
-    <col width="10%">
-    <col width="15%">
-    <col width="20%">
-  </colgroup>
-  <thead>
-    <tr>
-      <th align="center">Title</th>
-      <th align="center">Year</th>
-      <th align="center">Paper</th>
-      <th align="center">GitHub</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">H+O</td>
-      <td align="center">2019</td>
-      <td align="center"><a href="https://arxiv.org/abs/1904.05349">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">EPIC-KITCHENS-100</td>
-      <td align="center">2020</td>
-      <td align="center"><a href="https://arxiv.org/abs/2006.13256">Paper</a></td>
-      <td align="center"><a href="https://github.com/epic-kitchens/epic-kitchens-100-annotations">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">H2O</td>
-      <td align="center">2021</td>
-      <td align="center"><a href="https://arxiv.org/abs/2104.11181">Paper</a></td>
-      <td align="center"><a href="https://github.com/taeinkwon/h2odataset">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">Ego4D</td>
-      <td align="center">2021/2022</td>
-      <td align="center"><a href="https://arxiv.org/abs/2110.07058">Paper</a></td>
-      <td align="center"><a href="https://github.com/facebookresearch/Ego4d">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">Assembly101</td>
-      <td align="center">2022</td>
-      <td align="center"><a href="https://arxiv.org/abs/2203.14712">Paper</a></td>
-      <td align="center"><a href="https://github.com/assembly-101/assembly101-download-scripts">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">HOI4D</td>
-      <td align="center">2022</td>
-      <td align="center"><a href="https://arxiv.org/abs/2203.01577">Paper</a></td>
-      <td align="center"><a href="https://github.com/leolyliu/HOI4D-Instructions">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">MVP</td>
-      <td align="center">2022</td>
-      <td align="center"><a href="https://arxiv.org/abs/2203.06173">Paper</a></td>
-      <td align="center"><a href="https://github.com/ir413/mvp">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">OakInk</td>
-      <td align="center">2022</td>
-      <td align="center"><a href="https://arxiv.org/abs/2203.15709">Paper</a></td>
-      <td align="center"><a href="https://github.com/oakink/OakInk">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">R3M</td>
-      <td align="center">2022</td>
-      <td align="center"><a href="https://arxiv.org/abs/2203.12601">Paper</a></td>
-      <td align="center"><a href="https://github.com/facebookresearch/r3m">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">VIP</td>
-      <td align="center">2022/2023</td>
-      <td align="center"><a href="https://arxiv.org/abs/2210.00030">Paper</a></td>
-      <td align="center"><a href="https://github.com/facebookresearch/vip">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">ARCTIC</td>
-      <td align="center">2023</td>
-      <td align="center"><a href="https://arxiv.org/abs/2204.13662">Paper</a></td>
-      <td align="center"><a href="https://github.com/zc-alexfan/arctic">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">HoloAssist</td>
-      <td align="center">2023</td>
-      <td align="center"><a href="https://arxiv.org/abs/2309.17024">Paper</a></td>
-      <td align="center"><a href="https://github.com/Ember-HoloAssist/holoassist-release">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">LIV</td>
-      <td align="center">2023</td>
-      <td align="center"><a href="https://arxiv.org/abs/2306.00958">Paper</a></td>
-      <td align="center"><a href="https://github.com/peterchenwang/LIV">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">Ego-Exo4D</td>
-      <td align="center">2023/2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2311.18259">Paper</a></td>
-      <td align="center"><a href="https://github.com/facebookresearch/Ego4d">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">CaRe-Ego</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2407.05576">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">EgoMimic</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2410.24221">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">HANDS23</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2403.16428">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">OAKINK2</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2403.19417">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">TACO</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2401.08399">Paper</a></td>
-      <td align="center"><a href="https://github.com/leolyliu/TACO-Instructions">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">Universal Manipulation Interface (UMI)</td>
-      <td align="center">2024</td>
-      <td align="center"><a href="https://arxiv.org/abs/2402.10329">Paper</a></td>
-      <td align="center"><a href="https://github.com/real-stanford/universal_manipulation_interface">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">GigaHands</td>
-      <td align="center">2024/2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2412.04244">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">HO-Cap</td>
-      <td align="center">2024/2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2406.06843">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">HOT3D</td>
-      <td align="center">2024/2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2406.09598">Paper</a></td>
-      <td align="center"><a href="https://github.com/facebookresearch/hot3d">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">R+X</td>
-      <td align="center">2024/2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2407.12957">Paper</a></td>
-      <td align="center"><a href="https://github.com/gpapagiannis/r-plus-x-hand2actions">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">Being-H0</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2507.15597">Paper</a></td>
-      <td align="center"><a href="https://github.com/BeingBeyond/Being-H">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">DexUMI</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2505.21864">Paper</a></td>
-      <td align="center"><a href="https://github.com/real-stanford/DexUMI">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">DexWM</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2512.13644">Paper</a></td>
-      <td align="center"><a href="https://github.com/facebookresearch/dexwm">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">EgoDex</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2505.11709">Paper</a></td>
-      <td align="center"><a href="https://github.com/apple/ml-egodex">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">EgoVLA</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2507.12440">Paper</a></td>
-      <td align="center"><a href="https://github.com/RchalYang/EgoVLA_Release">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">HaWoR</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2501.02973">Paper</a></td>
-      <td align="center"><a href="https://github.com/ThunderVVV/HaWoR">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">OpenEgo</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2509.05513">Paper</a></td>
-      <td align="center"><a href="https://github.com/ahadjawaid/openego">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">RwoR</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2503.00779">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">UniSkill</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2505.08787">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">VITRA</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2510.21571">Paper</a></td>
-      <td align="center"><a href="https://github.com/microsoft/VITRA">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">Co-training with Egocentric Walking Video</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2606.01951">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">DreamDojo</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2602.06949">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">EgoAERO</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2606.08057">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">EgoAVFlow</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2602.22461">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">EgoDex-R</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2606.08057">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">EgoEngine</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2606.12604">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">EgoGrasp</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2601.01050">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">EgoHandICL</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2601.19850">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">EgoHOI</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2603.13615">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">EgoHOI Data/Code</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://egohoi.github.io/">Paper</a></td>
-      <td align="center"><a href="https://github.com/Dayou-Li/EgoHOI">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">EgoHumanoid</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://github.com/OpenDriveLab/EgoHumanoid">Paper</a></td>
-      <td align="center"><a href="https://github.com/OpenDriveLab/EgoHumanoid">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">EgoScale</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2602.16710">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">EgoWM</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://egowm.github.io/">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Hand2World</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2602.09600">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">HandsOnWorld</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2607.02075">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">HOI-DETR</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2606.17384">Paper</a></td>
-      <td align="center"><a href="https://github.com/AhmadDarKhalil/HOI-DETR">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">HumanEgo</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2605.24934">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">StableHand</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://huajian-zeng.github.io/projects/stablehand/">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">UniDex Robot Foundation Suite</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2603.22264">Paper</a></td>
-      <td align="center"><a href="https://github.com/unidex-ai/UniDex">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">WHOLE</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2602.22209">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">WHOLE</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2602.22209">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"><a href="#table-of-contents">Back to top ↑</a></td>
-    </tr>
-  </tbody>
-</table>
+| Year | Title | Paper | Code/Page |
+|:----------:|-------|-------|-------|
+| 2019 | **H+O** | [Paper](https://arxiv.org/abs/1904.05349) | — |
+| 2020 | **EPIC-KITCHENS-100** | [Paper](https://arxiv.org/abs/2006.13256) | [GitHub](https://github.com/epic-kitchens/epic-kitchens-100-annotations) |
+| 2021 | **H2O** | [Paper](https://arxiv.org/abs/2104.11181) | [GitHub](https://github.com/taeinkwon/h2odataset) |
+| 2021/2022 | **Ego4D** | [Paper](https://arxiv.org/abs/2110.07058) | [GitHub](https://github.com/facebookresearch/Ego4d) |
+| 2022 | **Assembly101** | [Paper](https://arxiv.org/abs/2203.14712) | [GitHub](https://github.com/assembly-101/assembly101-download-scripts) |
+| 2022 | **HOI4D** | [Paper](https://arxiv.org/abs/2203.01577) | [GitHub](https://github.com/leolyliu/HOI4D-Instructions) |
+| 2022 | **MVP** | [Paper](https://arxiv.org/abs/2203.06173) | [GitHub](https://github.com/ir413/mvp) |
+| 2022 | **OakInk** | [Paper](https://arxiv.org/abs/2203.15709) | [GitHub](https://github.com/oakink/OakInk) |
+| 2022 | **R3M** | [Paper](https://arxiv.org/abs/2203.12601) | [GitHub](https://github.com/facebookresearch/r3m) |
+| 2022/2023 | **VIP** | [Paper](https://arxiv.org/abs/2210.00030) | [GitHub](https://github.com/facebookresearch/vip) |
+| 2023 | **ARCTIC** | [Paper](https://arxiv.org/abs/2204.13662) | [GitHub](https://github.com/zc-alexfan/arctic) |
+| 2023 | **HoloAssist** | [Paper](https://arxiv.org/abs/2309.17024) | [GitHub](https://github.com/Ember-HoloAssist/holoassist-release) |
+| 2023 | **LIV** | [Paper](https://arxiv.org/abs/2306.00958) | [GitHub](https://github.com/peterchenwang/LIV) |
+| 2023/2024 | **Ego-Exo4D** | [Paper](https://arxiv.org/abs/2311.18259) | [GitHub](https://github.com/facebookresearch/Ego4d) |
+| 2024 | **CaRe-Ego** | [Paper](https://arxiv.org/abs/2407.05576) | — |
+| 2024 | **EgoMimic** | [Paper](https://arxiv.org/abs/2410.24221) | — |
+| 2024 | **HANDS23** | [Paper](https://arxiv.org/abs/2403.16428) | — |
+| 2024 | **OAKINK2** | [Paper](https://arxiv.org/abs/2403.19417) | — |
+| 2024 | **TACO** | [Paper](https://arxiv.org/abs/2401.08399) | [GitHub](https://github.com/leolyliu/TACO-Instructions) |
+| 2024 | **Universal Manipulation Interface (UMI)** | [Paper](https://arxiv.org/abs/2402.10329) | [GitHub](https://github.com/real-stanford/universal_manipulation_interface) |
+| 2024/2025 | **GigaHands** | [Paper](https://arxiv.org/abs/2412.04244) | — |
+| 2024/2025 | **HO-Cap** | [Paper](https://arxiv.org/abs/2406.06843) | — |
+| 2024/2025 | **HOT3D** | [Paper](https://arxiv.org/abs/2406.09598) | [GitHub](https://github.com/facebookresearch/hot3d) |
+| 2024/2025 | **R+X** | [Paper](https://arxiv.org/abs/2407.12957) | [GitHub](https://github.com/gpapagiannis/r-plus-x-hand2actions) |
+| 2025 | **Being-H0** | [Paper](https://arxiv.org/abs/2507.15597) | [GitHub](https://github.com/BeingBeyond/Being-H) |
+| 2025 | **DexUMI** | [Paper](https://arxiv.org/abs/2505.21864) | [GitHub](https://github.com/real-stanford/DexUMI) |
+| 2025 | **DexWM** | [Paper](https://arxiv.org/abs/2512.13644) | [GitHub](https://github.com/facebookresearch/dexwm) |
+| 2025 | **EgoDex** | [Paper](https://arxiv.org/abs/2505.11709) | [GitHub](https://github.com/apple/ml-egodex) |
+| 2025 | **EgoVLA** | [Paper](https://arxiv.org/abs/2507.12440) | [GitHub](https://github.com/RchalYang/EgoVLA_Release) |
+| 2025 | **HaWoR** | [Paper](https://arxiv.org/abs/2501.02973) | [GitHub](https://github.com/ThunderVVV/HaWoR) |
+| 2025 | **OpenEgo** | [Paper](https://arxiv.org/abs/2509.05513) | [GitHub](https://github.com/ahadjawaid/openego) |
+| 2025 | **RwoR** | [Paper](https://arxiv.org/abs/2503.00779) | — |
+| 2025 | **UniSkill** | [Paper](https://arxiv.org/abs/2505.08787) | — |
+| 2025 | **VITRA** | [Paper](https://arxiv.org/abs/2510.21571) | [GitHub](https://github.com/microsoft/VITRA) |
+| 2026 | **Co-training with Egocentric Walking Video** | [Paper](https://arxiv.org/abs/2606.01951) | — |
+| 2026 | **DreamDojo** | [Paper](https://arxiv.org/abs/2602.06949) | — |
+| 2026 | **EgoAERO** | [Paper](https://arxiv.org/abs/2606.08057) | — |
+| 2026 | **EgoAVFlow** | [Paper](https://arxiv.org/abs/2602.22461) | — |
+| 2026 | **EgoDex-R** | [Paper](https://arxiv.org/abs/2606.08057) | — |
+| 2026 | **EgoEngine** | [Paper](https://arxiv.org/abs/2606.12604) | — |
+| 2026 | **EgoGrasp** | [Paper](https://arxiv.org/abs/2601.01050) | — |
+| 2026 | **EgoHandICL** | [Paper](https://arxiv.org/abs/2601.19850) | — |
+| 2026 | **EgoHOI** | [Paper](https://arxiv.org/abs/2603.13615) | — |
+| 2026 | **EgoHOI Data/Code** | [Paper](https://egohoi.github.io/) | [GitHub](https://github.com/Dayou-Li/EgoHOI) |
+| 2026 | **EgoHumanoid** | [Paper](https://github.com/OpenDriveLab/EgoHumanoid) | [GitHub](https://github.com/OpenDriveLab/EgoHumanoid) |
+| 2026 | **EgoScale** | [Paper](https://arxiv.org/abs/2602.16710) | — |
+| 2026 | **EgoWM** | [Paper](https://egowm.github.io/) | — |
+| 2026 | **Hand2World** | [Paper](https://arxiv.org/abs/2602.09600) | — |
+| 2026 | **HandsOnWorld** | [Paper](https://arxiv.org/abs/2607.02075) | — |
+| 2026 | **HOI-DETR** | [Paper](https://arxiv.org/abs/2606.17384) | [GitHub](https://github.com/AhmadDarKhalil/HOI-DETR) |
+| 2026 | **HumanEgo** | [Paper](https://arxiv.org/abs/2605.24934) | — |
+| 2026 | **StableHand** | [Paper](https://huajian-zeng.github.io/projects/stablehand/) | — |
+| 2026 | **UniDex Robot Foundation Suite** | [Paper](https://arxiv.org/abs/2603.22264) | [GitHub](https://github.com/unidex-ai/UniDex) |
+| 2026 | **WHOLE** | [Paper](https://arxiv.org/abs/2602.22209) | — |
+| 2026 | **WHOLE** | [Paper](https://arxiv.org/abs/2602.22209) | — |
+|  |  |  | [Back to top ↑](#table-of-contents) |
 
 ## Reference Resources
 
 ### Surveys & Continuously Updated Resources
 
-<table width="100%">
-  <colgroup>
-    <col width="55%">
-    <col width="10%">
-    <col width="15%">
-    <col width="20%">
-  </colgroup>
-  <thead>
-    <tr>
-      <th align="center">Title</th>
-      <th align="center">Year</th>
-      <th align="center">Paper</th>
-      <th align="center">GitHub</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">Dexterous Manipulation through Imitation Learning: A Survey</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2504.03515">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Diffusion Models for Robotic Manipulation: A Survey</td>
-      <td align="center">2025</td>
-      <td align="center"><a href="https://arxiv.org/abs/2504.08438">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Towards Robotic Dexterous Hand Intelligence: A Survey</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2605.13925">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Robot Learning from Human Videos: A Survey</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2604.27621">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">From Human Videos to Robot Manipulation: A Survey</td>
-      <td align="center">2026</td>
-      <td align="center"><a href="https://arxiv.org/abs/2606.00054">Paper</a></td>
-      <td align="center">—</td>
-    </tr>
-    <tr>
-      <td align="center">Awesome Humanoid &amp; Dexterous Manipulation</td>
-      <td align="center">Ongoing</td>
-      <td align="center">—</td>
-      <td align="center"><a href="https://github.com/tsunami-kun/awesome-humanoid-manipulation">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">Dexterous-Manipulation</td>
-      <td align="center">Ongoing</td>
-      <td align="center">—</td>
-      <td align="center"><a href="https://github.com/kingchou007/Dexterous-Manipulation">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">Awesome Robotics Diffusion</td>
-      <td align="center">Ongoing</td>
-      <td align="center">—</td>
-      <td align="center"><a href="https://github.com/showlab/Awesome-Robotics-Diffusion">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">Awesome Touch</td>
-      <td align="center">Ongoing</td>
-      <td align="center">—</td>
-      <td align="center"><a href="https://github.com/linchangyi1/Awesome-Touch">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">Awesome Force/Tactile VLA</td>
-      <td align="center">Ongoing</td>
-      <td align="center">—</td>
-      <td align="center"><a href="https://github.com/OpenHelix-Team/Awesome-Force-Tactile-VLA">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">WholebodyVLA</td>
-      <td align="center">Ongoing</td>
-      <td align="center">—</td>
-      <td align="center"><a href="https://github.com/OpenDriveLab/WholebodyVLA">GitHub</a></td>
-    </tr>
-    <tr>
-      <td align="center">Awesome World Models for Robots</td>
-      <td align="center">Ongoing</td>
-      <td align="center">—</td>
-      <td align="center"><a href="https://github.com/operator22th/awesome-world-models-for-robots">GitHub</a></td>
-    </tr>
-  </tbody>
-</table>
+| Year | Title | Paper | Code/Page |
+|:----------:|-------|-------|-------|
+| 2025 | **Dexterous Manipulation through Imitation Learning: A Survey** | [Paper](https://arxiv.org/abs/2504.03515) | — |
+| 2025 | **Diffusion Models for Robotic Manipulation: A Survey** | [Paper](https://arxiv.org/abs/2504.08438) | — |
+| 2026 | **Towards Robotic Dexterous Hand Intelligence: A Survey** | [Paper](https://arxiv.org/abs/2605.13925) | — |
+| 2026 | **Robot Learning from Human Videos: A Survey** | [Paper](https://arxiv.org/abs/2604.27621) | — |
+| 2026 | **From Human Videos to Robot Manipulation: A Survey** | [Paper](https://arxiv.org/abs/2606.00054) | — |
+| Ongoing | **Awesome Humanoid & Dexterous Manipulation** | — | [GitHub](https://github.com/tsunami-kun/awesome-humanoid-manipulation) |
+| Ongoing | **Dexterous-Manipulation** | — | [GitHub](https://github.com/kingchou007/Dexterous-Manipulation) |
+| Ongoing | **Awesome Robotics Diffusion** | — | [GitHub](https://github.com/showlab/Awesome-Robotics-Diffusion) |
+| Ongoing | **Awesome Touch** | — | [GitHub](https://github.com/linchangyi1/Awesome-Touch) |
+| Ongoing | **Awesome Force/Tactile VLA** | — | [GitHub](https://github.com/OpenHelix-Team/Awesome-Force-Tactile-VLA) |
+| Ongoing | **WholebodyVLA** | — | [GitHub](https://github.com/OpenDriveLab/WholebodyVLA) |
+| Ongoing | **Awesome World Models for Robots** | — | [GitHub](https://github.com/operator22th/awesome-world-models-for-robots) |
 
 ---
 
