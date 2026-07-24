@@ -163,7 +163,7 @@
 | 2026 | **Mana: Dexterous Manipulation of Articulated Tools** | [arXiv 2026.06](https://www.alphaxiv.org/abs/2606.13677) | — |
 | 2026 | **LUCID: Learning Embodiment-Agnostic Intent Models from Unstructured Human Videos for Scalable Dexterous Robot Skill Acquisition** | [arXiv 2026.06](https://www.alphaxiv.org/abs/2606.11628) | — |
 | 2026 | **DexPIE: Stable Dexterous Policy Improvement from Real-World Experience** | [arXiv 2026.06](https://www.alphaxiv.org/abs/2606.09615) | [GitHub](https://github.com/siiuuuuuu/tele_UR) |
-| 2026 | **Dexora: Open-source VLA for High-DoF Bimanual Dexterity** | [arXiv 2026.05](https://www.alphaxiv.org/abs/2605.18722) | [GitHub](https://github.com/ZZongzheng0918/Dexora) |
+| 2026 | **Dexora: Open-source VLA for High-DoF Bimanual Dexterity** | [arXiv 2026.05](https://www.alphaxiv.org/abs/2605.18722) | [GitHub](https://github.com/dexoravla/Dexora) |
 | 2026 | **How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference** | [arXiv 2026.03](https://www.alphaxiv.org/abs/2603.03280) | [GitHub](https://github.com/ToruOwO/how-to-peel) |
 | 2026 | **SimToolReal: An Object-Centric Policy for Zero-Shot Dexterous Tool Manipulation** | [arXiv 2026.02](https://www.alphaxiv.org/abs/2602.16863) | — |
 | 2026 | **DexImit: Learning Bimanual Dexterous Manipulation from Monocular Human Videos** | [arXiv 2026.02](https://www.alphaxiv.org/abs/2602.10105) | — |
