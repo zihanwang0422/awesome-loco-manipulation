@@ -175,6 +175,7 @@
 | 2025 | **DexMan: Learning Bimanual Dexterous Manipulation from Human and Generated Videos** | [arXiv 2025.10](https://www.alphaxiv.org/abs/2510.08475) | [GitHub](https://github.com/EmbodiedAI-NTU/DexMan) |
 | 2025 | **DyDexHandover: Human-like Bimanual Dynamic Dexterous Handover using RGB-only Perception** | [arXiv 2025.09](https://www.alphaxiv.org/abs/2509.17350) | — |
 | 2025 | **End-to-end RL Improves Dexterous Grasping Policies** | [arXiv 2025.09](https://www.alphaxiv.org/abs/2509.16434) | — |
+| 2025 | **LeVR: A Modular VR Teleoperation Framework for Imitation Learning in Dexterous Manipulation** | [arXiv 2025.09](https://www.alphaxiv.org/abs/2509.14349) | [GitHub](https://github.com/wengmister/LeFranX) |
 | 2025 | **Gen2Real: Towards Demo-Free Dexterous Manipulation by Harnessing Generated Video** | [arXiv 2025.09](https://www.alphaxiv.org/abs/2509.14178) | — |
 | 2025 | **Dexplore: Scalable Neural Control for Dexterous Manipulation from Reference-Scoped Exploration** | [arXiv 2025.09](https://www.alphaxiv.org/abs/2509.09671) | [GitHub](https://github.com/NVlabs/dexplore) |
 | 2025 | **HERMES: Human-to-Robot Embodied Learning from Multi-Source Motion Data for Mobile Dexterous Manipulation** | [arXiv 2025.08](https://www.alphaxiv.org/abs/2508.20085) | — |
