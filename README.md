@@ -1,4 +1,4 @@
-# Awesome Loco Manipulation
+# Awesome-Loco-Manipulation
 
 A curated index of research on robotic manipulation, dexterous hand manipulation,
 mobile manipulation, legged loco-manipulation, and whole-body control.
