@@ -206,7 +206,7 @@
 | 2024 | **ViViDex: Learning Vision-based Dexterous Manipulation from Human Videos** | [arXiv 2024.04](https://www.alphaxiv.org/abs/2404.15709) | [GitHub](https://github.com/zerchen/vividex_sapien) |
 | 2024 | **Learning Prehensile Dexterity by Imitating and Emulating State-only Observations** | [arXiv 2024.04](https://www.alphaxiv.org/abs/2404.05582) | — |
 | 2024 | **Reconciling Reality through Simulation: A Real-to-Sim-to-Real Approach for Robust Manipulation** | [arXiv 2024.03](https://www.alphaxiv.org/abs/2403.03949) | — |
-| 2024 | **Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation** | [arXiv 2024.01](https://www.alphaxiv.org/abs/2401.02117) | [GitHub](https://github.com/MarkFzp/mobile-aloha) |
+| 2024 | 🌟️ **Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation** | [arXiv 2024.01](https://www.alphaxiv.org/abs/2401.02117) | [GitHub](https://github.com/MarkFzp/mobile-aloha) |
 | 2024 | **Imitation Learning Algorithms and Co-Training for Mobile ALOHA** | [Paper](https://mobile-aloha.github.io/) | [GitHub](https://github.com/MarkFzp/act-plus-plus) |
 | 2023 | **DexPBT: Scaling up Dexterous Manipulation for Hand-Arm Systems with Population Based Training** | [arXiv 2023.05](https://www.alphaxiv.org/abs/2305.12127) | — |
 | 2023 | **Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware** | [arXiv 2023.04](https://www.alphaxiv.org/abs/2304.13705) | [GitHub](https://github.com/tonyzhaozh/act) |
