@@ -1,4 +1,4 @@
-# Awesome-Loco-Manipulation
+# Awesome Loco-Manipulation
 
 A curated index of research on robotic manipulation, dexterous hand manipulation,
 mobile manipulation, legged loco-manipulation, and whole-body control.
@@ -51,12 +51,12 @@ Resources: [Awesome Lists](#awesome-lists) · [Surveys & Reviews](#surveys--revi
 
 ## Surveys & Reviews
 
-- [Towards a Unified Understanding of Robot Manipulation: A Comprehensive Survey](https://arxiv.org/abs/2510.10903)
-- [Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey](https://arxiv.org/abs/2508.13073)
-- [Dexterous Manipulation through Imitation Learning: A Survey](https://arxiv.org/abs/2504.03515)
-- [Learning by Watching: A Review of Video-based Learning Approaches for Robot Manipulation](https://arxiv.org/abs/2402.07127)
-- [A Survey of Embodied Learning for Object-Centric Robotic Manipulation](https://arxiv.org/abs/2408.11537)
-- [A Systematic Review on Custom Data Gloves](https://arxiv.org/abs/2405.15417)
+- [Towards a Unified Understanding of Robot Manipulation: A Comprehensive Survey](https://www.alphaxiv.org/abs/2510.10903)
+- [Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey](https://www.alphaxiv.org/abs/2508.13073)
+- [Dexterous Manipulation through Imitation Learning: A Survey](https://www.alphaxiv.org/abs/2504.03515)
+- [Learning by Watching: A Review of Video-based Learning Approaches for Robot Manipulation](https://www.alphaxiv.org/abs/2402.07127)
+- [A Survey of Embodied Learning for Object-Centric Robotic Manipulation](https://www.alphaxiv.org/abs/2408.11537)
+- [A Systematic Review on Custom Data Gloves](https://www.alphaxiv.org/abs/2405.15417)
 
 ## Datasets & Benchmarks
 
@@ -77,7 +77,7 @@ Resources: [Awesome Lists](#awesome-lists) · [Surveys & Reviews](#surveys--revi
 - [MuJoCo Playground](https://playground.mujoco.org) · [GitHub](https://github.com/google-deepmind/mujoco_playground)
 - [Genesis](https://genesis-embodied-ai.github.io) · [GitHub](https://github.com/Genesis-Embodied-AI/Genesis)
 - [robosuite](https://robosuite.ai) · [GitHub](https://github.com/ARISE-Initiative/robosuite)
-- [TACTO](https://arxiv.org/abs/2012.08456) · [GitHub](https://github.com/facebookresearch/tacto)
+- [TACTO](https://www.alphaxiv.org/abs/2012.08456) · [GitHub](https://github.com/facebookresearch/tacto)
 - [Taccel](https://taccel-simulator.github.io) · [GitHub](https://github.com/Taccel-Simulator/Taccel)
 
 ## Robot Platforms
