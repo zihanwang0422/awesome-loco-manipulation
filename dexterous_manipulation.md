@@ -1,57 +1,44 @@
 # 2. Dexterous Hand Manipulation
 
-> Last updated: 2026-07-24.
+> Last updated: 2026-07-25.
 
 ## Table of Contents
 
-- [2.1 Dexterous Grasping](#21-dexterous-grasping)
+- [2.1 Dexterous Data & Demonstrations](#21-dexterous-data--demonstrations)
 - [2.2 Dexterous Retargeting & Teleoperation](#22-dexterous-retargeting--teleoperation)
-- [2.3 Dexterous In-Hand Manipulation](#23-dexterous-in-hand-manipulation)
-- [2.4 Dexterous Tactile Manipulation](#24-dexterous-tactile-manipulation)
-- [2.5 Dexterous Learning-Based Manipulation](#25-dexterous-learning-based-manipulation)
-- [2.6 Dexterous Data & Demonstrations](#26-dexterous-data--demonstrations)
+- [2.3 Dexterous Grasping](#23-dexterous-grasping)
+- [2.4 Dexterous In-Hand Manipulation](#24-dexterous-in-hand-manipulation)
+- [2.5 Dexterous Tactile Manipulation](#25-dexterous-tactile-manipulation)
+- [2.6 Dexterous Learning-Based Manipulation](#26-dexterous-learning-based-manipulation)
 - [2.7 Dexterous Generative Policies](#27-dexterous-generative-policies)
 - [2.8 Dexterous Foundation Models](#28-dexterous-foundation-models)
 - [2.9 Dexterous Ego-Centric Manipulation](#29-dexterous-ego-centric-manipulation)
 - [Reference Resources](#reference-resources)
 
-## 2.1 Dexterous Grasping
+## 2.1 Dexterous Data & Demonstrations
 
 | Year | Title | Paper | GitHub |
 |:----------:|-------|-------|-------|
-| 2026 | **From Grasps to Dexterity: Large-Scale Grasp Pretraining for Dexterous Manipulation** | [arXiv 2026.06](https://www.alphaxiv.org/abs/2606.30749) | — |
-| 2026 | **MoDex: A Diffusion Policy for Sequential Multi-Object Dexterous Grasping** | [arXiv 2026.06](https://www.alphaxiv.org/abs/2606.05407) | — |
-| 2025 | 🌟️ **Lightning Grasp: High Performance Procedural Grasp Synthesis with Contact Fields** | [arXiv 2025.11](https://www.alphaxiv.org/abs/2511.07418) | [GitHub](https://github.com/zhaohengyin/lightning-grasp) |
-| 2025 | **GraspQP: Differentiable Optimization of Force Closure for Diverse and Robust Dexterous Grasping** | [arXiv 2025.08](https://www.alphaxiv.org/abs/2508.15002) | [GitHub](https://github.com/leggedrobotics/graspqp) |
-| 2025 | **DexH2R: A Benchmark for Dynamic Dexterous Grasping in Human-to-Robot Handover** | [arXiv 2025.06](https://www.alphaxiv.org/abs/2506.23152) | — |
-| 2025 | **ClutterDexGrasp: A Sim-to-Real System for General Dexterous Grasping in Cluttered Scenes** | [arXiv 2025.06](https://www.alphaxiv.org/abs/2506.14317) | — |
-| 2025 | **Grasp2Grasp: Vision-Based Dexterous Grasp Translation via Schrödinger Bridges** | [arXiv 2025.06](https://www.alphaxiv.org/abs/2506.02489) | — |
-| 2025 | 🌟️ **GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data** | [arXiv 2025.05](https://www.alphaxiv.org/abs/2505.03233) | [GitHub](https://github.com/PKU-EPIC/GraspVLA) |
-| 2025 | **RL-Driven Data Generation for Robust Vision-Based Dexterous Grasping** | [arXiv 2025.04](https://www.alphaxiv.org/abs/2504.18084) | — |
-| 2025 | **Dexonomy: Synthesizing All Dexterous Grasp Types in a Grasp Taxonomy** | [arXiv 2025.04](https://www.alphaxiv.org/abs/2504.18829) | [GitHub](https://github.com/JYChen18/Dexonomy) |
-| 2025 | **RobustDexGrasp: Robust Dexterous Grasping of General Objects** | [arXiv 2025.04](https://www.alphaxiv.org/abs/2504.05287) | [GitHub](https://github.com/zdchan/RobustDexGrasp) |
-| 2025 | **Sequential Multi-Object Grasping with One Dexterous Hand** | [arXiv 2025.03](https://www.alphaxiv.org/abs/2503.09078) | [GitHub](https://github.com/hesic73/SeqMultiGrasp) |
-| 2025 | **DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness** | [arXiv 2025.03](https://www.alphaxiv.org/abs/2503.08257) | [GitHub](https://github.com/4DVLab/DexGrasp-Anything) |
-| 2025 | 🌟️ **DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping** | [arXiv 2025.02](https://www.alphaxiv.org/abs/2502.20900) | [GitHub](https://github.com/Psi-Robot/DexGraspVLA) |
-| 2025 | 🌟️ **AnyDexGrasp: General Dexterous Grasping for Different Hands with Human-level Learning Efficiency** | [arXiv 2025.02](https://www.alphaxiv.org/abs/2502.16420) | [GitHub](https://github.com/graspnet/AnyDexGrasp) |
-| 2024/2025 | **BODex: Scalable and Efficient Robotic Dexterous Grasp Synthesis Using Bilevel Optimization** | [arXiv 2024.12](https://www.alphaxiv.org/abs/2412.16490) | [GitHub](https://github.com/JYChen18/BODex) |
-| 2024 | **DextrAH-RGB: Visuomotor Policies to Grasp Anything with Dexterous Hands** | [arXiv 2024.12](https://www.alphaxiv.org/abs/2412.01791) | [GitHub](https://github.com/NVlabs/DEXTRAH) |
-| 2024 | **FunGrasp: Functional Grasping for Diverse Dexterous Hands** | [arXiv 2024.11](https://www.alphaxiv.org/abs/2411.16755) | [GitHub](https://github.com/Hly-123/Fungrasp_code) |
-| 2024 | **Cross-Embodiment Dexterous Grasping with Reinforcement Learning** | [arXiv 2024.10](https://www.alphaxiv.org/abs/2410.02479) | [GitHub](https://github.com/PKU-RL/CrossDex) |
-| 2024 | **$\mathcal{D(R,O)}$ Grasp: A Unified Representation of Robot and Object Interaction for Cross-Embodiment Dexterous Grasping** | [arXiv 2024.10](https://www.alphaxiv.org/abs/2410.01702) | [GitHub](https://github.com/zhenyuwei2003/DRO-Grasp) |
-| 2024 | **FFHFlow: Diverse and Uncertainty-Aware Dexterous Grasp Generation via Flow Variational Inference** | [arXiv 2024.07](https://www.alphaxiv.org/abs/2407.15161) | — |
-| 2024 | **DextrAH-G: Pixels-to-Action Dexterous Arm-Hand Grasping with Geometric Fabrics** | [arXiv 2024.07](https://www.alphaxiv.org/abs/2407.02274) | — |
-| 2024 | **ContactDexNet: Multi-fingered Robotic Hand Grasping in Cluttered Environments through Hand-object Contact Semantic Mapping** | [arXiv 2024.04](https://www.alphaxiv.org/abs/2404.08844) | [GitHub](https://github.com/leizhang-public/contact-dexnet) |
-| 2024 | **GraspXL: Generating Grasping Motions for Diverse Objects at Scale** | [arXiv 2024.03](https://www.alphaxiv.org/abs/2403.19649) | [GitHub](https://github.com/zdchan/graspxl) |
-| 2024 | **Dexterous Functional Pre-Grasp Manipulation with Diffusion Policy** | [arXiv 2024.03](https://www.alphaxiv.org/abs/2403.12421) | [GitHub](https://github.com/tianhaowuhz/UniDexFPM) |
-| 2024 | **RealDex: Towards Human-like Grasping for Robotic Dexterous Hand** | [arXiv 2024.02](https://www.alphaxiv.org/abs/2402.13853) | [GitHub](https://github.com/4DVLab/RealDex) |
-| 2023 | **Dexterous Functional Grasping** | [arXiv 2023.12](https://www.alphaxiv.org/abs/2312.02975) | — |
-| 2023 | **Grasp Multiple Objects with One Hand** | [arXiv 2023.10](https://www.alphaxiv.org/abs/2310.15599) | [GitHub](https://github.com/MultiGrasp/MultiGrasp) |
-| 2023 | **Dynamic Handover: Throw and Catch with Bimanual Hands** | [arXiv 2023.09](https://www.alphaxiv.org/abs/2309.05655) | — |
-| 2023 | **UniDexGrasp: Universal Robotic Dexterous Grasping via Learning Diverse Proposal Generation and Goal-Conditioned Policy** | [arXiv 2023.03](https://www.alphaxiv.org/abs/2303.00938) | [GitHub](https://github.com/PKU-EPIC/UniDexGrasp) |
-| 2023 | **3DSGrasp: 3D Shape-Completion for Robotic Grasp** | [arXiv 2023.01](https://www.alphaxiv.org/abs/2301.00866) | [GitHub](https://github.com/NunoDuarte/3DSGrasp) |
-| 2022 | **AnyGrasp: Robust and Efficient Grasp Perception in Spatial and Temporal Domains** | [arXiv 2022.12](https://www.alphaxiv.org/abs/2212.08333) | — |
-| 2022 | **Learning Continuous Grasping Function with a Dexterous Hand from Human Demonstrations** | [arXiv 2022.07](https://www.alphaxiv.org/abs/2207.05053) | — |
+| 2026 | **TactiDex: A Real-World Tactile-Guided Benchmark for Human-Like Dexterous Manipulation** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.09190) | — |
+| 2026 | **DexVerse: A Modular Benchmark for Multi-Task, Multi-Embodiment Dexterous Manipulation** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.08751) | — |
+| 2026 | **Learning Dexterous Manipulation Using Contact Wrench Guidance From Human Demonstration** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.00033) | [GitHub](https://github.com/nvidia-isaac/video_to_data) |
+| 2026 | **DexJoCo: A Benchmark and Toolkit for Task-Oriented Dexterous Manipulation on MuJoCo** | [arXiv 2026.05](https://www.alphaxiv.org/abs/2605.16257) | [GitHub](https://github.com/brave-eai/dexjoco) |
+| 2026 | **BiDexGrasp: Coordinated Bimanual Dexterous Grasps across Object Geometries and Sizes** | [arXiv 2026.04](https://www.alphaxiv.org/abs/2604.06589) | — |
+| 2025 | **HumanoidGen: Data Generation for Bimanual Dexterous Manipulation via LLM Reasoning** | [arXiv 2025.07](https://www.alphaxiv.org/abs/2507.00833) | — |
+| 2025 | **Dex1B: Learning with 1B Demonstrations for Dexterous Manipulation** | [arXiv 2025.06](https://www.alphaxiv.org/abs/2506.17198) | — |
+| 2025 | **TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation** | [arXiv 2025.05](https://www.alphaxiv.org/abs/2505.12748) | [GitHub](https://github.com/cyjdlhy/TeleOpBench) |
+| 2025 | **DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies** | [arXiv 2025.05](https://www.alphaxiv.org/abs/2505.07813) | [GitHub](https://github.com/dexwild/dexwild) |
+| 2025 | **ORCA: An Open-Source, Reliable, Cost-Effective, Anthropomorphic Robotic Hand for Uninterrupted Dexterous Task Learning** | [arXiv 2025.04](https://www.alphaxiv.org/abs/2504.04259) | [GitHub](https://github.com/orcahand/orca_core) |
+| 2024 | **DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation via Imitation Learning** | [arXiv 2024.10](https://www.alphaxiv.org/abs/2410.24185) | [GitHub](https://github.com/NVlabs/dexmimicgen) |
+| 2024 | **FürElise: Capturing and Physically Synthesizing Hand Motions of Piano Performance** | [arXiv 2024.10](https://www.alphaxiv.org/abs/2410.05791) | — |
+| 2024 | **MuxHand: A Cable-driven Dexterous Robotic Hand Using Time-division Multiplexing Motors** | [arXiv 2024.09](https://www.alphaxiv.org/abs/2409.12455) | — |
+| 2024 | **RP1M: A Large-Scale Motion Dataset for Piano Playing with Bi-Manual Dexterous Robot Hands** | [arXiv 2024.08](https://www.alphaxiv.org/abs/2408.11048) | [GitHub](https://github.com/google-research/robopianist) |
+| 2024 | **DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation** | [arXiv 2024.03](https://www.alphaxiv.org/abs/2403.07788) | [GitHub](https://github.com/j96w/DexCap) |
+| 2024 | **CyberDemo: Augmenting Simulated Human Demonstration for Real-World Dexterous Manipulation** | [arXiv 2024.02](https://www.alphaxiv.org/abs/2402.14795) | [GitHub](https://github.com/wang59695487/hand_teleop_real_sim_mix_adr) |
+| 2023 | **LEAP Hand: Low-Cost, Efficient, and Anthropomorphic Hand for Robot Learning** | [arXiv 2023.09](https://www.alphaxiv.org/abs/2309.06440) | [GitHub](https://github.com/leap-hand/LEAP_Hand_API) |
+| 2023 | **DexArt: Benchmarking Generalizable Dexterous Manipulation with Articulated Objects** | [arXiv 2023.05](https://www.alphaxiv.org/abs/2305.05706) | [GitHub](https://github.com/Kami-code/dexart-release) |
+| 2022 | **DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation** | [arXiv 2022.10](https://www.alphaxiv.org/abs/2210.02697) | [GitHub](https://github.com/PKU-EPIC/DexGraspNet) |
+| 2022 | **Towards Human-Level Bimanual Dexterous Manipulation with Reinforcement Learning** | [arXiv 2022.06](https://www.alphaxiv.org/abs/2206.08686) | [GitHub](https://github.com/PKU-MARL/DexterousHands) |
 |  |  |  | [Back to top ↑](#table-of-contents) |
 
 ## 2.2 Dexterous Retargeting & Teleoperation
@@ -94,7 +81,46 @@
 | 2018 | **Task-Oriented Hand Motion Retargeting for Dexterous Manipulation Imitation** | [arXiv 2018.10](https://www.alphaxiv.org/abs/1810.01845) | — |
 |  |  |  | [Back to top ↑](#table-of-contents) |
 
-## 2.3 Dexterous In-Hand Manipulation
+## 2.3 Dexterous Grasping
+
+| Year | Title | Paper | GitHub |
+|:----------:|-------|-------|-------|
+| 2026 | **From Grasps to Dexterity: Large-Scale Grasp Pretraining for Dexterous Manipulation** | [arXiv 2026.06](https://www.alphaxiv.org/abs/2606.30749) | — |
+| 2026 | **MoDex: A Diffusion Policy for Sequential Multi-Object Dexterous Grasping** | [arXiv 2026.06](https://www.alphaxiv.org/abs/2606.05407) | — |
+| 2025 | 🌟️ **Lightning Grasp: High Performance Procedural Grasp Synthesis with Contact Fields** | [arXiv 2025.11](https://www.alphaxiv.org/abs/2511.07418) | [GitHub](https://github.com/zhaohengyin/lightning-grasp) |
+| 2025 | **GraspQP: Differentiable Optimization of Force Closure for Diverse and Robust Dexterous Grasping** | [arXiv 2025.08](https://www.alphaxiv.org/abs/2508.15002) | [GitHub](https://github.com/leggedrobotics/graspqp) |
+| 2025 | **DexH2R: A Benchmark for Dynamic Dexterous Grasping in Human-to-Robot Handover** | [arXiv 2025.06](https://www.alphaxiv.org/abs/2506.23152) | — |
+| 2025 | **ClutterDexGrasp: A Sim-to-Real System for General Dexterous Grasping in Cluttered Scenes** | [arXiv 2025.06](https://www.alphaxiv.org/abs/2506.14317) | — |
+| 2025 | **Grasp2Grasp: Vision-Based Dexterous Grasp Translation via Schrödinger Bridges** | [arXiv 2025.06](https://www.alphaxiv.org/abs/2506.02489) | — |
+| 2025 | 🌟️ **GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data** | [arXiv 2025.05](https://www.alphaxiv.org/abs/2505.03233) | [GitHub](https://github.com/PKU-EPIC/GraspVLA) |
+| 2025 | **RL-Driven Data Generation for Robust Vision-Based Dexterous Grasping** | [arXiv 2025.04](https://www.alphaxiv.org/abs/2504.18084) | — |
+| 2025 | **Dexonomy: Synthesizing All Dexterous Grasp Types in a Grasp Taxonomy** | [arXiv 2025.04](https://www.alphaxiv.org/abs/2504.18829) | [GitHub](https://github.com/JYChen18/Dexonomy) |
+| 2025 | **RobustDexGrasp: Robust Dexterous Grasping of General Objects** | [arXiv 2025.04](https://www.alphaxiv.org/abs/2504.05287) | [GitHub](https://github.com/zdchan/RobustDexGrasp) |
+| 2025 | **Sequential Multi-Object Grasping with One Dexterous Hand** | [arXiv 2025.03](https://www.alphaxiv.org/abs/2503.09078) | [GitHub](https://github.com/hesic73/SeqMultiGrasp) |
+| 2025 | **DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness** | [arXiv 2025.03](https://www.alphaxiv.org/abs/2503.08257) | [GitHub](https://github.com/4DVLab/DexGrasp-Anything) |
+| 2025 | 🌟️ **DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping** | [arXiv 2025.02](https://www.alphaxiv.org/abs/2502.20900) | [GitHub](https://github.com/Psi-Robot/DexGraspVLA) |
+| 2025 | 🌟️ **AnyDexGrasp: General Dexterous Grasping for Different Hands with Human-level Learning Efficiency** | [arXiv 2025.02](https://www.alphaxiv.org/abs/2502.16420) | [GitHub](https://github.com/graspnet/AnyDexGrasp) |
+| 2024/2025 | **BODex: Scalable and Efficient Robotic Dexterous Grasp Synthesis Using Bilevel Optimization** | [arXiv 2024.12](https://www.alphaxiv.org/abs/2412.16490) | [GitHub](https://github.com/JYChen18/BODex) |
+| 2024 | **DextrAH-RGB: Visuomotor Policies to Grasp Anything with Dexterous Hands** | [arXiv 2024.12](https://www.alphaxiv.org/abs/2412.01791) | [GitHub](https://github.com/NVlabs/DEXTRAH) |
+| 2024 | **FunGrasp: Functional Grasping for Diverse Dexterous Hands** | [arXiv 2024.11](https://www.alphaxiv.org/abs/2411.16755) | [GitHub](https://github.com/Hly-123/Fungrasp_code) |
+| 2024 | **Cross-Embodiment Dexterous Grasping with Reinforcement Learning** | [arXiv 2024.10](https://www.alphaxiv.org/abs/2410.02479) | [GitHub](https://github.com/PKU-RL/CrossDex) |
+| 2024 | **$\mathcal{D(R,O)}$ Grasp: A Unified Representation of Robot and Object Interaction for Cross-Embodiment Dexterous Grasping** | [arXiv 2024.10](https://www.alphaxiv.org/abs/2410.01702) | [GitHub](https://github.com/zhenyuwei2003/DRO-Grasp) |
+| 2024 | **FFHFlow: Diverse and Uncertainty-Aware Dexterous Grasp Generation via Flow Variational Inference** | [arXiv 2024.07](https://www.alphaxiv.org/abs/2407.15161) | — |
+| 2024 | **DextrAH-G: Pixels-to-Action Dexterous Arm-Hand Grasping with Geometric Fabrics** | [arXiv 2024.07](https://www.alphaxiv.org/abs/2407.02274) | — |
+| 2024 | **ContactDexNet: Multi-fingered Robotic Hand Grasping in Cluttered Environments through Hand-object Contact Semantic Mapping** | [arXiv 2024.04](https://www.alphaxiv.org/abs/2404.08844) | [GitHub](https://github.com/leizhang-public/contact-dexnet) |
+| 2024 | **GraspXL: Generating Grasping Motions for Diverse Objects at Scale** | [arXiv 2024.03](https://www.alphaxiv.org/abs/2403.19649) | [GitHub](https://github.com/zdchan/graspxl) |
+| 2024 | **Dexterous Functional Pre-Grasp Manipulation with Diffusion Policy** | [arXiv 2024.03](https://www.alphaxiv.org/abs/2403.12421) | [GitHub](https://github.com/tianhaowuhz/UniDexFPM) |
+| 2024 | **RealDex: Towards Human-like Grasping for Robotic Dexterous Hand** | [arXiv 2024.02](https://www.alphaxiv.org/abs/2402.13853) | [GitHub](https://github.com/4DVLab/RealDex) |
+| 2023 | **Dexterous Functional Grasping** | [arXiv 2023.12](https://www.alphaxiv.org/abs/2312.02975) | — |
+| 2023 | **Grasp Multiple Objects with One Hand** | [arXiv 2023.10](https://www.alphaxiv.org/abs/2310.15599) | [GitHub](https://github.com/MultiGrasp/MultiGrasp) |
+| 2023 | **Dynamic Handover: Throw and Catch with Bimanual Hands** | [arXiv 2023.09](https://www.alphaxiv.org/abs/2309.05655) | — |
+| 2023 | **UniDexGrasp: Universal Robotic Dexterous Grasping via Learning Diverse Proposal Generation and Goal-Conditioned Policy** | [arXiv 2023.03](https://www.alphaxiv.org/abs/2303.00938) | [GitHub](https://github.com/PKU-EPIC/UniDexGrasp) |
+| 2023 | **3DSGrasp: 3D Shape-Completion for Robotic Grasp** | [arXiv 2023.01](https://www.alphaxiv.org/abs/2301.00866) | [GitHub](https://github.com/NunoDuarte/3DSGrasp) |
+| 2022 | **AnyGrasp: Robust and Efficient Grasp Perception in Spatial and Temporal Domains** | [arXiv 2022.12](https://www.alphaxiv.org/abs/2212.08333) | — |
+| 2022 | **Learning Continuous Grasping Function with a Dexterous Hand from Human Demonstrations** | [arXiv 2022.07](https://www.alphaxiv.org/abs/2207.05053) | — |
+|  |  |  | [Back to top ↑](#table-of-contents) |
+
+## 2.4 Dexterous In-Hand Manipulation
 
 | Year | Title | Paper | GitHub |
 |:----------:|-------|-------|-------|
@@ -119,7 +145,7 @@
 | 2018 | **Learning Dexterous In-Hand Manipulation** | [arXiv 2018.08](https://www.alphaxiv.org/abs/1808.00177) | — |
 |  |  |  | [Back to top ↑](#table-of-contents) |
 
-## 2.4 Dexterous Tactile Manipulation
+## 2.5 Dexterous Tactile Manipulation
 
 | Year | Title | Paper | GitHub |
 |:----------:|-------|-------|-------|
@@ -153,7 +179,7 @@
 | 2023 | **Rotating without Seeing: Towards In-hand Dexterity through Touch** | [arXiv 2023.03](https://www.alphaxiv.org/abs/2303.10880) | — |
 |  |  |  | [Back to top ↑](#table-of-contents) |
 
-## 2.5 Dexterous Learning-Based Manipulation
+## 2.6 Dexterous Learning-Based Manipulation
 
 | Year | Title | Paper | GitHub |
 |:----------:|-------|-------|-------|
@@ -218,32 +244,6 @@
 | 2018 | **Dexterous Manipulation with Deep Reinforcement Learning: Efficient, General, and Low-Cost** | [arXiv 2018.10](https://www.alphaxiv.org/abs/1810.06045) | — |
 | 2018 | **Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations** | [arXiv 2017.09](https://www.alphaxiv.org/abs/1709.10087) | [GitHub](https://github.com/aravindr93/hand_dapg) |
 | 2016 | **Learning Dexterous Manipulation for a Soft Robotic Hand from Human Demonstration** | [arXiv 2016.03](https://www.alphaxiv.org/abs/1603.06348) | — |
-|  |  |  | [Back to top ↑](#table-of-contents) |
-
-## 2.6 Dexterous Data & Demonstrations
-
-| Year | Title | Paper | GitHub |
-|:----------:|-------|-------|-------|
-| 2026 | **TactiDex: A Real-World Tactile-Guided Benchmark for Human-Like Dexterous Manipulation** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.09190) | — |
-| 2026 | **DexVerse: A Modular Benchmark for Multi-Task, Multi-Embodiment Dexterous Manipulation** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.08751) | — |
-| 2026 | **Learning Dexterous Manipulation Using Contact Wrench Guidance From Human Demonstration** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.00033) | [GitHub](https://github.com/nvidia-isaac/video_to_data) |
-| 2026 | **DexJoCo: A Benchmark and Toolkit for Task-Oriented Dexterous Manipulation on MuJoCo** | [arXiv 2026.05](https://www.alphaxiv.org/abs/2605.16257) | [GitHub](https://github.com/brave-eai/dexjoco) |
-| 2026 | **BiDexGrasp: Coordinated Bimanual Dexterous Grasps across Object Geometries and Sizes** | [arXiv 2026.04](https://www.alphaxiv.org/abs/2604.06589) | — |
-| 2025 | **HumanoidGen: Data Generation for Bimanual Dexterous Manipulation via LLM Reasoning** | [arXiv 2025.07](https://www.alphaxiv.org/abs/2507.00833) | — |
-| 2025 | **Dex1B: Learning with 1B Demonstrations for Dexterous Manipulation** | [arXiv 2025.06](https://www.alphaxiv.org/abs/2506.17198) | — |
-| 2025 | **TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation** | [arXiv 2025.05](https://www.alphaxiv.org/abs/2505.12748) | [GitHub](https://github.com/cyjdlhy/TeleOpBench) |
-| 2025 | **DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies** | [arXiv 2025.05](https://www.alphaxiv.org/abs/2505.07813) | [GitHub](https://github.com/dexwild/dexwild) |
-| 2025 | **ORCA: An Open-Source, Reliable, Cost-Effective, Anthropomorphic Robotic Hand for Uninterrupted Dexterous Task Learning** | [arXiv 2025.04](https://www.alphaxiv.org/abs/2504.04259) | [GitHub](https://github.com/orcahand/orca_core) |
-| 2024 | **DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation via Imitation Learning** | [arXiv 2024.10](https://www.alphaxiv.org/abs/2410.24185) | [GitHub](https://github.com/NVlabs/dexmimicgen) |
-| 2024 | **FürElise: Capturing and Physically Synthesizing Hand Motions of Piano Performance** | [arXiv 2024.10](https://www.alphaxiv.org/abs/2410.05791) | — |
-| 2024 | **MuxHand: A Cable-driven Dexterous Robotic Hand Using Time-division Multiplexing Motors** | [arXiv 2024.09](https://www.alphaxiv.org/abs/2409.12455) | — |
-| 2024 | **RP1M: A Large-Scale Motion Dataset for Piano Playing with Bi-Manual Dexterous Robot Hands** | [arXiv 2024.08](https://www.alphaxiv.org/abs/2408.11048) | [GitHub](https://github.com/google-research/robopianist) |
-| 2024 | **DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation** | [arXiv 2024.03](https://www.alphaxiv.org/abs/2403.07788) | [GitHub](https://github.com/j96w/DexCap) |
-| 2024 | **CyberDemo: Augmenting Simulated Human Demonstration for Real-World Dexterous Manipulation** | [arXiv 2024.02](https://www.alphaxiv.org/abs/2402.14795) | [GitHub](https://github.com/wang59695487/hand_teleop_real_sim_mix_adr) |
-| 2023 | **LEAP Hand: Low-Cost, Efficient, and Anthropomorphic Hand for Robot Learning** | [arXiv 2023.09](https://www.alphaxiv.org/abs/2309.06440) | [GitHub](https://github.com/leap-hand/LEAP_Hand_API) |
-| 2023 | **DexArt: Benchmarking Generalizable Dexterous Manipulation with Articulated Objects** | [arXiv 2023.05](https://www.alphaxiv.org/abs/2305.05706) | [GitHub](https://github.com/Kami-code/dexart-release) |
-| 2022 | **DexGraspNet: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation** | [arXiv 2022.10](https://www.alphaxiv.org/abs/2210.02697) | [GitHub](https://github.com/PKU-EPIC/DexGraspNet) |
-| 2022 | **Towards Human-Level Bimanual Dexterous Manipulation with Reinforcement Learning** | [arXiv 2022.06](https://www.alphaxiv.org/abs/2206.08686) | [GitHub](https://github.com/PKU-MARL/DexterousHands) |
 |  |  |  | [Back to top ↑](#table-of-contents) |
 
 ## 2.7 Dexterous Generative Policies
