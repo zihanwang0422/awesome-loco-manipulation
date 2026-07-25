@@ -306,7 +306,7 @@
 | 2026 | **StableHand: Quality-Aware Flow Matching for World-Space Dual-Hand Motion Estimation from Egocentric Video** | [Paper](https://huajian-zeng.github.io/projects/stablehand/) | [GitHub](https://github.com/huajian-zeng/stablehand) |
 | 2026 | **EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration** | [Paper](https://github.com/OpenDriveLab/EgoHumanoid) | [GitHub](https://github.com/OpenDriveLab/EgoHumanoid) |
 | 2026 | **Ego-centric World Model** | [Paper](https://egowm.github.io/) | [GitHub](https://github.com/miccooper9/egowm) |
-| 2025 | **World Models for Learning Dexterous Hand-Object Interactions from Human Videos** | [arXiv 2025.12](https://www.alphaxiv.org/abs/2512.13644) | [GitHub](https://github.com/facebookresearch/dexwm) |
+| 2025 | 🌟️ **World Models for Learning Dexterous Hand-Object Interactions from Human Videos** | [arXiv 2025.12](https://www.alphaxiv.org/abs/2512.13644) | [GitHub](https://github.com/facebookresearch/dexwm) |
 | 2025 | **Dexterity from Smart Lenses: Multi-Fingered Robot Manipulation with In-the-Wild Human Demonstrations** | [arXiv 2025.11](https://www.alphaxiv.org/abs/2511.16661) | [GitHub](https://github.com/facebookresearch/AINA) |
 | 2025 | **Scalable Vision-Language-Action Model Pretraining for Robotic Manipulation with Real-Life Human Activity Videos** | [arXiv 2025.10](https://www.alphaxiv.org/abs/2510.21571) | [GitHub](https://github.com/microsoft/VITRA) |
 | 2025 | **OpenEgo: A Large-Scale Multimodal Egocentric Dataset for Dexterous Manipulation** | [arXiv 2025.09](https://www.alphaxiv.org/abs/2509.05513) | [GitHub](https://github.com/ahadjawaid/openego) |
@@ -342,6 +342,11 @@
 ## Reference Resources
 
 ### Surveys & Continuously Updated Resources
+
+- [Awesome Dexterous Manipulation — chang-xinhai](https://github.com/chang-xinhai/Awesome-Dexterous-Manipulation)
+- [Awesome Dexterous Manipulation — kingchou007](https://github.com/kingchou007/Awesome-Dexterous-Manipulation)
+- [Awesome Touch](https://github.com/linchangyi1/Awesome-Touch)
+
 
 | Year | Title | Paper | GitHub |
 |:----------:|-------|-------|-------|

@@ -110,34 +110,6 @@ Resources: [Awesome Lists](#awesome-lists) · [Surveys & Reviews](#surveys--revi
 
 ## Awesome Lists
 
-### Manipulation
-
-- [Awesome Manipulation](https://github.com/curieuxjy/Awesome_Manipulation)
-- [Awesome Robotics Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation)
-- [Awesome Bimanual Manipulation](https://github.com/Skylark0924/awesome-bimanual-manipulation)
-   
-- [Awesome UMI](https://github.com/chang-xinhai/Awesome-UMI)
-- [Awesome Robotics Diffusion](https://github.com/showlab/Awesome-Robotics-Diffusion)
-
-- [VLA-Diffusion-Policy-Robotics](https://github.com/EmbodiedMind/VLA-Diffusion-Policy-Robotics)
-- [Large-VLM-based VLA for Robotic Manipulation](https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation)
-- [Awesome VLA Robotics](https://github.com/Jiaaqiliu/Awesome-VLA-Robotics)
-- [Awesome VLA](https://github.com/yueen-ma/awesome-vla)
-
-- [Awesome WAM](https://github.com/OpenMOSS/Awesome-WAM)
-- [Awesome World Model for Robotics Policy](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy)
-- [Awesome VLA WAM](https://github.com/DravenALG/awesome-vla-wam)
-- [Awesome World Models for Manipulation](https://github.com/jacob-zietek/awesome-world-models-manipulation)
-- [Awesome Robotics Foundation Models](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models)
-
-- [Awesome Dexterous Manipulation — chang-xinhai](https://github.com/chang-xinhai/Awesome-Dexterous-Manipulation)
-- [Awesome Dexterous Manipulation — kingchou007](https://github.com/kingchou007/Awesome-Dexterous-Manipulation)
-- [Awesome Touch](https://github.com/linchangyi1/Awesome-Touch)
-
-- [Awesome Robotic Benchmarks](https://github.com/HaoranZhangumich/Awesome-Robotic-Benchmarks)
-- [Awesome VLA / WAM Datasets & Benchmarks](https://github.com/ziyaow1010/vla-datasets-benchmarks)
-- [Awesome Embodied AI Datasets](https://github.com/freekatz/awesome-embodied-ai-datasets)
-
 ### Locomotion
 
 - [Awesome Loco-Manipulation](https://github.com/aCodeDog/awesome-loco-manipulation)
@@ -154,11 +126,9 @@ Resources: [Awesome Lists](#awesome-lists) · [Surveys & Reviews](#surveys--revi
 |:----:|-------|-------|--------|
 | 2026 | **Vision-Language-Action Models for Robotics: A Survey** | [arXiv 2026.04](https://www.alphaxiv.org/abs/2604.23001) | — |
 | 2026 | **A Survey on Learning-Based Whole-Body Control for Humanoid Robots** | [arXiv 2026](https://www.alphaxiv.org/search?q=A+Survey+on+Learning-Based+Whole-Body+Control+for+Humanoid+Robots) | [github](https://github.com/Earl000333/humanoid-wbc-review) |
-| 2025 | **World Models for Robotic Manipulation: A Survey** | [arXiv 2025.11](https://www.alphaxiv.org/abs/2511.02097) | [github](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy) |
 | 2025 | **Towards a Unified Understanding of Robot Manipulation: A Comprehensive Survey** | [arXiv 2025.10](https://www.alphaxiv.org/abs/2510.10903) | — |
 | 2025 | **Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey** | [arXiv 2025.08](https://www.alphaxiv.org/abs/2508.13073) | [github](https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation) |
-| 2025 | **A Survey on Diffusion Policy for Robotic Manipulation** | [arXiv 2025.04](https://www.alphaxiv.org/abs/2504.08438) | [github](https://github.com/EmbodiedMind/VLA-Diffusion-Policy-Robotics) |
+
 | 2025 | **Dexterous Manipulation through Imitation Learning: A Survey** | [arXiv 2025.04](https://www.alphaxiv.org/abs/2504.03515) | — |
 | 2024 | **A Survey of Embodied Learning for Object-Centric Robotic Manipulation** | [arXiv 2024.08](https://www.alphaxiv.org/abs/2408.11537) | — |
 | 2024 | **A Systematic Review on Custom Data Gloves** | [arXiv 2024.05](https://www.alphaxiv.org/abs/2405.15417) | — |
-| 2024 | **Learning by Watching: A Review of Video-based Learning Approaches for Robot Manipulation** | [arXiv 2024.02](https://www.alphaxiv.org/abs/2402.07127) | — |
