@@ -208,7 +208,8 @@ Real, physically-deployed (or deployment-targeted) humanoid robot papers — who
 | 2026 | **LEGS: Fine-Tuning Teleop-Free VLAs for Humanoid Loco-manipulation in an Embodied Gaussian Splatting World** | [arXiv 2026.06](https://www.alphaxiv.org/abs/2606.01458) | — |
 | 2026 | **Learning Whole-Body Humanoid Locomotion via Motion Generation and Motion Tracking** | [arXiv 2026.04](https://www.alphaxiv.org/abs/2604.17335) | — |
 | 2026 | **Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching** | [arXiv 2026.02](https://www.alphaxiv.org/abs/2602.15827) | — |
-| 2026 | **ZEST: Zero-shot Embodied Skill Transfer for Athletic Robot Control** | [arXiv 2026.02](https://www.alphaxiv.org/abs/2602.00401) | — |
+| 2026 | 🌟️ **Generalizing from References using a Multi-Task Reference and Goal-Driven RL Framework** | [arXiv 2026.02](https://www.alphaxiv.org/abs/2602.20375) | [GitHub](https://github.com/jiashunwang/Hybrid-Motion-Imitation) |
+| 2026 | 🌟️ **ZEST: Zero-shot Embodied Skill Transfer for Athletic Robot Control** | [arXiv 2026.02](https://www.alphaxiv.org/abs/2602.00401) | — |
 | 2026 |  🌟️ **Deep Whole-body Parkour** | [arXiv 2026.01](https://www.alphaxiv.org/abs/2601.07701) | [GitHub](https://github.com/project-instinct/InstinctLab) |
 | 2025 |  🌟️ **CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives** | [arXiv 2025.12](https://www.alphaxiv.org/abs/2512.14696) | [GitHub](https://github.com/Z1hanW/CRISP-Real2Sim) |
 | 2025 | **Gallant: Voxel Grid-based Humanoid Locomotion and Local-navigation across 3D Constrained Terrains** | [arXiv 2025.11](https://www.alphaxiv.org/abs/2511.14625) | [GitHub](https://github.com/InternRobotics/Gallant) |
@@ -379,10 +380,9 @@ Physics-based **simulated virtual character / avatar** research from computer gr
 | Year | Title | Paper | GitHub |
 |:----:|-------|-------|--------|
 | 2026 | 🌟️ **MeshMimic: Geometry-Aware Humanoid Motion Learning through 3D Scene Reconstruction** | [arXiv 2026.02](https://www.alphaxiv.org/abs/2602.15733) | — |
-| 2026 | **Generalizing from References using a Multi-Task Reference and Goal-Driven RL Framework** | [arXiv 2026.02](https://www.alphaxiv.org/abs/2602.20375) | [GitHub](https://github.com/jiashunwang/GfR) |
 | 2025 | 🌟️ **PARC: Physics-based Augmentation with Reinforcement Learning for Character Controllers** | [arXiv 2025.05](https://www.alphaxiv.org/abs/2505.04002) | [GitHub](https://github.com/mshoe/PARC) |
 | 2025 | **Physics-Based Motion Imitation with Adversarial Differential Discriminators** | [arXiv 2025.05](https://www.alphaxiv.org/abs/2505.04961) | [GitHub](https://github.com/xbpeng/MimicKit) |
-| 2025 | **HIL: Hybrid Imitation Learning of Diverse Parkour Skills from Videos** | [arXiv 2025.05](https://www.alphaxiv.org/abs/2505.12619) | — |
+| 2025 | 🌟️ **HIL: Hybrid Imitation Learning of Diverse Parkour Skills from Videos** | [arXiv 2025.05](https://www.alphaxiv.org/abs/2505.12619) | [github](https://github.com/jiashunwang/Hybrid-Motion-Imitation) |
 | 2024 | 🌟️ **Hierarchical World Models as Visual Whole-Body Humanoid Controllers** | [arXiv 2024.05](https://www.alphaxiv.org/abs/2405.18418) | [GitHub](https://github.com/nicklashansen/puppeteer) |
 
 ### 6.4 MimicGen
