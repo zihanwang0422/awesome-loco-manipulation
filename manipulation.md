@@ -391,7 +391,7 @@
 | 2024 | **Robotic Control via Embodied Chain-of-Thought Reasoning** | [arXiv 2024.07](https://www.alphaxiv.org/abs/2407.08693) | [github](https://github.com/MichalZawalski/embodied-CoT) |
 | 2024 | 🌟️ **OpenVLA** | [arXiv 2024.06](https://www.alphaxiv.org/abs/2406.09246) | [github](https://github.com/openvla/openvla) |
 | 2024 | 🌟️ **Octo: An Open-Source Generalist Robot Policy** | [arXiv 2024.05](https://www.alphaxiv.org/abs/2405.12213) | [github](https://github.com/octo-models/octo) |
-| 2024 | **GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping** | [arXiv 2024.03](https://www.alphaxiv.org/abs/2403.09637) | — |
+| 2024 | **GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping** | [arXiv 2024.03](https://www.alphaxiv.org/abs/2403.09637) | [github](https://github.com/MrSecant/GaussianGrasper) |
 | 2024 | 🌟️ **RDT-1B** | [arXiv 2024](https://www.alphaxiv.org/search?q=RDT-1B) | [github](https://github.com/thu-ml/RoboticsDiffusionTransformer) |
 | 2024 | **CogACT** | [arXiv 2024](https://www.alphaxiv.org/search?q=CogACT) | [github](https://github.com/microsoft/CogACT) |
 | 2024 | **SpatialVLA** | [arXiv 2024](https://www.alphaxiv.org/search?q=SpatialVLA) | [github](https://github.com/SpatialVLA/SpatialVLA) |
