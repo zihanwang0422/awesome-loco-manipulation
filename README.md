@@ -26,36 +26,86 @@ Resources: [Awesome Lists](#awesome-lists) · [Surveys & Reviews](#surveys--revi
 
 
 
+
 ## 3. Mobile Manipulation
 
 | Year | Title | Paper | GitHub |
 |:----:|-------|-------|--------|
-| 2025– | **BEHAVIOR Robot Suite** | [arXiv 2025](https://www.alphaxiv.org/search?q=BEHAVIOR+Robot+Suite) | [GitHub](https://github.com/behavior-robot-suite/brs-algo) |
 | 2026 | **WHOLE-MoMa** | [arXiv 2026.04](https://www.alphaxiv.org/abs/2604.12509) | — |
+| 2025 | **SAGA: Open-World Mobile Manipulation via Structured Affordance Grounding** | [arXiv 2025.12](https://www.alphaxiv.org/abs/2512.12842) | — |
+| 2025 | **CuriousBot: Interactive Mobile Exploration via Actionable 3D Relational Object Graph** | [arXiv 2025.01](https://www.alphaxiv.org/abs/2501.13338) | — |
+| 2025 | **Dynamic Object Goal Pushing with Mobile Manipulators through Model-Free Constrained Reinforcement Learning** | [arXiv 2025.02](https://www.alphaxiv.org/abs/2502.01546) | — |
+| 2025 | **VidBot: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation** | [arXiv 2025.03](https://www.alphaxiv.org/abs/2503.07135) | [GitHub](https://github.com/ethz-mrl/VidBot) |
+| 2025– | **BEHAVIOR Robot Suite** | [arXiv 2025](https://www.alphaxiv.org/search?q=BEHAVIOR+Robot+Suite) | [GitHub](https://github.com/behavior-robot-suite/brs-algo) |
 | 2025 | **BiGym** | [arXiv 2025](https://www.alphaxiv.org/search?q=BiGym) | [GitHub](https://github.com/chernyadev/bigym) |
 | 2025 | **Open-World Mobile Manipulation** | [arXiv 2025](https://www.alphaxiv.org/search?q=Open-World+Mobile+Manipulation) | — |
 | 2025 | **EMMA** | [arXiv 2025](https://www.alphaxiv.org/search?q=EMMA) | — |
 | 2024 | **Mobile ALOHA** | [arXiv 2024](https://www.alphaxiv.org/search?q=Mobile+ALOHA) | [GitHub](https://github.com/MarkFzp/mobile-aloha) |
 | 2024 | **OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics** | [arXiv 2024](https://www.alphaxiv.org/search?q=OK-Robot%3A+What+Really+Matters+in+Integrating+Open-Knowledge+Models+for+Robotics) | [GitHub](https://github.com/ok-robot/ok-robot) |
 | 2024 | **MoMa-LLM: Language-Grounded Dynamic Scene Graphs for Interactive Object Search** | [arXiv 2024](https://www.alphaxiv.org/search?q=MoMa-LLM%3A+Language-Grounded+Dynamic+Scene+Graphs+for+Interactive+Object+Search) | [GitHub](https://github.com/robot-learning-freiburg/MoMa-LLM) |
-| 2024 | **TidyBot++** | [arXiv 2024](https://www.alphaxiv.org/search?q=TidyBot%2B%2B) | [GitHub](https://github.com/jimmyyhwu/tidybot) |
+| 2024 | **TidyBot++** | [arXiv 2024](https://www.alphaxiv.org/search?q=TidyBot%2B%2B) | [GitHub](https://github.com/jimmyyhwu/tidybot2) |
 | 2024 | **SPIN: Simultaneous Perception, Interaction and Navigation** | [arXiv 2024](https://www.alphaxiv.org/search?q=SPIN%3A+Simultaneous+Perception%2C+Interaction+and+Navigation) | — |
+| 2024 | **Learning Generalizable Feature Fields for Mobile Manipulation** | [arXiv 2024.03](https://www.alphaxiv.org/abs/2403.07563) | — |
+| 2024 | **Catch It! Learning to Catch in Flight with Mobile Dexterous Hands** | [arXiv 2024.09](https://www.alphaxiv.org/abs/2409.10319) | [github](https://github.com/hang0610/Catch_It) |
+| 2024 | **Continuously Improving Mobile Manipulation with Autonomous Real-World RL** | [arXiv 2024.09](https://www.alphaxiv.org/abs/2409.20568) | — |
+| 2024 | **Adaptive Language-Guided Abstraction from Contrastive Explanations** | [arXiv 2024.09](https://www.alphaxiv.org/abs/2409.08212) | [GitHub](https://github.com/rai-opensource/predicators) |
 | 2023 | **HomeRobot: Open-Vocabulary Mobile Manipulation** | [arXiv 2023](https://www.alphaxiv.org/search?q=HomeRobot%3A+Open-Vocabulary+Mobile+Manipulation) | [GitHub](https://github.com/facebookresearch/home-robot) |
+
 
 ## 4. Legged Loco-Manipulation
 
 | Year | Title | Paper | GitHub |
 |:----:|-------|-------|--------|
+| 2026 | **TAC-LOCO: Unified Whole-Body Control for Quadrupedal TACtile-Informed LOCO-Manipulation** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.10132) | — |
+| 2026 | **FT-WBC: Learning Fault-Tolerant Whole-Body Control for Legged Loco-Manipulation** | [arXiv 2026.06](https://www.alphaxiv.org/abs/2606.24466) | — |
+| 2026 | **Learning Terrain-Aware Whole-Body Control for Perceptive Legged Loco-Manipulation** | [arXiv 2026.05](https://www.alphaxiv.org/abs/2605.31343) | — |
+| 2026 | **Learning Tactile-Aware Quadrupedal Loco-Manipulation Policies** | [arXiv 2026.04](https://www.alphaxiv.org/abs/2604.27224) | — |
+| 2026 | 🌟️ **Sumo: Dynamic and Generalizable Whole-Body Loco-Manipulation** | [arXiv 2026.04](https://www.alphaxiv.org/abs/2604.08508) | [GitHub](https://github.com/rai-opensource/sumo) |
+| 2026 | 🌟️ **BinWalker: Development and Field Evaluation of a Quadruped Manipulator Platform for Sustainable Litter Collection** | [arXiv 2026.03](https://www.alphaxiv.org/abs/2603.10529) | [GitHub](https://github.com/iit-DLSLab/trash-collection-isaaclab) |
 | 2026 | **ODYSSEY: Open-World Quadruped Loco-Manipulation** | [arXiv 2026](https://www.alphaxiv.org/search?q=ODYSSEY%3A+Open-World+Quadruped+Loco-Manipulation) | — |
 | 2026 | **Learning Dynamic Pick-and-Place for Legged Manipulators** | [arXiv 2026](https://www.alphaxiv.org/search?q=Learning+Dynamic+Pick-and-Place+for+Legged+Manipulators) | — |
 | 2026 | **Calf-Integrated Arms for Whole-Body Loco-Manipulation** | [arXiv 2026](https://www.alphaxiv.org/search?q=Calf-Integrated+Arms+for+Whole-Body+Loco-Manipulation) | — |
-| 2025 | **Unified Position and Force Control for Legged Loco-Manipulation** | [arXiv 2025](https://www.alphaxiv.org/search?q=Unified+Position+and+Force+Control+for+Legged+Loco-Manipulation) | — |
+| 2025 | **Whole Body Model Predictive Control for Spin-Aware Quadrupedal Table Tennis** | [arXiv 2025.10](https://www.alphaxiv.org/abs/2510.08754) | — |
+| 2025 | **Multi-Quadruped Cooperative Object Transport: Learning Decentralized Pinch-Lift-Move** | [arXiv 2025.09](https://www.alphaxiv.org/abs/2509.14342) | [GitHub](https://github.com/osudrl/Decentralized-Pinch-Lift-Move) |
+| 2025 | **Learning Multi-Stage Pick-and-Place with a Legged Mobile Manipulator** | [arXiv 2025.09](https://www.alphaxiv.org/abs/2509.03859) | — |
+| 2025 | **MLM: Learning Multi-task Loco-Manipulation Whole-Body Control for Quadruped Robot with Arm** | [arXiv 2025.08](https://www.alphaxiv.org/abs/2508.10538) | — |
+| 2025 | **Multi-critic Learning for Whole-body End-effector Twist Tracking** | [arXiv 2025.07](https://www.alphaxiv.org/abs/2507.08656) | — |
+| 2025 | **Efficient Learning of a Unified Policy for Whole-body Manipulation and Locomotion Skills** | [arXiv 2025.07](https://www.alphaxiv.org/abs/2507.04229) | [GitHub](https://github.com/11chens/SigLoMa-Code) |
+| 2025 | 🌟️ **Versatile Loco-Manipulation through Flexible Interlimb Coordination** | [arXiv 2025.06](https://www.alphaxiv.org/abs/2506.07876) | [GitHub](https://github.com/rai-opensource/relic) |
+| 2025 | 🌟️ **Human2LocoMan: Learning Versatile Quadrupedal Manipulation with Human Pretraining** | [arXiv 2025.06](https://www.alphaxiv.org/abs/2506.16475) | [GitHub](https://github.com/chrisyrniu/Human2LocoMan) |
+| 2025 | **Learning Coordinated Badminton Skills for Legged Manipulators** | [arXiv 2025.05](https://www.alphaxiv.org/abs/2505.22974) | [GitHub](https://github.com/nolie-rolie/athletic-loco-manipulation) |
+| 2025 | 🌟️ **Learning a Unified Policy for Position and Force Control in Legged Loco-Manipulation** | [arXiv 2025.05](https://www.alphaxiv.org/abs/2505.20829) | [GitHub](https://github.com/unified-force/UniFP) |
+| 2025 | **RAMBO: RL-Augmented Model-Based Whole-Body Control for Loco-Manipulation** | [arXiv 2025.04](https://www.alphaxiv.org/abs/2504.06662) | [GitHub](https://github.com/catachiii/rambo) |
+| 2025 | **Interactive Navigation for Legged Manipulators with Learned Arm-Pushing Controller** | [arXiv 2025.03](https://www.alphaxiv.org/abs/2503.01474) | — |
+| 2025 | **Bridging the Sim-to-Real Gap for Athletic Loco-Manipulation** | [arXiv 2025.02](https://www.alphaxiv.org/abs/2502.10894) | [GitHub](https://github.com/nolie-rolie/athletic-loco-manipulation) |
 | 2025 | **An Open Framework for Quadrupedal Loco-Manipulation with Unitree B1 + Z1** | [arXiv 2025](https://www.alphaxiv.org/search?q=An+Open+Framework+for+Quadrupedal+Loco-Manipulation+with+Unitree+B1+%2B+Z1) | — |
+| 2025 | **SLIM: Sim-to-Real Legged Instructive Manipulation via Long-Horizon Visuomotor Learning** | [arXiv 2025.01](https://www.alphaxiv.org/abs/2501.09905) | — |
+| 2024 | **Learning Whole-Body Loco-Manipulation for Omni-Directional Task Space Pose Tracking with a Wheeled-Quadrupedal-Manipulator** | [arXiv 2024.12](https://www.alphaxiv.org/abs/2412.03012) | — |
+| 2024 | **WildLMa: Long Horizon Loco-Manipulation in the Wild** | [arXiv 2024.11](https://www.alphaxiv.org/abs/2411.15131) | — |
+| 2024 | **Learning Multi-Agent Loco-Manipulation for Long-Horizon Quadrupedal Pushing** | [arXiv 2024.11](https://www.alphaxiv.org/abs/2411.07104) | — |
+| 2024 | **QuadWBG: Generalizable Quadrupedal Whole-Body Grasping** | [arXiv 2024.11](https://www.alphaxiv.org/abs/2411.06782) | — |
+| 2024 | **Helpful DoggyBot: Open-World Object Fetching using Legged Robots and Vision-Language Models** | [arXiv 2024.10](https://www.alphaxiv.org/abs/2410.00231) | [GitHub](https://github.com/WooQi57/Helpful-Doggybot) |
+| 2024 | 🌟️ **Whole-body End-Effector Pose Tracking** | [arXiv 2024.09](https://www.alphaxiv.org/abs/2409.16048) | - |
+| 2024 | **Perceptive Pedipulation with Local Obstacle Avoidance** | [arXiv 2024.09](https://www.alphaxiv.org/abs/2409.07195) | — |
+| 2024 | **Learning to Open and Traverse Doors with a Legged Manipulator** | [arXiv 2024.09](https://www.alphaxiv.org/abs/2409.04882) | [GitHub](https://github.com/danisotelo/qm_door) |
+| 2024 | 🌟️ **Jacta: A Versatile Planner for Learning Dexterous and Whole-body Manipulation** | [arXiv 2024.08](https://www.alphaxiv.org/abs/2408.01258) | [GitHub](https://github.com/rai-opensource/jacta-manipulation) |
+| 2024 | 🌟️ **UMI on Legs: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers** | [arXiv 2024.07](https://www.alphaxiv.org/abs/2407.10353) | [GitHub](https://github.com/real-stanford/umi-on-legs) |
+| 2024 | 🌟️ **Learning Force Control for Legged Manipulation** | [arXiv 2024.05](https://www.alphaxiv.org/abs/2405.01402) | [GitHub](https://github.com/Improbable-AI/learning-compliance) |
+| 2024 | **Learning Visual Quadrupedal Loco-Manipulation from Demonstrations** | [arXiv 2024.03](https://www.alphaxiv.org/abs/2403.20328) | — |
+| 2024 | **LocoMan: Advancing Versatile Quadrupedal Dexterity with Lightweight Loco-Manipulators** | [arXiv 2024.03](https://www.alphaxiv.org/abs/2403.18197) | [github](https://github.com/linchangyi1/LocoMan) |
+| 2024 | 🌟️ **RoboDuet: Learning a Cooperative Policy for Whole-body Legged Loco-Manipulation** | [arXiv 2024.03](https://www.alphaxiv.org/abs/2403.17367) | [GitHub](https://github.com/locomanip-duet/RoboDuet) |
+| 2024 | 🌟️ **Visual Whole-Body Control for Legged Loco-Manipulation** | [arXiv 2024.03](https://www.alphaxiv.org/abs/2403.16967) | [GitHub](https://github.com/Ericonaldo/visual_wholebody) |
+| 2024 | 🌟️ **Arm-Constrained Curriculum Learning for Loco-Manipulation of the Wheel-Legged Robot** | [arXiv 2024.03](https://www.alphaxiv.org/abs/2403.16535) | [GitHub](https://github.com/aCodeDog/legged-robots-manipulation) |
+| 2024 | **Arm-Constrained Curriculum Learning for Loco-Manipulation of the Wheel-Legged Robot** | [arXiv 2024.03](https://www.alphaxiv.org/abs/2403.16535) | — |
+| 2024 | 🌟️ **Practice Makes Perfect: Planning to Learn Skill Parameter Policies** | [arXiv 2024.02](https://www.alphaxiv.org/abs/2402.15025) | [GitHub](https://github.com/rai-opensource/predicators) |
 | 2024 | **Whole-Body Dynamic Throwing with Legged Manipulators** | [arXiv 2024](https://www.alphaxiv.org/search?q=Whole-Body+Dynamic+Throwing+with+Legged+Manipulators) | — |
+| 2023 | **GAMMA: Graspability-Aware Mobile MAnipulation Policy Learning based on Online Grasping Pose Fusion** | [arXiv 2023.09](https://www.alphaxiv.org/abs/2309.15459) | [GitHub](https://github.com/user432/gamma) |
+| 2023 | **Versatile Multi-Contact Planning and Control for Legged Loco-Manipulation** | [arXiv 2023.08](https://www.alphaxiv.org/abs/2308.09179) | — |
+| 2023 | **Manipulator as a Tail: Promoting Dynamic Stability for Legged Locomotion** | [arXiv 2023.05](https://www.alphaxiv.org/abs/2305.01648) | — |
+| 2023 | 🌟️ **DribbleBot: Dynamic Legged Manipulation in the Wild** | [arXiv 2023.04](https://www.alphaxiv.org/abs/2304.01159) | [GitHub](https://github.com/Improbable-AI/dribblebot) |
+| 2023 | **Legs as Manipulator: Pushing Quadrupedal Agility Beyond Locomotion** | [arXiv 2023.03](https://www.alphaxiv.org/abs/2303.11330) | — |
 | 2023 | **Pedipulate: Enabling Manipulation Skills using a Quadruped Robot's Leg** | [arXiv 2023](https://www.alphaxiv.org/search?q=Pedipulate%3A+Enabling+Manipulation+Skills+using+a+Quadruped+Robot's+Leg) | — |
-| 2023 | **Learning Force Control for Legged Manipulation** | [arXiv 2023](https://www.alphaxiv.org/search?q=Learning+Force+Control+for+Legged+Manipulation) | [GitHub](https://github.com/Improbable-AI/learning_compliance) |
-| 2023 | **Visual Whole-Body Control for Legged Loco-Manipulation** | [arXiv 2023](https://www.alphaxiv.org/search?q=Visual+Whole-Body+Control+for+Legged+Loco-Manipulation) | — |
-| 2022 | **Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion** | [arXiv 2022](https://www.alphaxiv.org/search?q=Deep+Whole-Body+Control%3A+Learning+a+Unified+Policy+for+Manipulation+and+Locomotion) | — |
+| 2022 | 🌟️ **Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion** | [arXiv 2022.10](https://www.alphaxiv.org/abs/2210.10044) | [GitHub](https://github.com/MarkFzp/Deep-Whole-Body-Control) |
 
 ## 5. Whole-Body Control & Loco-Manipulation
 
