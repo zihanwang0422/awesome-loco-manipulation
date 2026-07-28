@@ -61,6 +61,10 @@ Resources: [Awesome Lists](#awesome-lists) · [Surveys & Reviews](#surveys--revi
 
 Real, physically-deployed (or deployment-targeted) humanoid robot papers — whole-body control, loco-manipulation, teleoperation, and behavior foundation models for robot hardware. Simulated-character / graphics-only papers are kept separately in [Section 6](#6-animation--motion-synthesis).
 
+### Awesome Lists & Surveys
+
+https://github.com/jonyzhang2023/awesome-humanoid-learning
+
 ### 5.1 Motion Tracking
 
 | Year | Title | Paper | GitHub |
@@ -251,7 +255,7 @@ Real, physically-deployed (or deployment-targeted) humanoid robot papers — who
 | 2025 | **RL from Physical Feedback: Aligning Large Motion Models with Humanoid Control** | [arXiv 2025.06](https://www.alphaxiv.org/abs/2506.12769) | [GitHub](https://github.com/BeingBeyond/RLPF) |
 | 2025 | **From Motion to Behavior: Hierarchical Modeling of Humanoid Generative Behavior Control** | [arXiv 2025.06](https://www.alphaxiv.org/abs/2506.00043) | [GitHub](https://github.com/jushengzhang/PHYLOMAN) |
 | 2025 | **LangWBC: Language-directed Humanoid Whole-Body Control via End-to-end Learning** | [arXiv 2025.04](https://www.alphaxiv.org/abs/2504.21738) | [GitHub](https://github.com/YiyangShao2003/LangWBC) |
-| 2025 | **Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models** | [arXiv 2025.04](https://www.alphaxiv.org/abs/2504.11054) | [GitHub](https://github.com/facebookresearch/metamotivo) |
+| 2025 | 🌟️🌟️ **Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models** | [arXiv 2025.04](https://www.alphaxiv.org/abs/2504.11054) | [GitHub](https://github.com/facebookresearch/metamotivo) |
 | 2024 | **Harmon: Whole-Body Motion Generation of Humanoid Robots from Language Descriptions** | [arXiv 2024.10](https://www.alphaxiv.org/abs/2410.12773) | — |
 
 ### 5.5 Whole-Body Control (VLA / World Action Models / TeleOp)
@@ -279,8 +283,8 @@ Real, physically-deployed (or deployment-targeted) humanoid robot papers — who
 | 2026 | 🌟️ **Humanoid Manipulation Interface: Humanoid Whole-Body Manipulation from Robot-Free Demonstrations** | [arXiv 2026.02](https://www.alphaxiv.org/abs/2602.06643) | [GitHub](https://github.com/Richard-coder-Nai/HuMI) |
 | 2026 | 🌟️ **MOSAIC: Bridging the Sim-to-Real Gap in Generalist Humanoid Motion Tracking and Teleoperation with Rapid Residual Adaptation** | [arXiv 2026.02](https://www.alphaxiv.org/abs/2602.08594) | [GitHub](https://github.com/BAAI-Humanoid/MOSAIC) |
 | 2025 | **WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control** | [arXiv 2025.12](https://www.alphaxiv.org/abs/2512.11047) | [GitHub](https://github.com/OpenDriveLab/WholebodyVLA) |
-| 2025 | **TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System** | [arXiv 2025.11](https://www.alphaxiv.org/abs/2511.02832) | [GitHub](https://github.com/amazon-far/TWIST2) |
-| 2025 | 🌟️ **SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control** | [arXiv 2025.11](https://www.alphaxiv.org/abs/2511.07820) | [GitHub](https://github.com/NVlabs/GR00T-WholeBodyControl) |
+| 2025 | 🌟️ **TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System** | [arXiv 2025.11](https://www.alphaxiv.org/abs/2511.02832) | [GitHub](https://github.com/amazon-far/TWIST2) |
+| 2025 | 🌟️🌟️ **SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control** | [arXiv 2025.11](https://www.alphaxiv.org/abs/2511.07820) | [GitHub](https://github.com/NVlabs/GR00T-WholeBodyControl) |
 | 2025 | **HumanoidExo: Scalable Whole-Body Humanoid Manipulation via Wearable Exoskeleton** | [arXiv 2025.10](https://www.alphaxiv.org/abs/2510.03022) | — |
 | 2025 | **LapSurgie: Humanoid Robots Performing Surgery via Teleoperated Handheld Laparoscopy** | [arXiv 2025.10](https://www.alphaxiv.org/abs/2510.03529) | — |
 | 2025 | **Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation** | [arXiv 2025.10](https://www.alphaxiv.org/abs/2510.08807) | [github](https://github.com/physical-superintelligence-lab/Humanoid-Everyday) |
@@ -315,23 +319,24 @@ Real, physically-deployed (or deployment-targeted) humanoid robot papers — who
 | 2026 | 🌟️ **TaskNPoint: How to Teach Your Humanoid to Hit a Backhand in Minutes** | [arXiv 2026.06](https://www.alphaxiv.org/abs/2606.26215) | [GitHub](https://github.com/wernerb43/tasknpoint) |
 | 2026 | **1000 Rallies: An Event-Camera Dataset and Real-Time Learned Ball-State Estimation for Robotic Table Tennis** | [arXiv 2026.06](https://www.alphaxiv.org/abs/2606.25620) | — |
 | 2026 | **RoboNaldo: Accurate, Stable and Powerful Humanoid Soccer Shooting via Motion-Guided Curriculum Reinforcement Learning** | [arXiv 2026.06](https://www.alphaxiv.org/abs/2606.11092) | [GitHub](https://github.com/OpenDriveLab/RoboNaldo) |
-| 2026 | **SMASH: Mastering Scalable Whole-Body Skills for Humanoid Ping-Pong with Egocentric Vision** | [arXiv 2026.04](https://www.alphaxiv.org/abs/2604.01158) | — |
+| 2026 | 🌟️ **SMASH: Mastering Scalable Whole-Body Skills for Humanoid Ping-Pong with Egocentric Vision** | [arXiv 2026.04](https://www.alphaxiv.org/abs/2604.01158) | — |
 | 2026 | 🌟️ **Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data** | [arXiv 2026.03](https://www.alphaxiv.org/abs/2603.12686) | [GitHub](https://github.com/GalaxyGeneralRobotics/LATENT) |
 | 2026 | **Learning Human-Like Badminton Skills for Humanoid Robots** | [arXiv 2026.02](https://www.alphaxiv.org/abs/2602.08370) | — |
 | 2026 | **Learning Soccer Skills for Humanoid Robots: A Progressive Perception-Action Framework** | [arXiv 2026.02](https://www.alphaxiv.org/abs/2602.05310) | [GitHub](https://github.com/TeleHuman/HumanoidSoccer) |
-| 2026 | **HumanX: Toward Agile and Generalizable Humanoid Interaction Skills from Human Videos** | [arXiv 2026.02](https://www.alphaxiv.org/abs/2602.02473) | [GitHub](https://github.com/wyhuai/human-x) |
+| 2026 | 🌟️ **HumanX: Toward Agile and Generalizable Humanoid Interaction Skills from Human Videos** | [arXiv 2026.02](https://www.alphaxiv.org/abs/2602.02473) | [GitHub](https://github.com/wyhuai/human-x) |
 | 2025 | **Learning Agile Striker Skills for Humanoid Soccer Robots from Noisy Sensory Input** | [arXiv 2025.12](https://www.alphaxiv.org/abs/2512.06571) | [GitHub](https://github.com/Daffan/humanoid-soccer) |
 | 2025 | 🌟️ **Humanoid Goalkeeper: Learning from Position Conditioned Task-Motion Constraints** | [arXiv 2025.10](https://www.alphaxiv.org/abs/2510.18002) | [github](https://github.com/InternRobotics/Humanoid-Goalkeeper) |
 | 2025 | **Humanoid Whole-Body Badminton via Multi-Stage Reinforcement Learning** | [arXiv 2025.11](https://www.alphaxiv.org/abs/2511.11218) | — |
 | 2025 | **Learning Vision-Driven Reactive Soccer Skills for Humanoid Robots** | [arXiv 2025.11](https://www.alphaxiv.org/abs/2511.03996) | — |
 | 2025 | 🌟️ **VisualMimic: Visual Humanoid Loco-Manipulation via Motion Tracking and Generation** | [arXiv 2025.09](https://www.alphaxiv.org/abs/2509.20322) | [GitHub](https://github.com/visualmimic/VisualMimic) |
 | 2025 | 🌟️ **PACE: Physics Augmentation for Coordinated End-to-end Reinforcement Learning toward Versatile Humanoid Table Tennis** | [arXiv 2025.09](https://www.alphaxiv.org/abs/2509.21690) | [GitHub](https://github.com/purdue-tracelab/PACE-ICRA2026) |
-| 2025 | **HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning** | [arXiv 2025.08](https://www.alphaxiv.org/abs/2508.21043) | — |
+| 2025 | 🌟️ **HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning** | [arXiv 2025.08](https://www.alphaxiv.org/abs/2508.21043) | — |
 | 2025 | **SpikePingpong: Spike Vision-based Fast-Slow Pingpong Robot System** | [arXiv 2025.06](https://www.alphaxiv.org/abs/2506.06690) | [GitHub](https://github.com/PKUHaoWang/SpikePingpong) |
 | 2025 | **Dribble Master: Learning Agile Humanoid Dribbling through Legged Locomotion** | [arXiv 2025.05](https://www.alphaxiv.org/abs/2505.12679) | [GitHub](https://github.com/Zhuoheng0910/DribbleMaster) |
 | 2025 | **Towards Ball Spin and Trajectory Analysis in Table Tennis Broadcast Videos via Physically Grounded Synthetic-to-Real Transfer** | [arXiv 2025.04](https://www.alphaxiv.org/abs/2504.19863) | [GitHub](https://github.com/KieDani/SpinAndTrajectoryTableTennis) |
 | 2025 | **Integrating Learning-Based Manipulation and Physics-Based Locomotion for Whole-Body Badminton Robot Control** | [arXiv 2025.04](https://www.alphaxiv.org/abs/2504.17771) | — |
 | 2025 | **LATTE-MV: Learning to Anticipate Table Tennis Hits from Monocular Videos** | [arXiv 2025.03](https://www.alphaxiv.org/abs/2503.20936) | [GitHub](https://github.com/sastry-group/LATTE-MV) |
+| 2025 | **MotionLab: Unified Human Motion Generation and Editing via the Motion-Condition-Motion Paradigm** | [arXiv 2025.02](https://www.alphaxiv.org/abs/2502.02358) | [GitHub](https://github.com/Diouo/MotionLab) |
 | 2024 | **Achieving Human Level Competitive Robot Table Tennis** | [arXiv 2024.08](https://www.alphaxiv.org/abs/2408.03906) | [GitHub](https://github.com/google-deepmind/competitive_robot_table_tennis) |
 | 2024 | **Strategy and Skill Learning for Physics-based Table Tennis Animation** | [arXiv 2024.07](https://www.alphaxiv.org/abs/2407.16210) | [GitHub](https://github.com/jiashunwang/PhysicsPingPong) |
 | 2023 | **Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning** | [arXiv 2023.04](https://www.alphaxiv.org/abs/2304.13653) | — |
@@ -347,7 +352,9 @@ Physics-based **simulated virtual character / avatar** research from computer gr
 | 2025 |  🌟️ **MimicKit: A Reinforcement Learning Framework for Motion Imitation and Control** | [arXiv 2025.10](https://www.alphaxiv.org/abs/2510.13794) | [GitHub](https://github.com/xbpeng/MimicKit) |
 | 2025 | **Feature-Based vs. GAN-Based Learning from Demonstrations: When and Why** | [arXiv 2025.07](https://www.alphaxiv.org/abs/2507.05906) | — |
 | 2025 | **AMOR: Adaptive Character Control through Multi-Objective Reinforcement Learning** | [arXiv 2025.05](https://www.alphaxiv.org/abs/2505.23708) | — |
-| 2021 | **AMP: Adversarial Motion Priors for Stylized Physics-Based Character Control** | [arXiv 2021.04](https://www.alphaxiv.org/abs/2104.02180) | [GitHub](https://github.com/isaac-sim/IsaacGymEnvs) |
+| 2023 | 🌟️🌟️ **PHC: Perpetual Humanoid Control for Real-time Simulated Avatars** | [arXiv 2023.05](https://www.alphaxiv.org/abs/2305.06456) | [GitHub](https://github.com/ZhengyiLuo/PHC) |
+| 2023 | **DiffMimic: Efficient Motion Mimicking with Differentiable Physics** | [arXiv 2023.05](https://www.alphaxiv.org/abs/2304.03274) | [GitHub](https://github.com/jiawei-ren/diffmimic) |
+| 2021 | 🌟️ **AMP: Adversarial Motion Priors for Stylized Physics-Based Character Control** | [arXiv 2021.04](https://www.alphaxiv.org/abs/2104.02180) | [GitHub](https://github.com/isaac-sim/IsaacGymEnvs) |
 | 2019 | **Advantage-Weighted Regression: Simple and Scalable Off-Policy Reinforcement Learning** | [arXiv 2019.10](https://www.alphaxiv.org/abs/1910.00177) | [GitHub](https://github.com/xbpeng/awr) |
 | 2018 | **SFV: Reinforcement Learning of Physical Skills from Videos** | [arXiv 2018.10](https://www.alphaxiv.org/abs/1810.03599) | — |
 | 2018 |  🌟️ **DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills** | [arXiv 2018.04](https://www.alphaxiv.org/abs/1804.02717) | [GitHub](https://github.com/xbpeng/DeepMimic) |
@@ -366,8 +373,6 @@ https://github.com/soraproducer/Awesome-Human-Interaction-Motion-Generation
 | 2025 | **LHM-Humanoid: Long-Horizon Human Motion Control for Continuous Object Transport** | [arXiv 2025.08](https://www.alphaxiv.org/abs/2508.16943) | — |
 | 2025 | **SimGenHOI: Physically Realistic Whole-Body Humanoid-Object Interaction** | [arXiv 2025.08](https://www.alphaxiv.org/abs/2508.14120) | — |
 | 2025 | **MAMMA: Markerless & Automatic Multi-Person Motion Action Capture** | [arXiv 2025.06](https://www.alphaxiv.org/abs/2506.13040) | [github](https://github.com/cuevhv/mamma) |
-
-
 | 2025 | **MaskedManipulator: Versatile Whole-Body Manipulation** | [arXiv 2025.05](https://www.alphaxiv.org/abs/2505.19086) | [GitHub](https://github.com/NVlabs/ProtoMotions) |
 | 2025 | **Emergent Active Perception and Dexterity of Simulated Humanoids from Visual Reinforcement Learning** | [arXiv 2025.05](https://www.alphaxiv.org/abs/2505.12278) | — |
 | 2025 | 🌟️ **SkillMimic-V2: Learning Robust and Generalizable Interaction Skills from Sparse and Noisy Demonstrations** | [arXiv 2025.05](https://www.alphaxiv.org/abs/2505.02094) | [github](https://github.com/Ingrid789/SkillMimic-V2) |
@@ -409,6 +414,7 @@ https://github.com/soraproducer/Awesome-Human-Interaction-Motion-Generation
 | 2025 | **Being-M0.5: A Real-Time Controllable Vision-Language-Motion Model** | [arXiv 2025.08](https://www.alphaxiv.org/abs/2508.07863) | [GitHub](https://github.com/BeingBeyond/Being-M0.5) |
 | 2025 | **Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data** | [arXiv 2025.07](https://www.alphaxiv.org/abs/2507.07095) | [GitHub](https://github.com/VankouF/MotionMillion-Codes) |
 | 2025 | **Zero-Shot Adaptation of Behavioral Foundation Models to Unseen Dynamics** | [arXiv 2025.05](https://www.alphaxiv.org/abs/2505.13150) | [GitHub](https://github.com/skylooop/BeliefConditionedFB) |
+| 2025 | **StableMotion: Training Motion Cleanup Models with Unpaired Corrupted Data** | [arXiv 2025.05](https://www.alphaxiv.org/abs/2505.03154) | [GitHub](https://github.com/Murrol/StableMotion) |
 | 2025 | 🌟️ **GENMO: A GENeralist Model for Human MOtion** | [arXiv 2025.05](https://www.alphaxiv.org/abs/2505.01425) | [GitHub](https://github.com/NVlabs/GENMO) |
 | 2025 | **UniPhys: Unified Planner and Controller with Diffusion for Flexible Physics-Based Character Control** | [arXiv 2025.04](https://www.alphaxiv.org/abs/2504.12540) | [GitHub](https://github.com/wuyan01/UniPhys) |
 | 2025 | **Fast Adaptation with Behavioral Foundation Models** | [arXiv 2025.04](https://www.alphaxiv.org/abs/2504.07896) | — |
@@ -416,7 +422,7 @@ https://github.com/soraproducer/Awesome-Human-Interaction-Motion-Generation
 | 2025 | **Diffuse-CLoC: Guided Diffusion for Physics-based Character Look-ahead Control** | [arXiv 2025.03](https://www.alphaxiv.org/abs/2503.11801) | — |
 | 2025 | **ModSkill: Physical Character Skill Modularization** | [arXiv 2025.02](https://www.alphaxiv.org/abs/2502.14140) | [GitHub](https://github.com/yh2371/ModSkill) |
 | 2024 | **Finer Behavioral Foundation Models via Auto-Regressive Features and Advantage Weighting** | [arXiv 2024.12](https://www.alphaxiv.org/abs/2412.04368) | — |
-| 2024 | **MotionGPT-2: A General-Purpose Motion-Language Model for Motion Generation and Understanding** | [arXiv 2024.10](https://www.alphaxiv.org/abs/2410.21747) | — |
+| 2024 | **MotionGPT-2: A General-Purpose Motion-Language Model for Motion Generation and Understanding** | [arXiv 2024.10](https://www.alphaxiv.org/abs/2410.21747) | [github](https://github.com/OpenMotionLab/MotionGPT) |
 | 2024 | **LaMP: Language-Motion Pretraining for Motion Generation, Retrieval, and Captioning** | [arXiv 2024.10](https://www.alphaxiv.org/abs/2410.07093) | [GitHub](https://github.com/gentlefress/LaMP) |
 | 2024 | 🌟️ **CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control** | [arXiv 2024.10](https://www.alphaxiv.org/abs/2410.03441) | [GitHub](https://github.com/GuyTevet/CLoSD) |
 | 2024 | **MaskedMimic: Unified Physics-Based Character Control Through Masked Motion Inpainting** | [arXiv 2024.09](https://www.alphaxiv.org/abs/2409.14393) | [GitHub](https://github.com/NVlabs/ProtoMotions) |
@@ -427,6 +433,7 @@ https://github.com/soraproducer/Awesome-Human-Interaction-Motion-Generation
 | 2024 | **Taming Diffusion Probabilistic Models for Character Control** | [arXiv 2024.04](https://www.alphaxiv.org/abs/2404.15121) | [GitHub](https://github.com/AIGAnimation/CAMDM) |
 | 2024 | 🌟️ **Multi-Track Timeline Control for Text-Driven 3D Human Motion Generation** | [arXiv 2024.01](https://www.alphaxiv.org/abs/2401.08559) | [GitHub](https://github.com/nv-tlabs/stmc) |
 | 2023 | **H-GAP: Humanoid Control with a Generalist Planner** | [arXiv 2023.12](https://www.alphaxiv.org/abs/2312.02682) | [GitHub](https://github.com/facebookresearch/hgap) |
+| 2023 | 🌟️ **HumanTOMATO: Text-aligned Whole-body Motion Generation** | [arXiv 2023.10](https://www.alphaxiv.org/abs/2310.12978) | [GitHub](https://github.com/IDEA-Research/HumanTOMATO) |
 | 2023 | **MoConVQ: Unified Physics-Based Motion Control via Scalable Discrete Representations** | [arXiv 2023.10](https://www.alphaxiv.org/abs/2310.10198) | [GitHub](https://github.com/MoConVQ/MoConVQ) |
 | 2023 | 🌟️ **OmniControl: Control Any Joint at Any Time for Human Motion Generation** | [arXiv 2023.10](https://www.alphaxiv.org/abs/2310.08580) | [GitHub](https://github.com/neu-vi/omnicontrol) |
 | 2023 | 🌟️ **PULSE: Universal Humanoid Motion Representations for Physics-Based Control** | [arXiv 2023.10](https://www.alphaxiv.org/abs/2310.04582) | [GitHub](https://github.com/ZhengyiLuo/PULSE) |
@@ -436,18 +443,20 @@ https://github.com/soraproducer/Awesome-Human-Interaction-Motion-Generation
 | 2023 | 🌟️ **Motion-X: A Large-scale 3D Expressive Whole-body Human Motion Dataset** | [arXiv 2023.07](https://www.alphaxiv.org/abs/2307.00818) | [GitHub](https://github.com/IDEA-Research/Motion-X) |
 | 2023 | **Interactive Character Control with Auto-Regressive Motion Diffusion Models** | [arXiv 2023.06](https://www.alphaxiv.org/abs/2306.00416) | [GitHub](https://github.com/Yi-Shi94/AMDM) |
 | 2023 | **Example-based Motion Synthesis via Generative Motion Matching** | [arXiv 2023.06](https://www.alphaxiv.org/abs/2306.00378) | [GitHub](https://github.com/wyysf-98/GenMM) |
-| 2023 |🌟️ **Guided Motion Diffusion for Controllable Human Motion Synthesis** | [arXiv 2023.05](https://www.alphaxiv.org/abs/2305.12577) | [GitHub](https://github.com/korrawe/guided-motion-diffusion) |
-| 2023 | 🌟️ **PHC: Perpetual Humanoid Control for Real-time Simulated Avatars** | [arXiv 2023.05](https://www.alphaxiv.org/abs/2305.06456) | [GitHub](https://github.com/ZhengyiLuo/PHC) |
+| 2023 | 🌟️ **Guided Motion Diffusion for Controllable Human Motion Synthesis** | [arXiv 2023.05](https://www.alphaxiv.org/abs/2305.12577) | [GitHub](https://github.com/korrawe/guided-motion-diffusion) |
 | 2023 | 🌟️ **CALM: Conditional Adversarial Latent Models for Directable Virtual Characters** | [arXiv 2023.05](https://www.alphaxiv.org/abs/2305.02195) | [GitHub](https://github.com/NVlabs/CALM) |
-| 2023 | **TMR: Text-to-Motion Retrieval Using Contrastive 3D Human Motion Synthesis** | [arXiv 2023.05](https://www.alphaxiv.org/abs/2305.00976) | [GitHub](https://github.com/Mathux/TMR) |
+| 2023 | 🌟️ **TMR: Text-to-Motion Retrieval Using Contrastive 3D Human Motion Synthesis** | [arXiv 2023.05](https://www.alphaxiv.org/abs/2305.00976) | [GitHub](https://github.com/Mathux/TMR) |
 | 2023 | **InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions** | [arXiv 2023.04](https://www.alphaxiv.org/abs/2304.05684) | [GitHub](https://github.com/tr3e/InterGen) |
 | 2023 | **Trace and Pace: Controllable Pedestrian Animation via Guided Trajectory Diffusion** | [arXiv 2023.04](https://www.alphaxiv.org/abs/2304.01893) | [GitHub](https://github.com/nv-tlabs/trace) |
 | 2023 | **Human Motion Diffusion as a Generative Prior** | [arXiv 2023.03](https://www.alphaxiv.org/abs/2303.01418) | [GitHub](https://github.com/priorMDM/priorMDM) |
+| 2023 | **T2M-GPT: Generating Human Motion from Textual Descriptions with Discrete Representations** | [arXiv 2023.01](https://www.alphaxiv.org/abs/2301.06052) | [GitHub](https://github.com/Mael-zys/T2M-GPT) |
 | 2023 | **PADL: Language-Directed Physics-Based Character Control** | [arXiv 2023.01](https://www.alphaxiv.org/abs/2301.13868) | [GitHub](https://github.com/nv-tlabs/PADL) |
 | 2022 | 🌟️ **Executing your Commands via Motion Diffusion in Latent Space** | [arXiv 2022.12](https://www.alphaxiv.org/abs/2212.04048) | [GitHub](https://github.com/ChenFengYe/motion-latent-diffusion) |
 | 2022 | **ControlVAE: Model-Based Learning of Generative Controllers for Physics-Based Characters** | [arXiv 2022.10](https://www.alphaxiv.org/abs/2210.06063) | [GitHub](https://github.com/heyuanYao-pku/Control-VAE) |
 | 2022 | **Does Zero-Shot Reinforcement Learning Exist?** | [arXiv 2022.09](https://www.alphaxiv.org/abs/2209.14935) | [GitHub](https://github.com/facebookresearch/controllable_agent) |
-| 2022 | 🌟️ **Human Motion Diffusion Model** | [arXiv 2022.09](https://www.alphaxiv.org/abs/2209.14916) | [GitHub](https://github.com/GuyTevet/motion-diffusion-model) |
+| 2022 | 🌟️ **Human Motion Diffusion Model** | [arXiv 2022.09](https://www.alphaxiv.org/abs/2209.14916) | [GitHub](https://github.com/GuyTevet/motion-diffusion-model)<br>[github](https://github.com/priorMDM/priorMDM) |
+| 2022 | 🌟️ **TM2T: Stochastic and Tokenized Modeling for the Reciprocal Generation of 3D Human Motions and Texts** | [arXiv 2022.07](https://www.alphaxiv.org/abs/2207.01696) | [GitHub](https://github.com/EricGuo5513/HumanML3D) |
+| 2022 | 🌟️ **Physics-based character controllers using conditional VAEs** | [ACM Transactions on Graphics 2022.07](https://dl.acm.org/doi/10.1145/3528223.3530067) | [GitHub](https://github.com/facebookresearch/PhysicsVAE) |
 | 2022 | 🌟️ **ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters** | [arXiv 2022.05](https://www.alphaxiv.org/abs/2205.01906) | [GitHub](https://github.com/nv-tlabs/ASE) |
 | 2022 | 🌟️ **TEMOS: Generating diverse human motions from textual descriptions** | [arXiv 2022.04](https://www.alphaxiv.org/abs/2204.14109) | [GitHub](https://github.com/Mathux/TEMOS) |
 | 2022 | 🌟️ **MotionCLIP: Exposing Human Motion Generation to CLIP Space** | [arXiv 2022.03](https://www.alphaxiv.org/abs/2203.08063) | [GitHub](https://github.com/GuyTevet/MotionCLIP) |
