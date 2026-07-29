@@ -42,6 +42,7 @@
 
 | Title | Paper | github |
 |-------|-------|--------|
+https://github.com/InternRobotics/InternManip
 | **Awesome Embodied AI Datasets** | — | [github](https://github.com/freekatz/awesome-embodied-ai-datasets) |
 | **Awesome Robotic Benchmarks** | — | [github](https://github.com/HaoranZhangumich/Awesome-Robotic-Benchmarks) |
 | **Awesome VLA / WAM Datasets & Benchmarks** | — | [github](https://github.com/ziyaow1010/vla-datasets-benchmarks) |
@@ -68,6 +69,7 @@
 | 2025 | 🌟️ **GraspGen: A Diffusion-based Framework for 6-DOF Grasping with On-Generator Training** | [arXiv 2025.07](https://www.alphaxiv.org/abs/2507.13097) | [GraspGen](https://github.com/NVlabs/GraspGen)<br>[GraspGenX](https://github.com/NVlabs/GraspGenX) |
 | 2025 | **What Matters in Learning from Large-Scale Datasets for Robot Manipulation** | [arXiv 2025.07](https://www.alphaxiv.org/abs/2506.13536) | [github](https://github.com/GaTech-RL2/mimiclabs) |
 | 2025 | 🌟️ **RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation** | [arXiv 2025.06](https://www.alphaxiv.org/abs/2506.18088) | [github](https://github.com/RoboTwin-Platform/RoboTwin) |
+| 2025 | **GENMANIP: LLM-driven Simulation for Generalizable Instruction-Following Manipulation** | [arXiv 2025.06](https://www.alphaxiv.org/abs/2506.10966) | [github](https://github.com/InternRobotics/GenManip) |
 | 2025 | **Steerable Scene Generation with Post Training and Inference-Time Search** | [arXiv 2025.05](https://www.alphaxiv.org/abs/2505.04831) | — |
 | 2025 | 🌟️ **RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning** | [arXiv 2025.04](https://www.alphaxiv.org/abs/2504.18904) | [github](https://github.com/RoboVerseOrg/RoboVerse) |
 | 2025 | **Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation** | [arXiv 2025.04](https://www.alphaxiv.org/abs/2504.13175) | [github](https://github.com/InternRobotics/RoboSplat) |
@@ -85,13 +87,13 @@
 | 2024 | **DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset** | [arXiv 2024.03](https://www.alphaxiv.org/abs/2403.12945) | [github](https://github.com/droid-dataset/droid)<br>[Policy Learning](https://github.com/droid-dataset/droid_policy_learning) |
 | 2024 | 🌟️ **BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation** | [arXiv 2024.03](https://www.alphaxiv.org/abs/2403.09227) | [github](https://github.com/StanfordVL/BEHAVIOR-1K) |
 | 2024 | 🌟️ **MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations** | [arXiv 2023.10](https://www.alphaxiv.org/abs/2310.17596) | [github](https://github.com/NVlabs/mimicgen) |
-| 2023 | **RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation** | [arXiv 2023.11](https://www.alphaxiv.org/abs/2311.01455) | — |
-| 2023 | 🌟️ **Open X-Embodiment: Robotic Learning Datasets and RT-X Models** | [arXiv 2023.10](https://www.alphaxiv.org/abs/2310.08864) | [github](https://github.com/google-deepmind/open_x_embodiment) |
-| 2023 | **GenSim: Generating Robotic Simulation Tasks via Large Language Models** | [arXiv 2023.10](https://www.alphaxiv.org/abs/2310.01361) | [github](https://github.com/liruiw/GenSim) |
+| 2023 | **RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation** | [arXiv 2023.11](https://www.alphaxiv.org/abs/2311.01455) | [github](https://github.com/Genesis-Embodied-AI/RoboGen) |
+| 2023 | 🌟️ **Open X-Embodiment: Robotic Learning Datasets and RT-X Models** | [arXiv 2023.10](https://www.alphaxiv.org/abs/2310.08864) | [github](https://github.com/google-deepmind/open_x_embodiment)<br>[Train](https://github.com/kyegomez/RT-X) |
 | 2023 | 🌟️ **LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning** | [arXiv 2023.06](https://www.alphaxiv.org/abs/2306.03310) | [github](https://github.com/Lifelong-Robot-Learning/LIBERO) |
 | 2023 | **RH20T: A Comprehensive Robotic Dataset for Learning Diverse Skills in One-Shot** | [arXiv 2023](https://www.alphaxiv.org/search?q=RH20T%3A+A+Comprehensive+Robotic+Dataset+for+Learning+Diverse+Skills+in+One-Shot) | [github](https://github.com/rh20t/rh20t_api) |
 | 2023 | **RoboSet: A Diverse Dataset for Robot Learning** | [arXiv 2023](https://www.alphaxiv.org/search?q=RoboSet%3A+A+Diverse+Dataset+for+Robot+Learning) | — |
 | 2023 | **RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning** | [arXiv 2023](https://www.alphaxiv.org/search?q=RoboGen%3A+Towards+Unleashing+Infinite+Data+for+Automated+Robot+Learning) | [github](https://github.com/Genesis-Embodied-AI/RoboGen) |
+| 2021 | 🌟️ **CALVIN - A benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks** | [arXiv 2021.12](https://www.alphaxiv.org/abs/2112.03227) | [github](https://github.com/mees/calvin) |
 | 2021 | 🌟️ **ManiSkill: Generalizable Manipulation Skill Benchmark with Large-Scale Demonstrations** | [arXiv 2021.07](https://www.alphaxiv.org/abs/2107.14483) | [github](https://github.com/mani-skill/ManiSkill) |
 | 2021 | **BridgeData / BridgeData V2** | [arXiv 2021](https://www.alphaxiv.org/search?q=BridgeData+%2F+BridgeData+V2) | [github](https://github.com/rail-berkeley/bridge_data_v2) |
 | 2020 | 🌟️ **iGibson 1.0: A Simulation Environment for Interactive Tasks in Large Realistic Scenes** | [arXiv 2020.12](https://www.alphaxiv.org/abs/2012.02924) | [github](https://github.com/StanfordVL/iGibson) |
@@ -201,7 +203,8 @@
 | 2026 | **Agentic Real2Sim: Physics-based World Modeling with Vision-Language Agents** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.19190) | — |
 | 2026 | **RoboSnap: One-Shot Real-to-Sim Scene Generation for Generalizable Robot Learning and Evaluation** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.06699) | — |
 | 2026 | **Zero-Shot Sim-to-Real Robot Learning: A Dexterous Manipulation Study on Reactive Catching** | [arXiv 2026.05](https://www.alphaxiv.org/abs/2605.09789) | — |
-| 2026 | **GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning** | [arXiv 2026.04](https://www.alphaxiv.org/abs/2604.25459) | [github](https://github.com/discoverse-dev/gs_playground) |
+| 2026 | **GaussianDream: A Feed-Forward 3D Gaussian World Model for Robotic Manipulation** | [arXiv 2026.05](https://www.alphaxiv.org/abs/2605.20752) | — |
+| 2026 | **GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning** | [arXiv 2026.04](https://www.alphaxiv.org/abs/2604.25459) | [github](https://github.com/TuojingAI/GaussianDream) |
 | 2026 | **GaussTwin: Unified Simulation and Correction with Gaussian Splatting for Robotic Digital Twins** | [arXiv 2026.03](https://www.alphaxiv.org/abs/2603.05108) | — |
 | 2026 | **D-REX: Differentiable Real-to-Sim-to-Real Engine for Learning Dexterous Grasping** | [arXiv 2026.03](https://www.alphaxiv.org/abs/2603.01151) | — |
 | 2026 | **Squint: Fast Visual Reinforcement Learning for Sim-to-Real Robotics** | [arXiv 2026.02](https://www.alphaxiv.org/abs/2602.21203) | — |
@@ -216,7 +219,7 @@
 | 2025 | **DRAWER: Digital Reconstruction and Articulation With Environment Realism** | [arXiv 2025.04](https://www.alphaxiv.org/abs/2504.15278) | [github](https://github.com/xiahongchi/DRAWER) |
 | 2025 | 🌟️ **PhysTwin: Physics-Informed Reconstruction and Simulation of Deformable Objects from Videos** | [arXiv 2025.03](https://www.alphaxiv.org/abs/2503.17973) | [github](https://github.com/Jianghanxiao/PhysTwin) |
 | 2025 | **ReBot: Scaling Robot Learning with Real-to-Sim-to-Real Robotic Video Synthesis** | [arXiv 2025.03](https://www.alphaxiv.org/abs/2503.14526) | — |
-| 2025 | **Persistent Object Gaussian Splat (POGS) for Tracking Human and Robot Manipulation of Irregularly Shaped Objects** | [arXiv 2025.03](https://www.alphaxiv.org/abs/2503.05189) | — |
+| 2025 | **Persistent Object Gaussian Splat (POGS) for Tracking Human and Robot Manipulation of Irregularly Shaped Objects** | [arXiv 2025.03](https://www.alphaxiv.org/abs/2503.05189) | [github](https://github.com/uynitsuj/POGS) |
 | 2025 | 🌟️ **Scalable Real2Sim: Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups** | [arXiv 2025.03](https://www.alphaxiv.org/abs/2503.00370) | [github](https://github.com/nepfaff/scalable-real2sim) |
 | 2025 | **Re$^3$Sim: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation** | [arXiv 2025.02](https://www.alphaxiv.org/abs/2502.08645) | [github](https://github.com/InternRobotics/Re3Sim) |
 | 2024 | **One-Shot Real-to-Sim via End-to-End Differentiable Simulation and Rendering** | [arXiv 2024.12](https://www.alphaxiv.org/abs/2412.00259) | — |
@@ -253,6 +256,7 @@
 |:----:|-------|-------|--------|
 | 2026 | **B-spline Policy: Accelerating Manipulation Policies via B-spline Action Representations** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.09648) | [github](https://github.com/B-spline-policy/bspline-policy) |
 | 2026 | **Behavior Prompting Policy Demonstrations as Prompts for Manipulation** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2606.30457) | [github](https://github.com/real-stanford/behavior_prompting) |
+| 2026 | 🌟️ **StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing** | [arXiv 2026.04](https://www.alphaxiv.org/abs/2604.05014) | [github](https://github.com/starVLA/starVLA) |
 | 2026 | **HoMMI: Learning Whole-Body Mobile Manipulation from Human Demonstrations** | [arXiv 2026.03](https://www.alphaxiv.org/abs/2603.03243) | [github](https://github.com/xxm19/hommi) |
 | 2026 | **Abstracting Robot Manipulation Skills via Mixture-of-Experts Diffusion Policies** | [arXiv 2026.01](https://www.alphaxiv.org/abs/2601.21251) | — |
 | 2025 | **Much Ado About Noising: Dispelling the Myths of Generative Robotic Control** | [arXiv 2025.12](https://www.alphaxiv.org/abs/2512.01809) | [github](https://github.com/simchowitzlabpublic/much-ado-about-noising) |
@@ -309,6 +313,11 @@
 
 | Title | Paper | github |
 |-------|-------|--------|
+https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List
+https://github.com/JeffreyYH/Awesome-Generalist-Robots-via-Foundation-Models
+https://github.com/GT-RIPL/Awesome-LLM-Robotics
+https://github.com/AoqunJin/Awesome-VLA-Post-Training
+https://github.com/avanturist322/awesome-memory-vla
 | **Large-VLM-based VLA for Robotic Manipulation / Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey** | [arXiv 2025.08](https://www.alphaxiv.org/abs/2508.13073) | [github](https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation) |
 | **A Survey on Vision-Language-Action Models: An Action Tokenization Perspective** | [arXiv 2025.07](https://www.alphaxiv.org/abs/2507.01925) | — |
 | **A Survey on Vision-Language-Action Models for Embodied AI** | [arXiv 2024.05](https://www.alphaxiv.org/abs/2405.14093) | — |
@@ -325,46 +334,63 @@
 | Year | Title | Paper | github |
 |:----:|-------|-------|--------|
 | 2026 | **RynnBrain 1.1: Towards More Capable and Generalizable Embodied Foundation Model** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.17977) | — |
-| 2026 | 🌟️ **Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.15330) | — |
-| 2026 | 🌟️ **RoboTTT: Context Scaling for Robot Policies** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.15275) | — |
+| 2026 | 🌟️ **Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.15330) | [github](https://github.com/XiaomiRobotics/Xiaomi-Robotics-1) |
+| 2026 | 🌟️ **RoboTTT: Context Scaling for Robot Policies** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.15275) | [github](https://github.com/lucidrains/robo_ttt) |
 | 2026 | **Never Too Late for Force: Accelerating VLA Post-Training with Reactive Force Injection** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.14236) | — |
-| 2026 | **From Foundation to Application: Improving VLA Models in Practice** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.06403) | — |
-| 2026 | **InternVLA-A1.5: Unifying Understanding, Latent Foresight, and Action for Compositional Generalization** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.04988) | — |
-| 2026 | **RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.04434) | [github](https://github.com/RoboDojo-Benchmark/RoboDojo) |
-| 2026 | **ASPIRE: Agentic /Skills Discovery for Robotics** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.00272) | — |
+| 2026 | **Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2606.14409) | [github](https://github.com/Tencent-Hunyuan/Hy-Embodied-0.5-VLA) |
+| 2026 | **Hy-Embodied-VLM-1.0: Efficient Physical-World Agents** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.12894) | [github](https://github.com/Tencent-Hunyuan/HY-Embodied) |
+| 2026 | 🌟️ **From Foundation to Application: Improving VLA Models in Practice** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.06403) | [github](https://github.com/Robbyant/lingbot-vla-v2) |
+| 2026 | 🌟️ **GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.05369) | [github](https://github.com/graph-robots/graph-as-policy) |
+| 2026 | 🌟️ **InternVLA-A1.5: Unifying Understanding, Latent Foresight, and Action for Compositional Generalization** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.04988) | [github](https://github.com/InternRobotics/InternVLA-A-series) |
+| 2026 | 🌟️ **ASPIRE: Agentic /Skills Discovery for Robotics** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.00272) | — |
 | 2026 | 🌟️ **ENPIRE: Agentic Robot Policy Self-Improvement in the Real World** | [arXiv 2026.06](https://www.alphaxiv.org/abs/2606.19980) | — |
+| 2026 | **Playful Agentic Robot Learning** | [arXiv 2026.06](https://www.alphaxiv.org/abs/2606.19419) | [github](https://github.com/Playful-RATs/RATs) |
 | 2026 | **MolmoMotion: Forecasting Point Trajectories in 3D with Language Instruction** | [arXiv 2026.06](https://www.alphaxiv.org/abs/2606.18558) | [github](https://github.com/allenai/molmo-motion) |
 | 2026 | **Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models** | [arXiv 2026.06](https://www.alphaxiv.org/abs/2606.17846) | — |
-| 2026 | **Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments** | [arXiv 2026.05](https://www.alphaxiv.org/abs/2605.30280) | — |
-| 2026 | **RLDX-1 Technical Report** | [arXiv 2026.05](https://www.alphaxiv.org/abs/2605.03269) | — |
+| 2026 | 🌟️ **Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments** | [arXiv 2026.05](https://www.alphaxiv.org/abs/2605.30280) | [github](https://github.com/QwenLM/Qwen-VLA) |
+| 2026 | **RLDX-1 Technical Report** | [arXiv 2026.05](https://www.alphaxiv.org/abs/2605.03269) | [github](https://github.com/RLWRLD/RLDX-1) |
+| 2026 | **Galaxea G0.5 Technical Report** | [Tech Report 2026.05](https://opengalaxea.github.io/G05/Galaxea_G0_5.pdf) | [github](https://github.com/OpenGalaxea/GalaxeaVLA) |
 | 2026 | 🌟️ **MolmoAct2: Action Reasoning Models for Real-world Deployment** | [arXiv 2026.05](https://www.alphaxiv.org/abs/2605.02881) | [github](https://github.com/allenai/molmoact2) |
 | 2026 | **Learning While Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies** | [arXiv 2026.05](https://www.alphaxiv.org/abs/2605.00416) | — |
 | 2026 | 🌟️ **$π_{0.7}$: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities** | [arXiv 2026.04](https://www.alphaxiv.org/abs/2604.15483) | — |
+| 2026 | 🌟️ **VLA Foundry: A Unified Framework for Training Vision-Language-Action Models** | [arXiv 2026.04](https://www.alphaxiv.org/abs/2604.19728) | [github](https://github.com/TRI-ML/vla_foundry) |
 | 2026 | **Grounding Sim-to-Real Generalization in Robotic Manipulation: An Empirical Study with Vision-Language-Action Models** | [arXiv 2026.03](https://www.alphaxiv.org/abs/2603.22876) | — |
-| 2026 | **CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation** | [arXiv 2026.03](https://www.alphaxiv.org/abs/2603.22435) | — |
+| 2026 | 🌟️ **CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation** | [arXiv 2026.03](https://www.alphaxiv.org/abs/2603.22435) | [github](https://github.com/capgym/cap-x) |
+| 2026 | 🌟️ **RoboClaw: An Agentic Framework for Scalable Long-Horizon Robotic Tasks** | [arXiv 2026.03](https://www.alphaxiv.org/abs/2603.11558) | [github](https://github.com/RoboClaw-Robotics/RoboClaw) |
+| 2026 | **Xiaomi-Robotics-0: An Open-Sourced Vision-Language-Action Model with Real-Time Execution** | [arXiv 2026.02](https://www.alphaxiv.org/abs/2602.12684) | [github](https://github.com/XiaomiRobotics/Xiaomi-Robotics-0) |
 | 2026 | **Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment** | [arXiv 2026.02](https://www.alphaxiv.org/abs/2602.12281) | — |
-| 2026 | **LAP: Language-Action Pre-Training Enables Zero-shot Cross-Embodiment Transfer** | [arXiv 2026.02](https://www.alphaxiv.org/abs/2602.10556) | — |
+| 2026 | **LAP: Language-Action Pre-Training Enables Zero-shot Cross-Embodiment Transfer** | [arXiv 2026.02](https://www.alphaxiv.org/abs/2602.10556) | [github](https://github.com/lihzha/lap) |
 | 2026 | **BagelVLA: Enhancing Long-Horizon Manipulation via Interleaved Vision-Language-Action Generation** | [arXiv 2026.02](https://www.alphaxiv.org/abs/2602.09849) | — |
+| 2026 | **χ0: Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies** | [arXiv 2026.02](https://www.alphaxiv.org/abs/2602.09021) | [github](https://github.com/OpenDriveLab/kai0) |
 | 2026 | **VLS: Steering Pretrained Robot Policies via Vision-Language Models** | [arXiv 2026.02](https://www.alphaxiv.org/abs/2602.03973) | — |
-| 2026 | **RDT2: Exploring the Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment Generalization** | [arXiv 2026.02](https://www.alphaxiv.org/abs/2602.03310) | [github](https://github.com/thu-ml/RDT2) |
-| 2026 | **A Pragmatic VLA Foundation Model** | [arXiv 2026.01](https://www.alphaxiv.org/abs/2601.18692) | — |
-| 2026 | **ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models** | [arXiv 2026.01](https://www.alphaxiv.org/abs/2601.11404) | [github](https://github.com/AgibotTech/ACoT-VLA) |
+| 2026 | 🌟️ **RDT2: Exploring the Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment Generalization** | [arXiv 2026.02](https://www.alphaxiv.org/abs/2602.03310) | [github](https://github.com/thu-ml/RDT2) |
+| 2026 | 🌟️ **A Pragmatic VLA Foundation Model** | [arXiv 2026.01](https://www.alphaxiv.org/abs/2601.18692) | [github](https://github.com/Robbyant/lingbot-vla) |
+| 2026 | **RoboBrain 2.5: Depth in Sight, Time in Mind** | [arXiv 2026.01](https://www.alphaxiv.org/abs/2601.14352) | [github](https://github.com/FlagOpen/RoboBrain2.5) |
+| 2026 | 🌟️ **ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models** | [arXiv 2026.01](https://www.alphaxiv.org/abs/2601.11404) | [github](https://github.com/AgibotTech/ACoT-VLA) |
 | 2026 | **Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning** | [arXiv 2026.01](https://www.alphaxiv.org/abs/2601.09708) | — |
-| 2025–2026 | **GR00T N1 / N1.5 / N1.6 / N1.7** | [arXiv 2025](https://www.alphaxiv.org/search?q=GR00T+N1+%2F+N1.5+%2F+N1.6+%2F+N1.7) | [github](https://github.com/NVIDIA/Isaac-GR00T) |
+| 2026 | 🌟️ **GR00T N1 / N1.5 / N1.6 / N1.7** | [arXiv 2025](https://www.alphaxiv.org/search?q=GR00T+N1+%2F+N1.5+%2F+N1.6+%2F+N1.7) | [github](https://github.com/NVIDIA/Isaac-GR00T) |
 | 2026 | **LLaVA-VLA** | [arXiv 2026](https://www.alphaxiv.org/search?q=LLaVA-VLA) | [github](https://github.com/OpenHelix-Team/LLaVA-VLA) |
 | 2026 | **WholeBodyVLA** | [arXiv 2026](https://www.alphaxiv.org/search?q=WholeBodyVLA) | [github](https://github.com/OpenDriveLab/WholebodyVLA) |
-| 2025–2026 | **Being-H0 / H0.5 / H0.7** | [arXiv 2025](https://www.alphaxiv.org/search?q=Being-H0+%2F+H0.5+%2F+H0.7) | [github](https://github.com/BeingBeyond/Being-H) |
+| 2025 | **Being-H0 / H0.5 / H0.7** | [arXiv 2025](https://www.alphaxiv.org/search?q=Being-H0+%2F+H0.5+%2F+H0.7) | [github](https://github.com/BeingBeyond/Being-H) |
 | 2025 | **Mind to Hand: Purposeful Robotic Control via Embodied Reasoning** | [arXiv 2025.12](https://www.alphaxiv.org/abs/2512.08580) | — |
 | 2025 | 🌟️ **GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation** | [arXiv 2025.12](https://www.alphaxiv.org/abs/2512.01801) | — |
 | 2025 | **MiMo-Embodied: X-Embodied Foundation Model Technical Report** | [arXiv 2025.11](https://www.alphaxiv.org/abs/2511.16518) | — |
 | 2025 | 🌟️ **$π^{*}_{0.6}$: a VLA That Learns From Experience** | [arXiv 2025.11](https://www.alphaxiv.org/abs/2511.14759) | — |
-| 2025 | **Self-Improving Vision-Language-Action Models with Data Generation via Residual RL** | [arXiv 2025.11](https://www.alphaxiv.org/abs/2511.00091) | — |
-| 2025 | **X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model** | [arXiv 2025.10](https://www.alphaxiv.org/abs/2510.10274) | — |
-| 2025 | **SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning** | [arXiv 2025.09](https://www.alphaxiv.org/abs/2509.09674) | [github](https://github.com/PRIME-RL/SimpleVLA-RL) |
-| 2025 | **VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model** | [arXiv 2025.09](https://www.alphaxiv.org/abs/2509.09372) | — |
+| 2025 | **XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations** | [arXiv 2025.11](https://www.alphaxiv.org/abs/2511.02776) | [github](https://github.com/Open-X-Humanoid/XR-1) |
+| 2025 | 🌟️ **Self-Improving Vision-Language-Action Models with Data Generation via Residual RL** | [arXiv 2025.11](https://www.alphaxiv.org/abs/2511.00091) | — |
+| 2025 | **Running VLAs at Real-time Speed** | [arXiv 2025.10](https://www.alphaxiv.org/abs/2510.26742) | [github](https://github.com/dexmal/realtime-vla) |
+| 2025 | **X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model** | [arXiv 2025.10](https://www.alphaxiv.org/abs/2510.13778) | [github](https://github.com/InternRobotics/InternVLA-M1) |
+| 2025 | **InternVLA-M1: A Spatially Guided Vision-Language-Action Framework for Generalist Robot Policy** | [arXiv 2025.10](https://www.alphaxiv.org/abs/2510.10274) | [github](https://github.com/2toinf/X-VLA) |
+| 2025 | **Scalable Vision-Language-Action Model Pretraining for Robotic Manipulation with Real-Life Human Activity Videos** | [arXiv 2025.10](https://www.alphaxiv.org/abs/2510.21571) | [github](https://github.com/microsoft/VITRA) |
+| 2025 | 🌟️ **VLA-0: Building State-of-the-Art VLAs with Zero Modification** | [arXiv 2025.10](https://www.alphaxiv.org/abs/2510.13054) | [github](https://github.com/NVlabs/vla0) |
+| 2025 | 🌟️ **SARM: Stage-Aware Reward Modeling for Long Horizon Robot Manipulation** | [arXiv 2025.09](https://www.alphaxiv.org/abs/2509.25358) | [github](https://github.com/xdofai/opensarm) |
+| 2025 | **RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation** | [arXiv 2025.09](https://www.alphaxiv.org/abs/2509.15212) | [github](https://github.com/alibaba-damo-academy/RynnVLA-001) |
+| 2025 | 🌟️ **SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning** | [arXiv 2025.09](https://www.alphaxiv.org/abs/2509.09674) | [github](https://github.com/PRIME-RL/SimpleVLA-RL) |
+| 2025 | 🌟️ **VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model** | [arXiv 2025.09](https://www.alphaxiv.org/abs/2509.09372) | [github](https://github.com/OpenHelix-Team/VLA-Adapter) |
 | 2025 | **Long-VLA: Unleashing Long-Horizon Capability of Vision Language Action Model for Robot Manipulation** | [arXiv 2025.08](https://www.alphaxiv.org/abs/2508.19958) | — |
-| 2025 | **MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation** | [arXiv 2025.08](https://www.alphaxiv.org/abs/2508.19236) | — |
-| 2025 | **ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver** | [arXiv 2025.08](https://www.alphaxiv.org/abs/2508.10333) | — |
+| 2025 | 🌟️ **MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation** | [arXiv 2025.08](https://www.alphaxiv.org/abs/2508.19236) | [github](https://github.com/shihao1895/MemoryVLA) |
+| 2025 | **ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver** | [arXiv 2025.08](https://www.alphaxiv.org/abs/2508.10333) | [github](https://github.com/OpenHelix-Team/ReconVLA) |
+| 2025 | 🌟️ **MolmoAct: Action Reasoning Models that can Reason in Space** | [arXiv 2025.08](https://www.alphaxiv.org/abs/2508.07917) | [github](https://github.com/allenai/molmoact) |
 | 2025 | **ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning** | [arXiv 2025.07](https://www.alphaxiv.org/abs/2507.16815) | — |
 | 2025 | **Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos** | [arXiv 2025.07](https://www.alphaxiv.org/abs/2507.15597) | [github](https://github.com/BeingBeyond/Being-H0) |
 | 2025 | 🌟️ **GR-3 Technical Report** | [arXiv 2025.07](https://www.alphaxiv.org/abs/2507.15493) | — |
@@ -373,35 +399,46 @@
 | 2025 | **Real-Time Execution of Action Chunking Flow Policies** | [arXiv 2025.06](https://www.alphaxiv.org/abs/2506.07339) | [github](https://github.com/Physical-Intelligence/real-time-chunking-kinetix) |
 | 2025 | **SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics** | [arXiv 2025.06](https://www.alphaxiv.org/abs/2506.01844) | [github](https://github.com/huggingface/lerobot) |
 | 2025 | 🌟️ **VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning** | [arXiv 2025.05](https://www.alphaxiv.org/abs/2505.18719) | [github](https://github.com/GuanxingLu/vlarl) |
-| 2025 | **UniVLA: Learning to Act Anywhere with Task-centric Latent Actions** | [arXiv 2025.05](https://www.alphaxiv.org/abs/2505.06111) | [github](https://github.com/OpenDriveLab/UniVLA) |
-| 2025 | 🌟️ **$π_{0.5}$: a Vision-Language-Action Model with Open-World Generalization** | [arXiv 2025.04](https://www.alphaxiv.org/abs/2504.16054) | — |
+| 2025 | 🌟️ **ReWiND: Language-Guided Rewards Teach Robot Policies without New Demonstrations** | [arXiv 2025.05](https://www.alphaxiv.org/abs/2505.10911) | [github](https://github.com/rewind-reward/ReWiND) |
+| 2025 | 🌟️ **UniVLA: Learning to Act Anywhere with Task-centric Latent Actions** | [arXiv 2025.05](https://www.alphaxiv.org/abs/2505.06111) | [github](https://github.com/OpenDriveLab/UniVLA) |
+| 2025 | 🌟️ **$π_{0.5}$: a Vision-Language-Action Model with Open-World Generalization** | [arXiv 2025.04](https://www.alphaxiv.org/abs/2504.16054) | [github](https://github.com/allenzren/open-pi-zero) |
 | 2025 | 🌟️ **CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models** | [arXiv 2025.03](https://www.alphaxiv.org/abs/2503.22020) | — |
-| 2025 | 🌟️ **Gemini Robotics: Bringing AI into the Physical World** | [arXiv 2025.03](https://www.alphaxiv.org/abs/2503.20020) | [github](https://github.com/google-deepmind/gemini-robotics-sdk) |
+| 2025 | **Gemini Robotics: Bringing AI into the Physical World** | [arXiv 2025.03](https://www.alphaxiv.org/abs/2503.20020) | [github](https://github.com/google-deepmind/gemini-robotics-sdk) |
 | 2025 | **HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model** | [arXiv 2025.03](https://www.alphaxiv.org/abs/2503.10631) | [github](https://github.com/PKU-HMI-Lab/Hybrid-VLA) |
-| 2025 | **Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success** | [arXiv 2025.02](https://www.alphaxiv.org/abs/2502.19645) | [github](https://github.com/moojink/openvla-oft) |
+| 2025 | 🌟️ **Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success** | [arXiv 2025.02](https://www.alphaxiv.org/abs/2502.19645) | [github](https://github.com/moojink/openvla-oft) |
+| 2025 | **SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation** | [arXiv 2025.01](https://www.alphaxiv.org/abs/2501.18564) | [github](https://github.com/sam2act/sam2act) |
 | 2025 | **FAST: Efficient Action Tokenization for Vision-Language-Action Models** | [arXiv 2025.01](https://www.alphaxiv.org/abs/2501.09747) | — |
-| 2025 | 🌟️ **π0 / π0-FAST / π0.5** | [arXiv 2024](https://www.alphaxiv.org/search?q=%CF%800+%2F+%CF%800-FAST+%2F+%CF%800.5) | [github](https://github.com/Physical-Intelligence/openpi) |
+| 2025 | 🌟️ **π0 / π0-FAST / π0.5** | [arXiv 2024](https://www.alphaxiv.org/abs/2410.24164) | [github](https://github.com/Physical-Intelligence/openpi)<br>[github](https://github.com/lucidrains/pi-zero-pytorch) |
 | 2025 | 🌟️ **SmolVLA** | [arXiv 2025](https://www.alphaxiv.org/search?q=SmolVLA) | [github](https://github.com/huggingface/lerobot) |
 | 2025 | **Gemini Robotics** | [arXiv 2025](https://www.alphaxiv.org/search?q=Gemini+Robotics) | — |
 | 2025 | **EvoVLA** | [arXiv 2025](https://www.alphaxiv.org/search?q=EvoVLA) | [github](https://github.com/AIGeeksGroup/EvoVLA) |
+| 2024 | **Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations** | [arXiv 2024.12](https://www.alphaxiv.org/abs/2412.14803) | [github](https://github.com/roboterax/video-prediction-policy) |
+| 2024 | **What Matters in Building Vision-Language-Action Models for Generalist Robots** | [arXiv 2024.12](https://www.alphaxiv.org/abs/2412.14058) | [github](https://github.com/Robot-VLAs/RoboVLMs) |
 | 2024 | **Lift3D Foundation Policy: Lifting 2D Large-Scale Pretrained Models for Robust 3D Robotic Manipulation** | [arXiv 2024.10](https://www.alphaxiv.org/abs/2411.18623) | [github](https://github.com/PKU-HMI-Lab/LIFT3D) |
-| 2024 | 🌟️ **$π_0$: A Vision-Language-Action Flow Model for General Robot Control** | [arXiv 2024.10](https://www.alphaxiv.org/abs/2410.24164) | — |
 | 2024 | **Scaling Robot Policy Learning via Zero-Shot Labeling with Foundation Models** | [arXiv 2024.10](https://www.alphaxiv.org/abs/2410.17772) | — |
 | 2024 | 🌟️ **ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation** | [arXiv 2024.09](https://www.alphaxiv.org/abs/2409.01652) | [github](https://github.com/huangwl18/ReKep) |
-| 2024 | **Robotic Control via Embodied Chain-of-Thought Reasoning** | [arXiv 2024.07](https://www.alphaxiv.org/abs/2407.08693) | [github](https://github.com/MichalZawalski/embodied-CoT) |
-| 2024 | 🌟️ **OpenVLA** | [arXiv 2024.06](https://www.alphaxiv.org/abs/2406.09246) | [github](https://github.com/openvla/openvla) |
+| 2024 | 🌟️ **Robotic Control via Embodied Chain-of-Thought Reasoning** | [arXiv 2024.07](https://www.alphaxiv.org/abs/2407.08693) | [github](https://github.com/MichalZawalski/embodied-CoT) |
+| 2024 | 🌟️ **OpenVLA: An Open-Source Vision-Language-Action Model** | [arXiv 2024.06](https://www.alphaxiv.org/abs/2406.09246) | [OpenVLA](https://github.com/openvla/openvla)<br>[OpenVLAmini](https://github.com/Stanford-ILIAD/openvla-mini) |
 | 2024 | 🌟️ **Octo: An Open-Source Generalist Robot Policy** | [arXiv 2024.05](https://www.alphaxiv.org/abs/2405.12213) | [github](https://github.com/octo-models/octo) |
 | 2024 | **GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping** | [arXiv 2024.03](https://www.alphaxiv.org/abs/2403.09637) | [github](https://github.com/MrSecant/GaussianGrasper) |
+| 2024 | **CoPa: General Robotic Manipulation through Spatial Constraints of Parts with Foundation Models** | [arXiv 2024.03](https://www.alphaxiv.org/abs/2403.08248) | [github](https://github.com/HaoxuHuang/copa) |
+| 2024 | 🌟️ **Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models** | [arXiv 2024.02](https://www.alphaxiv.org/abs/2402.07865) | [github](https://github.com/TRI-ML/prismatic-vlms) |
 | 2024 | 🌟️ **RDT-1B** | [arXiv 2024](https://www.alphaxiv.org/search?q=RDT-1B) | [github](https://github.com/thu-ml/RoboticsDiffusionTransformer) |
 | 2024 | **CogACT** | [arXiv 2024](https://www.alphaxiv.org/search?q=CogACT) | [github](https://github.com/microsoft/CogACT) |
 | 2024 | **SpatialVLA** | [arXiv 2024](https://www.alphaxiv.org/search?q=SpatialVLA) | [github](https://github.com/SpatialVLA/SpatialVLA) |
-| 2023 | **Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation** | [arXiv 2023.08](https://www.alphaxiv.org/abs/2308.07931) | — |
-| 2023 | 🌟️ **RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control** | [arXiv 2023.07](https://www.alphaxiv.org/abs/2307.15818) | [github](https://github.com/google-research/robotics_transformer) |
+| 2023 | 🌟️ **Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation** | [arXiv 2023.12](https://www.alphaxiv.org/abs/2312.13139) | [github](https://github.com/bytedance/GR-1)<br>[Train](https://github.com/EDiRobotics/GR1-Training) |
+| 2023 | 🌟️ **Vision-Language Foundation Models as Effective Robot Imitators** | [arXiv 2023.12](https://www.alphaxiv.org/abs/2311.01378) | [github](https://github.com/RoboFlamingo/RoboFlamingo) |
+| 2023 | **GenSim: Generating Robotic Simulation Tasks via Large Language Models** | [arXiv 2023.10](https://www.alphaxiv.org/abs/2310.01361) | [github](https://github.com/liruiw/GenSim) |
+| 2023 | **Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation** | [arXiv 2023.08](https://www.alphaxiv.org/abs/2308.07931) | [github](https://github.com/f3rm/f3rm) |
+| 2023 | 🌟️ **RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control** | [arXiv 2023.07](https://www.alphaxiv.org/abs/2307.15818) | [github](https://github.com/google-research/robotics_transformer)<br>[github](https://github.com/kyegomez/RT-2) |
+| 2023 | 🌟️ **VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models** | [arXiv 2023.07](https://www.alphaxiv.org/abs/2307.05973) | [github](https://github.com/huangwl18/VoxPoser) |
 | 2023 | **RoboCat: A Self-Improving Generalist Agent for Robotic Manipulation** | [arXiv 2023.06](https://www.alphaxiv.org/abs/2306.11706) | — |
 | 2023 | **A Universal Semantic-Geometric Representation for Robotic Manipulation** | [arXiv 2023.06](https://www.alphaxiv.org/abs/2306.10474) | — |
 | 2023 | **PaLM-E: An Embodied Multimodal Language Model** | [arXiv 2023.03](https://www.alphaxiv.org/abs/2303.03378) | — |
+| 2023 | 🌟️ **Language-Driven Representation Learning for Robotics** | [arXiv 2023.02](https://www.alphaxiv.org/abs/2302.12766) | [github](https://github.com/siddk/voltron-robotics) |
 | 2023 | **RoboCat: A Self-Improving Foundation Agent for Robotic Manipulation** | [arXiv 2023](https://www.alphaxiv.org/search?q=RoboCat%3A+A+Self-Improving+Foundation+Agent+for+Robotic+Manipulation) | — |
 | 2022 | 🌟️ **RT-1: Robotics Transformer for Real-World Control at Scale** | [arXiv 2022.12](https://www.alphaxiv.org/abs/2212.06817) | [github](https://github.com/google-research/robotics_transformer)<br>[Pytorch](https://github.com/lucidrains/robotic-transformer-pytorch) |
+| 2022 | **CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory** | [arXiv 2022.10](https://www.alphaxiv.org/abs/2210.05663) | [github](https://github.com/notmahi/clip-fields) |
 | 2022 | **Do As I Can, Not As I Say: Grounding Language in Robotic Affordances** | [arXiv 2022.04](https://www.alphaxiv.org/abs/2204.01691) | — |
 |  |  |  | [Back to top ↑](#table-of-contents) |
 
@@ -480,7 +517,6 @@
 | 2025 | **GigaBrain-0: A World Model-Powered Vision-Language-Action Model** | [arXiv 2025.10](https://www.alphaxiv.org/abs/2510.19430) | [github](https://github.com/open-gigaai/giga-brain-0) |
 | 2025 | **Ctrl-World: A Controllable Generative World Model for Robot Manipulation** | [arXiv 2025.10](https://www.alphaxiv.org/abs/2510.10125) | [github](https://github.com/Robert-gyj/Ctrl-World) |
 | 2025 | **Video models are zero-shot learners and reasoners** | [arXiv 2025.09](https://www.alphaxiv.org/abs/2509.20328) | — |
-| 2025 | 🌟️ **MolmoAct: Action Reasoning Models that can Reason in Space** | [arXiv 2025.08](https://www.alphaxiv.org/abs/2508.07917) | [github](https://github.com/allenai/molmoact) |
 | 2025 | 🌟️ **Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation** | [arXiv 2025.08](https://www.alphaxiv.org/abs/2508.05635) | [github](https://github.com/AgibotTech/Genie-Envisioner) |
 | 2025 | **ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation** | [arXiv 2025.06](https://www.alphaxiv.org/abs/2506.23126) | — |
 | 2025 | **WorldVLA: Towards Autoregressive Action World Model** | [arXiv 2025.06](https://www.alphaxiv.org/abs/2506.21539) | [github](https://github.com/alibaba-damo-academy/WorldVLA) |
