@@ -122,7 +122,7 @@ https://github.com/InternRobotics/InternManip
 | 2026 | **Robots Acquire Manipulation Skills in Seconds from a Single Human Video** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.20033) | — |
 | 2026 | **NeuralActuator: Neural Actuation Modeling for Robot Dynamics and External Force Perception** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.11734) | — |
 | 2026 | 🌟️ **SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds** | [arXiv 2026.06](https://www.alphaxiv.org/abs/2604.08544) | [github](https://github.com/InternRobotics/SIM1) |
-| 2026 | 🌟️ **Scalable Behavior Cloning with Open Data, Training, and Evaluation** | [arXiv 2026.06](https://www.alphaxiv.org/abs/2606.27375) | [github](https://github.
+| 2026 | 🌟️ **Scalable Behavior Cloning with Open Data, Training, and Evaluation** | [arXiv 2026.06](https://www.alphaxiv.org/abs/2606.27375) | [github](https://github.com/amazon-far/abc) |
 | 2026 | **Learning Dynamic Rope Manipulation Using Task-Level Iterative Learning Control** | [arXiv 2026.02](https://www.alphaxiv.org/abs/2602.21302) | — |
 | 2026 | **DexImit: Learning Bimanual Dexterous Manipulation from Monocular Human Videos** | [arXiv 2026.02](https://www.alphaxiv.org/abs/2602.10105) | — |
 | 2025 | 🌟️ **RL-100: Performant Robotic Manipulation with Real-World Reinforcement Learning** | [arXiv 2025.10](https://www.alphaxiv.org/abs/2510.14830) | — |
