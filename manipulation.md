@@ -48,54 +48,26 @@ https://github.com/InternRobotics/InternManip
 | **Awesome VLA / WAM Datasets & Benchmarks** | — | [github](https://github.com/ziyaow1010/vla-datasets-benchmarks) |
 | **Awesome Robot Learning** | — | [github](https://github.com/RayYoh/Awesome-Robot-Learning) |
 
-### Papers
+### Benchmark
 
 | Year | Title | Paper | github |
 |:----:|-------|-------|--------|
-| Ongoing | **InternDataEngine: Pioneering High-Fidelity Synthetic Data Generator for Robotic Manipulation** | — | [github](https://github.com/InternRobotics/InternDataEngine) |
-| 2026 | **Worlds in One Demo: A Synthetic Data Engine for Learning Open-World Mobile Manipulation** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.13154) | — |
-| 2026 | **PRISM: Personalized Robotic Dataset Generation via Image-based Scene and Motion Synthesis** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.04880) | — |
 | 2026 | **RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.04434) | [github](https://github.com/RoboDojo-Benchmark/RoboDojo) |
 | 2026 | **EVA-Client: A Unified Framework for Deployment, Evaluation, and Data Collection on Real Robots** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.02646) | [github](https://github.com/Noietch/EVA-CLIENT) |
-| 2026 | 🌟️ **SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation** | [arXiv 2026.06](https://www.alphaxiv.org/abs/2606.28276) | — |
-| 2026 | **PGDG: Physically Grounded Data Generation for Robust Bimanual Policy Learning from a Single Demonstration** | [arXiv 2026.05](https://www.alphaxiv.org/abs/2605.21710) | — |
 | 2026 | **RoboLab: A High-Fidelity Simulation Benchmark for Analysis of Task Generalist Policies** | [arXiv 2026.04](https://www.alphaxiv.org/abs/2604.09860) | [github](https://github.com/NVlabs/RoboLab) |
-| 2026 | 🌟️ **SoftMimicGen: A Data Generation System for Scalable Robot Learning in Deformable Object Manipulation** | [arXiv 2026.03](https://www.alphaxiv.org/abs/2603.25725) | [github](https://github.com/NVlabs/SoftMimicGen) |
-| 2026 | **MolmoSpaces: A Large-Scale Open Ecosystem for Robot Navigation and Manipulation** | [arXiv 2026.02](https://www.alphaxiv.org/abs/2602.11337) | [github](https://github.com/allenai/molmospaces) |
 | 2026 | **WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models** | [arXiv 2026.02](https://www.alphaxiv.org/abs/2602.08971) | [github](https://github.com/worldarena/WorldArena) |
-| 2026 | **RoboMIND 2.0** | [arXiv 2025.12](https://www.alphaxiv.org/abs/2512.24653) | [github](https://github.com/x-humanoid-robomind/RoboMIND-dataset-utils) |
+| 2026 | **MolmoSpaces: A Large-Scale Open Ecosystem for Robot Navigation and Manipulation** | [arXiv 2026.02](https://www.alphaxiv.org/abs/2602.11337) | [github](https://github.com/allenai/molmospaces) |
 | 2025 | **REALM: A Real-to-Sim Validated Benchmark for Generalization in Robotic Manipulation** | [arXiv 2025.12](https://www.alphaxiv.org/abs/2512.19562) | [github](https://github.com/martin-sedlacek/REALM) |
 | 2025 | **RoboChallenge: Large-scale Real-robot Evaluation of Embodied Policies** | [arXiv 2025.10](https://www.alphaxiv.org/abs/2510.17950) | [github](https://github.com/RoboChallenge/RoboChallengeInference) |
-| 2025 | 🌟️ **GraspGen: A Diffusion-based Framework for 6-DOF Grasping with On-Generator Training** | [arXiv 2025.07](https://www.alphaxiv.org/abs/2507.13097) | [GraspGen](https://github.com/NVlabs/GraspGen)<br>[GraspGenX](https://github.com/NVlabs/GraspGenX) |
-| 2025 | **What Matters in Learning from Large-Scale Datasets for Robot Manipulation** | [arXiv 2025.07](https://www.alphaxiv.org/abs/2506.13536) | [github](https://github.com/GaTech-RL2/mimiclabs) |
-| 2025 | 🌟️ **RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation** | [arXiv 2025.06](https://www.alphaxiv.org/abs/2506.18088) | [github](https://github.com/RoboTwin-Platform/RoboTwin) |
-| 2025 | **GENMANIP: LLM-driven Simulation for Generalizable Instruction-Following Manipulation** | [arXiv 2025.06](https://www.alphaxiv.org/abs/2506.10966) | [github](https://github.com/InternRobotics/GenManip) |
-| 2025 | **Steerable Scene Generation with Post Training and Inference-Time Search** | [arXiv 2025.05](https://www.alphaxiv.org/abs/2505.04831) | — |
 | 2025 | 🌟️ **RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning** | [arXiv 2025.04](https://www.alphaxiv.org/abs/2504.18904) | [github](https://github.com/RoboVerseOrg/RoboVerse) |
-| 2025 | **Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation** | [arXiv 2025.04](https://www.alphaxiv.org/abs/2504.13175) | [github](https://github.com/InternRobotics/RoboSplat) |
 | 2025 | 🌟️ **AgiBot World Colosseo: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems** | [arXiv 2025.03](https://www.alphaxiv.org/abs/2503.06669) | [github](https://github.com/OpenDriveLab/AgiBot-World) |
-| 2025 | **Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization** | [arXiv 2025.02](https://www.alphaxiv.org/abs/2502.20382) | — |
-| 2025 | **RoboInter** | [arXiv 2025](https://www.alphaxiv.org/search?q=RoboInter) | [github](https://github.com/InternRobotics/RoboInter) |
-| 2025 | **VideoMimic: Visual Imitation Enables Contextual Humanoid Control** | [arXiv 2025](https://www.alphaxiv.org/search?q=VideoMimic%3A+Visual+Imitation+Enables+Contextual+Humanoid+Control) | [github](https://github.com/hongsukchoi/VideoMimic) |
 | 2024 | **VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Tasks** | [arXiv 2024.12](https://www.alphaxiv.org/abs/2412.18194) | [github](https://github.com/OpenMOSS/VLABench) |
-| 2024 | **RoboMIND: A Dataset for Large-Scale Multi-Embodiment Robot Manipulation** | [arXiv 2024.12](https://www.alphaxiv.org/abs/2412.13877) | [github](https://github.com/x-humanoid-robomind/RoboMIND-dataset-utils) |
-| 2024 | 🌟️ **DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation** | [arXiv 2024.10](https://www.alphaxiv.org/abs/2410.24185) | [github](https://github.com/NVlabs/dexmimicgen) |
-| 2024 | **SkillMimicGen: Automated Demonstration Generation for Efficient Skill Learning and Deployment** | [arXiv 2024.10](https://www.alphaxiv.org/abs/2410.18907) | — |
-| 2024 | **Automated Creation of Digital Cousins for Robust Policy Learning** | [arXiv 2024.10](https://www.alphaxiv.org/abs/2410.07408) | — |
 | 2024 | 🌟️ **RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots** | [arXiv 2024.06](https://www.alphaxiv.org/abs/2406.02523) | [github](https://github.com/robocasa/robocasa) |
 | 2024 | 🌟️ **Evaluating Real-World Robot Manipulation Policies in Simulation (SimplerEnv)** | [arXiv 2024.05](https://www.alphaxiv.org/abs/2405.05941) | [github](https://github.com/simpler-env/SimplerEnv) |
-| 2024 | **DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset** | [arXiv 2024.03](https://www.alphaxiv.org/abs/2403.12945) | [github](https://github.com/droid-dataset/droid)<br>[Policy Learning](https://github.com/droid-dataset/droid_policy_learning) |
 | 2024 | 🌟️ **BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation** | [arXiv 2024.03](https://www.alphaxiv.org/abs/2403.09227) | [github](https://github.com/StanfordVL/BEHAVIOR-1K) |
-| 2024 | 🌟️ **MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations** | [arXiv 2023.10](https://www.alphaxiv.org/abs/2310.17596) | [github](https://github.com/NVlabs/mimicgen) |
-| 2023 | **RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation** | [arXiv 2023.11](https://www.alphaxiv.org/abs/2311.01455) | [github](https://github.com/Genesis-Embodied-AI/RoboGen) |
-| 2023 | 🌟️ **Open X-Embodiment: Robotic Learning Datasets and RT-X Models** | [arXiv 2023.10](https://www.alphaxiv.org/abs/2310.08864) | [github](https://github.com/google-deepmind/open_x_embodiment)<br>[Train](https://github.com/kyegomez/RT-X) |
 | 2023 | 🌟️ **LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning** | [arXiv 2023.06](https://www.alphaxiv.org/abs/2306.03310) | [github](https://github.com/Lifelong-Robot-Learning/LIBERO) |
-| 2023 | **RH20T: A Comprehensive Robotic Dataset for Learning Diverse Skills in One-Shot** | [arXiv 2023](https://www.alphaxiv.org/search?q=RH20T%3A+A+Comprehensive+Robotic+Dataset+for+Learning+Diverse+Skills+in+One-Shot) | [github](https://github.com/rh20t/rh20t_api) |
-| 2023 | **RoboSet: A Diverse Dataset for Robot Learning** | [arXiv 2023](https://www.alphaxiv.org/search?q=RoboSet%3A+A+Diverse+Dataset+for+Robot+Learning) | — |
-| 2023 | **RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning** | [arXiv 2023](https://www.alphaxiv.org/search?q=RoboGen%3A+Towards+Unleashing+Infinite+Data+for+Automated+Robot+Learning) | [github](https://github.com/Genesis-Embodied-AI/RoboGen) |
 | 2021 | 🌟️ **CALVIN - A benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks** | [arXiv 2021.12](https://www.alphaxiv.org/abs/2112.03227) | [github](https://github.com/mees/calvin) |
 | 2021 | 🌟️ **ManiSkill: Generalizable Manipulation Skill Benchmark with Large-Scale Demonstrations** | [arXiv 2021.07](https://www.alphaxiv.org/abs/2107.14483) | [github](https://github.com/mani-skill/ManiSkill) |
-| 2021 | **BridgeData / BridgeData V2** | [arXiv 2021](https://www.alphaxiv.org/search?q=BridgeData+%2F+BridgeData+V2) | [github](https://github.com/rail-berkeley/bridge_data_v2) |
 | 2020 | 🌟️ **iGibson 1.0: A Simulation Environment for Interactive Tasks in Large Realistic Scenes** | [arXiv 2020.12](https://www.alphaxiv.org/abs/2012.02924) | [github](https://github.com/StanfordVL/iGibson) |
 | 2020 | 🌟️ **robosuite: A Modular Simulation Framework and Benchmark for Robot Learning** | [arXiv 2020.09](https://www.alphaxiv.org/abs/2009.12293) | [github](https://github.com/ARISE-Initiative/robosuite) |
 | 2020 | 🌟️ **SAPIEN: A SimulAted Part-based Interactive ENvironment** | [arXiv 2020.03](https://www.alphaxiv.org/abs/2003.08515) | [github](https://github.com/haosulab/SAPIEN) |
@@ -103,6 +75,45 @@ https://github.com/InternRobotics/InternManip
 | 2019 | 🌟️ **RLBench: The Robot Learning Benchmark & Learning Environment** | [arXiv 2019.09](https://www.alphaxiv.org/abs/1909.12271) | [github](https://github.com/stepjam/RLBench) |
 | 2019 | 🌟️ **Habitat: A Platform for Embodied AI Research** | [arXiv 2019.04](https://www.alphaxiv.org/abs/1904.01201) | [github lab](https://github.com/facebookresearch/habitat-lab)<br>[github sim](https://github.com/facebookresearch/habitat-sim) |
 |  |  |  | [Back to top ↑](#table-of-contents) |
+
+### Dataset
+
+| Year | Title | Paper | github |
+|:----:|-------|-------|--------|
+| 2026 | **RoboMIND 2.0** | [arXiv 2025.12](https://www.alphaxiv.org/abs/2512.24653) | [github](https://github.com/x-humanoid-robomind/RoboMIND-dataset-utils) |
+| 2025 | **What Matters in Learning from Large-Scale Datasets for Robot Manipulation** | [arXiv 2025.07](https://www.alphaxiv.org/abs/2506.13536) | [github](https://github.com/GaTech-RL2/mimiclabs) |
+| 2025 | **RoboInter** | [arXiv 2025](https://www.alphaxiv.org/search?q=RoboInter) | [github](https://github.com/InternRobotics/RoboInter) |
+| 2024 | **RoboMIND: A Dataset for Large-Scale Multi-Embodiment Robot Manipulation** | [arXiv 2024.12](https://www.alphaxiv.org/abs/2412.13877) | [github](https://github.com/x-humanoid-robomind/RoboMIND-dataset-utils) |
+| 2024 | **DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset** | [arXiv 2024.03](https://www.alphaxiv.org/abs/2403.12945) | [github](https://github.com/droid-dataset/droid)<br>[Policy Learning](https://github.com/droid-dataset/droid_policy_learning) |
+| 2023 | 🌟️ **Open X-Embodiment: Robotic Learning Datasets and RT-X Models** | [arXiv 2023.10](https://www.alphaxiv.org/abs/2310.08864) | [github](https://github.com/google-deepmind/open_x_embodiment)<br>[Train](https://github.com/kyegomez/RT-X) |
+| 2023 | **RH20T: A Comprehensive Robotic Dataset for Learning Diverse Skills in One-Shot** | [arXiv 2023](https://www.alphaxiv.org/search?q=RH20T%3A+A+Comprehensive+Robotic+Dataset+for+Learning+Diverse+Skills+in+One-Shot) | [github](https://github.com/rh20t/rh20t_api) |
+| 2023 | **RoboSet: A Diverse Dataset for Robot Learning** | [arXiv 2023](https://www.alphaxiv.org/search?q=RoboSet%3A+A+Diverse+Dataset+for+Robot+Learning) | — |
+| 2021 | 🌟️🌟️ **What Matters in Learning from Offline Human Demonstrations for Robot Manipulation** | [arXiv 2021.08](https://www.alphaxiv.org/abs/2108.03298) | [github](https://github.com/ARISE-Initiative/robomimic) |
+| 2021 | **BridgeData / BridgeData V2** | [arXiv 2021](https://www.alphaxiv.org/search?q=BridgeData+%2F+BridgeData+V2) | [github](https://github.com/rail-berkeley/bridge_data_v2) |
+
+### Data Generation
+
+| Year | Title | Paper | github |
+|:----:|-------|-------|--------|
+| Ongoing | **InternDataEngine: Pioneering High-Fidelity Synthetic Data Generator for Robotic Manipulation** | — | [github](https://github.com/InternRobotics/InternDataEngine) |
+| 2026 | **Worlds in One Demo: A Synthetic Data Engine for Learning Open-World Mobile Manipulation** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.13154) | — |
+| 2026 | **PRISM: Personalized Robotic Dataset Generation via Image-based Scene and Motion Synthesis** | [arXiv 2026.07](https://www.alphaxiv.org/abs/2607.04880) | — |
+| 2026 | 🌟️ **SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation** | [arXiv 2026.06](https://www.alphaxiv.org/abs/2606.28276) | — |
+| 2026 | **PGDG: Physically Grounded Data Generation for Robust Bimanual Policy Learning from a Single Demonstration** | [arXiv 2026.05](https://www.alphaxiv.org/abs/2605.21710) | — |
+| 2026 | 🌟️ **SoftMimicGen: A Data Generation System for Scalable Robot Learning in Deformable Object Manipulation** | [arXiv 2026.03](https://www.alphaxiv.org/abs/2603.25725) | [github](https://github.com/NVlabs/SoftMimicGen) |
+| 2025 | 🌟️ **GraspGen: A Diffusion-based Framework for 6-DOF Grasping with On-Generator Training** | [arXiv 2025.07](https://www.alphaxiv.org/abs/2507.13097) | [GraspGen](https://github.com/NVlabs/GraspGen)<br>[GraspGenX](https://github.com/NVlabs/GraspGenX) |
+| 2025 | 🌟️ **RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation** | [arXiv 2025.06](https://www.alphaxiv.org/abs/2506.18088) | [github](https://github.com/RoboTwin-Platform/RoboTwin) |
+| 2025 | **GENMANIP: LLM-driven Simulation for Generalizable Instruction-Following Manipulation** | [arXiv 2025.06](https://www.alphaxiv.org/abs/2506.10966) | [github](https://github.com/InternRobotics/GenManip) |
+| 2025 | **Steerable Scene Generation with Post Training and Inference-Time Search** | [arXiv 2025.05](https://www.alphaxiv.org/abs/2505.04831) | — |
+| 2025 | **Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation** | [arXiv 2025.04](https://www.alphaxiv.org/abs/2504.13175) | [github](https://github.com/InternRobotics/RoboSplat) |
+| 2025 | **Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization** | [arXiv 2025.02](https://www.alphaxiv.org/abs/2502.20382) | — |
+| 2025 | **VideoMimic: Visual Imitation Enables Contextual Humanoid Control** | [arXiv 2025](https://www.alphaxiv.org/search?q=VideoMimic%3A+Visual+Imitation+Enables+Contextual+Humanoid+Control) | [github](https://github.com/hongsukchoi/VideoMimic) |
+| 2024 | 🌟️ **DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation** | [arXiv 2024.10](https://www.alphaxiv.org/abs/2410.24185) | [github](https://github.com/NVlabs/dexmimicgen) |
+| 2024 | **SkillMimicGen: Automated Demonstration Generation for Efficient Skill Learning and Deployment** | [arXiv 2024.10](https://www.alphaxiv.org/abs/2410.18907) | — |
+| 2024 | **Automated Creation of Digital Cousins for Robust Policy Learning** | [arXiv 2024.10](https://www.alphaxiv.org/abs/2410.07408) | — |
+| 2024 | 🌟️ **MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations** | [arXiv 2023.10](https://www.alphaxiv.org/abs/2310.17596) | [github](https://github.com/NVlabs/mimicgen) |
+| 2023 | **RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation** | [arXiv 2023.11](https://www.alphaxiv.org/abs/2311.01455) | [github](https://github.com/Genesis-Embodied-AI/RoboGen) |
+| 2023 | **RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning** | [arXiv 2023](https://www.alphaxiv.org/search?q=RoboGen%3A+Towards+Unleashing+Infinite+Data+for+Automated+Robot+Learning) | [github](https://github.com/Genesis-Embodied-AI/RoboGen) |
 
 ## 1.3 Learning-Based Manipulation — RL / IL
 
